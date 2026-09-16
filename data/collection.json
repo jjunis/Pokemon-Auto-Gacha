@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T01:54:33.904Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T03:25:50.563Z",
   "lastPull": {
-    "id": 958,
-    "name": "tinkatuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+    "id": 31,
+    "name": "nidoqueen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
     "types": [
-      "fairy",
-      "steel"
+      "poison",
+      "ground"
     ],
-    "totalStats": 380,
-    "grade": "N",
-    "pulledAt": "2026-09-16T01:54:33.904Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T03:25:50.563Z"
   },
   "pulls": [
+    {
+      "id": 31,
+      "name": "nidoqueen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T03:25:50.563Z"
+    },
     {
       "id": 958,
       "name": "tinkatuff",
@@ -63,6 +75,22 @@
     }
   ],
   "pokemon": {
+    "31": {
+      "id": 31,
+      "name": "nidoqueen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T03:25:50.563Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T03:25:50.563Z",
+      "lastPulledAt": "2026-09-16T03:25:50.563Z"
+    },
     "90": {
       "id": 90,
       "name": "shellder",
