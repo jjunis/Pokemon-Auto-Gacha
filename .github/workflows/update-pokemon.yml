@@ -1,0 +1,66 @@
+name: Pokemon Auto Gacha
+
+# 수동 실행 버튼만 먼저 제공합니다.
+# TODO-1: 10분마다 실행되는 schedule을 추가하세요.
+on:
+  workflow_dispatch:
+  schedule:
+    - corn: "*/10 * * * *"    #10분 간격으로 예약 한다.
+
+# 현재는 코드를 읽을 수만 있습니다.
+# TODO-2: 자동 커밋과 Pages 배포에 필요한 권한으로 완성하세요.
+permissions:
+  contents: write             #JSON과 README를 저장소에 커밋한다.
+  page : write                #Pages에 사이트를 배포
+  id-token : write            #Pages베포 작업을 인증 한다.
+
+concurrency:
+  group: pokemon-gacha
+  cancel-in-progress: false
+
+jobs:
+  pull-and-deploy:
+    # TODO-3: 아래 Runner 설정의 의미를 찾아 설명하세요. {Ubuntu 컴퓨터에서 Job를 실행한다는 뜻이다.}
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      # 아래 echo 명령은 Workflow 파일을 유효하게 유지하기 위한 임시 단계입니다.
+      # TODO-4: 이 단계를 저장소 코드를 가져오는 checkout 단계로 교체하세요.
+      - name: 저장소 코드 가져오기
+        run: actions/checkout@v4
+
+      # TODO-5: PokéAPI 수집 스크립트를 실행하는 단계를 여기에 추가하세요.
+      - name: 포켓몬 한 마리 뽑기
+        run: node scripts/pull-pokemon.mjs
+
+      # TODO-6: 변경된 JSON과 README를 자동 커밋하는 단계를 여기에 추가하세요.
+      - name: 변경된 데이터 자동 커밋
+        run: |
+          git confing user.name "github-actions[bot]"
+          git confing user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/collection.json README.md
+          git commit -m "포켓몬 데이터 자동 갱신"
+          git push
+
+      # TODO-7: 배포 폴더 준비, Pages 설정, 업로드, 배포 단계를 여기에 추가하세요.
+      - name: 배포 폴더 준비
+        run: |
+          mkdir _site
+          cp index.html styles.css app.js _site/
+          cp -r data _site/data
+
+      - name: Github Pages 설정
+        uses: actions/configure-pages@v5
+
+      - name: 사이트 파일 업로드
+        uses: action/upload-pages-artifact@v4
+        with:
+          path: "_site"
+
+      - name: Github Pages 배포
+        id: deployment
+        uses: actions/deploy-pages@v4

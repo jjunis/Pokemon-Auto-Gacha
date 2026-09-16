@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="GitHub Actions와 PokéAPI로 자동 갱신되는 포켓몬 가챠 도감">
+  <title>포켓몬 자동 가챠 연구소</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">GitHub Actions × PokéAPI</p>
+    <h1>포켓몬 자동 가챠 연구소</h1>
+    <p>GitHub의 가상 컴퓨터가 10분마다 포켓몬을 한 마리씩 수집합니다.</p>
+    <div class="updated" id="updatedAt">데이터를 불러오는 중…</div>
+  </header>
+
+  <main class="layout">
+    <section class="panel latest-panel" aria-labelledby="latestTitle">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">LATEST PULL</p>
+          <h2 id="latestTitle">최근 뽑기</h2>
+        </div>
+        <span class="grade-badge" id="latestGrade">?</span>
+      </div>
+      <div id="latestCard" class="latest-card loading">데이터를 기다리는 중입니다.</div>
+    </section>
+
+    <section class="stats-grid" aria-label="컬렉션 통계">
+      <article class="stat-card"><span>총 뽑기</span><strong id="totalPulls">0</strong></article>
+      <article class="stat-card"><span>보유 종류</span><strong id="uniqueCount">0</strong></article>
+      <article class="stat-card"><span>도감 완성률</span><strong id="completionRate">0%</strong></article>
+      <article class="stat-card"><span>SSR 보유</span><strong id="ssrCount">0</strong></article>
+    </section>
+
+    <section class="panel" aria-labelledby="recordTitle">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">RECORDS</p>
+          <h2 id="recordTitle">컬렉션 기록</h2>
+        </div>
+      </div>
+      <div class="records" id="records"></div>
+    </section>
+
+    <section class="panel" aria-labelledby="typeTitle">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">TYPE PROGRESS</p>
+          <h2 id="typeTitle">타입별 도감</h2>
+        </div>
+      </div>
+      <div class="type-grid" id="typeProgress"></div>
+    </section>
+
+    <section class="panel" aria-labelledby="historyTitle">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">RECENT 10</p>
+          <h2 id="historyTitle">최근 뽑기 기록</h2>
+        </div>
+      </div>
+      <ol class="history-list" id="recentPulls"></ol>
+    </section>
+
+    <section class="panel collection-panel" aria-labelledby="collectionTitle">
+      <div class="section-heading collection-heading">
+        <div>
+          <p class="section-kicker">COLLECTION</p>
+          <h2 id="collectionTitle">보유 포켓몬</h2>
+        </div>
+        <label class="search-box">
+          <span class="sr-only">포켓몬 검색</span>
+          <input id="searchInput" type="search" placeholder="이름 또는 타입 검색">
+        </label>
+      </div>
+      <div class="collection-grid" id="collectionGrid"></div>
+    </section>
+  </main>
+
+  <template id="pokemonCardTemplate">
+    <article class="pokemon-card">
+      <span class="card-grade"></span>
+      <img class="card-image" alt="">
+      <h3 class="card-name"></h3>
+      <p class="card-types"></p>
+      <dl>
+        <div><dt>능력치</dt><dd class="card-stats"></dd></div>
+        <div><dt>획득</dt><dd class="card-count"></dd></div>
+        <div><dt>합성</dt><dd class="card-fusion"></dd></div>
+      </dl>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
