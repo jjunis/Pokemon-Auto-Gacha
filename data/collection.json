@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-16T11:57:52.663Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-16T16:42:14.179Z",
   "lastPull": {
-    "id": 379,
-    "name": "registeel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+    "id": 760,
+    "name": "bewear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
     "types": [
-      "steel"
+      "normal",
+      "fighting"
     ],
-    "totalStats": 580,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-16T11:57:52.663Z"
+    "pulledAt": "2026-09-16T16:42:14.179Z"
   },
   "pulls": [
+    {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T16:42:14.179Z"
+    },
     {
       "id": 379,
       "name": "registeel",
@@ -241,6 +254,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:18.370Z",
       "lastPulledAt": "2026-09-16T01:51:18.370Z"
+    },
+    "760": {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T16:42:14.179Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T16:42:14.179Z",
+      "lastPulledAt": "2026-09-16T16:42:14.179Z"
     },
     "958": {
       "id": 958,
