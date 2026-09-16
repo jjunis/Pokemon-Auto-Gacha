@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 3,
-  "updatedAt": "2026-09-16T01:51:18.370Z",
+  "totalPulls": 4,
+  "updatedAt": "2026-09-16T01:54:33.904Z",
   "lastPull": {
-    "id": 685,
-    "name": "slurpuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+    "id": 958,
+    "name": "tinkatuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
     "types": [
-      "fairy"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:51:18.370Z"
+    "totalStats": 380,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:54:33.904Z"
   },
   "pulls": [
+    {
+      "id": 958,
+      "name": "tinkatuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:54:33.904Z"
+    },
     {
       "id": 685,
       "name": "slurpuff",
@@ -95,6 +108,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:18.370Z",
       "lastPulledAt": "2026-09-16T01:51:18.370Z"
+    },
+    "958": {
+      "id": 958,
+      "name": "tinkatuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:54:33.904Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:54:33.904Z",
+      "lastPulledAt": "2026-09-16T01:54:33.904Z"
     }
   },
   "typeTotals": {
