@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-16T19:45:00.200Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-16T22:23:57.323Z",
   "lastPull": {
-    "id": 566,
-    "name": "archen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+    "id": 475,
+    "name": "gallade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
     "types": [
-      "rock",
-      "flying"
+      "psychic",
+      "fighting"
     ],
-    "totalStats": 401,
-    "grade": "R",
-    "pulledAt": "2026-09-16T19:45:00.200Z"
+    "totalStats": 518,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T22:23:57.323Z"
   },
   "pulls": [
+    {
+      "id": 475,
+      "name": "gallade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T22:23:57.323Z"
+    },
     {
       "id": 566,
       "name": "archen",
@@ -118,17 +130,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-16T01:51:18.370Z"
-    },
-    {
-      "id": 90,
-      "name": "shellder",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:47:50.303Z"
     }
   ],
   "pokemon": {
@@ -209,6 +210,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:34:13.846Z",
       "lastPulledAt": "2026-09-16T01:34:13.846Z"
+    },
+    "475": {
+      "id": 475,
+      "name": "gallade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T22:23:57.323Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T22:23:57.323Z",
+      "lastPulledAt": "2026-09-16T22:23:57.323Z"
     },
     "548": {
       "id": 548,
