@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 2,
-  "updatedAt": "2026-09-16T01:47:50.303Z",
+  "totalPulls": 3,
+  "updatedAt": "2026-09-16T01:51:18.370Z",
   "lastPull": {
-    "id": 90,
-    "name": "shellder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "id": 685,
+    "name": "slurpuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
     "types": [
-      "water"
+      "fairy"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-16T01:47:50.303Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-16T01:51:18.370Z"
   },
   "pulls": [
+    {
+      "id": 685,
+      "name": "slurpuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:51:18.370Z"
+    },
     {
       "id": 90,
       "name": "shellder",
@@ -69,6 +80,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:34:13.846Z",
       "lastPulledAt": "2026-09-16T01:34:13.846Z"
+    },
+    "685": {
+      "id": 685,
+      "name": "slurpuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:51:18.370Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:51:18.370Z",
+      "lastPulledAt": "2026-09-16T01:51:18.370Z"
     }
   },
   "typeTotals": {
