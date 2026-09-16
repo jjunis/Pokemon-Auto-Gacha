@@ -11,7 +11,7 @@ const pokemonId = randomInt(1, MAX_POKEMON_ID);
 
 // TODO-API-1: PokéAPI 주소에 무작위 pokemonId를 넣고 fetch로 요청하세요.
 // 정답 예시는 Notion 수업 자료에 있습니다.
-const response = await fetch(`https://pokeapi.co/api/v2/pokemon${pokemonId}`);
+const response = await fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonId}`);
 if (!response.ok) throw new Error(`PokéAPI 호출 실패: HTTP ${response.status}`);
 
 // TODO-API-2: HTTP 응답 본문을 JavaScript 객체로 변환하세요.
