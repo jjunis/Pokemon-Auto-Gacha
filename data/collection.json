@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:34:13.846Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T01:47:50.303Z",
   "lastPull": {
-    "id": 407,
-    "name": "roserade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+    "id": 90,
+    "name": "shellder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
     "types": [
-      "grass",
-      "poison"
+      "water"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T01:34:13.846Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:47:50.303Z"
   },
   "pulls": [
+    {
+      "id": 90,
+      "name": "shellder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:47:50.303Z"
+    },
     {
       "id": 407,
       "name": "roserade",
@@ -29,6 +39,21 @@
     }
   ],
   "pokemon": {
+    "90": {
+      "id": 90,
+      "name": "shellder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:47:50.303Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:47:50.303Z",
+      "lastPulledAt": "2026-09-16T01:47:50.303Z"
+    },
     "407": {
       "id": 407,
       "name": "roserade",
