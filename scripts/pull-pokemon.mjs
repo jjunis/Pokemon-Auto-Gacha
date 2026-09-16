@@ -58,7 +58,7 @@ collection.pulls = collection.pulls.slice(0, 10);
 
 // TODO-API-3: collection 객체를 JSON 문자열로 변환해 DATA_PATH에 저장하세요.
 // 아래 오류 발생 코드를 writeFile 코드로 교체합니다.
-await writeFile(DATA_PATH, `${JSON.stringfy(collection, null, 2)}\n` , "utf8");
+await writeFile(DATA_PATH, `${JSON.stringify(collection, null, 2)}\n` ,"utf8");
 
 await updateReadme(collection);
 
