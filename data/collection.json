@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 10,
-  "updatedAt": "2026-09-16T16:42:14.179Z",
+  "totalPulls": 11,
+  "updatedAt": "2026-09-16T19:45:00.200Z",
   "lastPull": {
-    "id": 760,
-    "name": "bewear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "id": 566,
+    "name": "archen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
     "types": [
-      "normal",
-      "fighting"
+      "rock",
+      "flying"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T16:42:14.179Z"
+    "totalStats": 401,
+    "grade": "R",
+    "pulledAt": "2026-09-16T19:45:00.200Z"
   },
   "pulls": [
+    {
+      "id": 566,
+      "name": "archen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 401,
+      "grade": "R",
+      "pulledAt": "2026-09-16T19:45:00.200Z"
+    },
     {
       "id": 760,
       "name": "bewear",
@@ -117,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-16T01:47:50.303Z"
-    },
-    {
-      "id": 407,
-      "name": "roserade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T01:34:13.846Z"
     }
   ],
   "pokemon": {
@@ -224,6 +224,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:34:53.814Z",
       "lastPulledAt": "2026-09-16T03:34:53.814Z"
+    },
+    "566": {
+      "id": 566,
+      "name": "archen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 401,
+      "grade": "R",
+      "pulledAt": "2026-09-16T19:45:00.200Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T19:45:00.200Z",
+      "lastPulledAt": "2026-09-16T19:45:00.200Z"
     },
     "575": {
       "id": 575,
