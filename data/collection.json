@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-16T06:27:52.582Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-16T11:57:52.663Z",
   "lastPull": {
-    "id": 575,
-    "name": "gothorita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "id": 379,
+    "name": "registeel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
     "types": [
-      "psychic"
+      "steel"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-09-16T06:27:52.582Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T11:57:52.663Z"
   },
   "pulls": [
+    {
+      "id": 379,
+      "name": "registeel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T11:57:52.663Z"
+    },
     {
       "id": 575,
       "name": "gothorita",
@@ -154,6 +165,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:39:19.198Z",
       "lastPulledAt": "2026-09-16T03:39:19.198Z"
+    },
+    "379": {
+      "id": 379,
+      "name": "registeel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T11:57:52.663Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T11:57:52.663Z",
+      "lastPulledAt": "2026-09-16T11:57:52.663Z"
     },
     "407": {
       "id": 407,
