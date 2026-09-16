@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 6,
-  "updatedAt": "2026-09-16T03:34:53.814Z",
+  "totalPulls": 7,
+  "updatedAt": "2026-09-16T03:39:19.198Z",
   "lastPull": {
-    "id": 548,
-    "name": "petilil",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+    "id": 188,
+    "name": "skiploom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
     "types": [
-      "grass"
+      "grass",
+      "flying"
     ],
-    "totalStats": 280,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-09-16T03:34:53.814Z"
+    "pulledAt": "2026-09-16T03:39:19.198Z"
   },
   "pulls": [
+    {
+      "id": 188,
+      "name": "skiploom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-16T03:39:19.198Z"
+    },
     {
       "id": 548,
       "name": "petilil",
@@ -115,6 +128,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:50.303Z",
       "lastPulledAt": "2026-09-16T01:47:50.303Z"
+    },
+    "188": {
+      "id": 188,
+      "name": "skiploom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-16T03:39:19.198Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T03:39:19.198Z",
+      "lastPulledAt": "2026-09-16T03:39:19.198Z"
     },
     "407": {
       "id": 407,
