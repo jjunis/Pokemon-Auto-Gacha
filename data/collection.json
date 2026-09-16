@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-16T03:39:19.198Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-16T06:27:52.582Z",
   "lastPull": {
-    "id": 188,
-    "name": "skiploom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "id": 575,
+    "name": "gothorita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
     "types": [
-      "grass",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 340,
+    "totalStats": 390,
     "grade": "N",
-    "pulledAt": "2026-09-16T03:39:19.198Z"
+    "pulledAt": "2026-09-16T06:27:52.582Z"
   },
   "pulls": [
+    {
+      "id": 575,
+      "name": "gothorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-16T06:27:52.582Z"
+    },
     {
       "id": 188,
       "name": "skiploom",
@@ -175,6 +185,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:34:53.814Z",
       "lastPulledAt": "2026-09-16T03:34:53.814Z"
+    },
+    "575": {
+      "id": 575,
+      "name": "gothorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-16T06:27:52.582Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T06:27:52.582Z",
+      "lastPulledAt": "2026-09-16T06:27:52.582Z"
     },
     "685": {
       "id": 685,
