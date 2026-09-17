@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 14,
-  "updatedAt": "2026-09-17T05:31:31.608Z",
+  "totalPulls": 15,
+  "updatedAt": "2026-09-17T10:24:45.445Z",
   "lastPull": {
-    "id": 243,
-    "name": "raikou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "id": 934,
+    "name": "garganacl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
     "types": [
-      "electric"
+      "rock"
     ],
-    "totalStats": 580,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-17T05:31:31.608Z"
+    "pulledAt": "2026-09-17T10:24:45.445Z"
   },
   "pulls": [
+    {
+      "id": 934,
+      "name": "garganacl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T10:24:45.445Z"
+    },
     {
       "id": 243,
       "name": "raikou",
@@ -117,18 +128,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-09-16T03:34:53.814Z"
-    },
-    {
-      "id": 31,
-      "name": "nidoqueen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T03:25:50.563Z"
     }
   ],
   "pokemon": {
@@ -333,6 +332,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:42:14.179Z",
       "lastPulledAt": "2026-09-16T16:42:14.179Z"
+    },
+    "934": {
+      "id": 934,
+      "name": "garganacl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T10:24:45.445Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T10:24:45.445Z",
+      "lastPulledAt": "2026-09-17T10:24:45.445Z"
     },
     "958": {
       "id": 958,
