@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 15,
-  "updatedAt": "2026-09-17T10:24:45.445Z",
+  "totalPulls": 16,
+  "updatedAt": "2026-09-17T15:11:28.763Z",
   "lastPull": {
-    "id": 934,
-    "name": "garganacl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+    "id": 925,
+    "name": "maushold-family-of-four",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
     "types": [
-      "rock"
+      "normal"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T10:24:45.445Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-09-17T15:11:28.763Z"
   },
   "pulls": [
+    {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-17T15:11:28.763Z"
+    },
     {
       "id": 934,
       "name": "garganacl",
@@ -117,17 +128,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-09-16T03:39:19.198Z"
-    },
-    {
-      "id": 548,
-      "name": "petilil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-09-16T03:34:53.814Z"
     }
   ],
   "pokemon": {
@@ -332,6 +332,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:42:14.179Z",
       "lastPulledAt": "2026-09-16T16:42:14.179Z"
+    },
+    "925": {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-17T15:11:28.763Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T15:11:28.763Z",
+      "lastPulledAt": "2026-09-17T15:11:28.763Z"
     },
     "934": {
       "id": 934,
