@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 13,
-  "updatedAt": "2026-09-17T00:47:06.109Z",
+  "totalPulls": 14,
+  "updatedAt": "2026-09-17T05:31:31.608Z",
   "lastPull": {
-    "id": 559,
-    "name": "scraggy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "id": 243,
+    "name": "raikou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
     "types": [
-      "dark",
-      "fighting"
+      "electric"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-09-17T00:47:06.109Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-09-17T05:31:31.608Z"
   },
   "pulls": [
+    {
+      "id": 243,
+      "name": "raikou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T05:31:31.608Z"
+    },
     {
       "id": 559,
       "name": "scraggy",
@@ -119,18 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-16T03:25:50.563Z"
-    },
-    {
-      "id": 958,
-      "name": "tinkatuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:54:33.904Z"
     }
   ],
   "pokemon": {
@@ -180,6 +178,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:39:19.198Z",
       "lastPulledAt": "2026-09-16T03:39:19.198Z"
+    },
+    "243": {
+      "id": 243,
+      "name": "raikou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T05:31:31.608Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T05:31:31.608Z",
+      "lastPulledAt": "2026-09-17T05:31:31.608Z"
     },
     "379": {
       "id": 379,
