@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 16,
-  "updatedAt": "2026-09-17T15:11:28.763Z",
+  "totalPulls": 17,
+  "updatedAt": "2026-09-17T19:05:25.895Z",
   "lastPull": {
-    "id": 925,
-    "name": "maushold-family-of-four",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+    "id": 434,
+    "name": "stunky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
     "types": [
-      "normal"
+      "poison",
+      "dark"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-09-17T15:11:28.763Z"
+    "totalStats": 329,
+    "grade": "N",
+    "pulledAt": "2026-09-17T19:05:25.895Z"
   },
   "pulls": [
+    {
+      "id": 434,
+      "name": "stunky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-09-17T19:05:25.895Z"
+    },
     {
       "id": 925,
       "name": "maushold-family-of-four",
@@ -116,18 +129,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-09-16T06:27:52.582Z"
-    },
-    {
-      "id": 188,
-      "name": "skiploom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-09-16T03:39:19.198Z"
     }
   ],
   "pokemon": {
@@ -223,6 +224,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:34:13.846Z",
       "lastPulledAt": "2026-09-16T01:34:13.846Z"
+    },
+    "434": {
+      "id": 434,
+      "name": "stunky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-09-17T19:05:25.895Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T19:05:25.895Z",
+      "lastPulledAt": "2026-09-17T19:05:25.895Z"
     },
     "475": {
       "id": 475,
