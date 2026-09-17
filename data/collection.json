@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 12,
-  "updatedAt": "2026-09-16T22:23:57.323Z",
+  "totalPulls": 13,
+  "updatedAt": "2026-09-17T00:47:06.109Z",
   "lastPull": {
-    "id": 475,
-    "name": "gallade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "id": 559,
+    "name": "scraggy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
     "types": [
-      "psychic",
+      "dark",
       "fighting"
     ],
-    "totalStats": 518,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T22:23:57.323Z"
+    "totalStats": 348,
+    "grade": "N",
+    "pulledAt": "2026-09-17T00:47:06.109Z"
   },
   "pulls": [
+    {
+      "id": 559,
+      "name": "scraggy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-09-17T00:47:06.109Z"
+    },
     {
       "id": 475,
       "name": "gallade",
@@ -119,17 +131,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-09-16T01:54:33.904Z"
-    },
-    {
-      "id": 685,
-      "name": "slurpuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:51:18.370Z"
     }
   ],
   "pokemon": {
@@ -241,6 +242,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:34:53.814Z",
       "lastPulledAt": "2026-09-16T03:34:53.814Z"
+    },
+    "559": {
+      "id": 559,
+      "name": "scraggy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-09-17T00:47:06.109Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T00:47:06.109Z",
+      "lastPulledAt": "2026-09-17T00:47:06.109Z"
     },
     "566": {
       "id": 566,
