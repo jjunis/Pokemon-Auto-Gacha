@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 17,
-  "updatedAt": "2026-09-17T19:05:25.895Z",
+  "totalPulls": 18,
+  "updatedAt": "2026-09-17T22:07:12.515Z",
   "lastPull": {
-    "id": 434,
-    "name": "stunky",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+    "id": 464,
+    "name": "rhyperior",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
     "types": [
-      "poison",
-      "dark"
+      "ground",
+      "rock"
     ],
-    "totalStats": 329,
-    "grade": "N",
-    "pulledAt": "2026-09-17T19:05:25.895Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-09-17T22:07:12.515Z"
   },
   "pulls": [
+    {
+      "id": 464,
+      "name": "rhyperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T22:07:12.515Z"
+    },
     {
       "id": 434,
       "name": "stunky",
@@ -118,17 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-16T11:57:52.663Z"
-    },
-    {
-      "id": 575,
-      "name": "gothorita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-09-16T06:27:52.582Z"
     }
   ],
   "pokemon": {
@@ -240,6 +241,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T19:05:25.895Z",
       "lastPulledAt": "2026-09-17T19:05:25.895Z"
+    },
+    "464": {
+      "id": 464,
+      "name": "rhyperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T22:07:12.515Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T22:07:12.515Z",
+      "lastPulledAt": "2026-09-17T22:07:12.515Z"
     },
     "475": {
       "id": 475,
