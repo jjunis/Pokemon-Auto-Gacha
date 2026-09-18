@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-18T13:44:11.638Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-18T17:16:52.869Z",
   "lastPull": {
-    "id": 785,
-    "name": "tapu-koko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "id": 275,
+    "name": "shiftry",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
     "types": [
-      "electric",
-      "fairy"
+      "grass",
+      "dark"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T13:44:11.638Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-18T17:16:52.869Z"
   },
   "pulls": [
+    {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-18T17:16:52.869Z"
+    },
     {
       "id": 785,
       "name": "tapu-koko",
@@ -116,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-17T05:31:31.608Z"
-    },
-    {
-      "id": 559,
-      "name": "scraggy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
-      "types": [
-        "dark",
-        "fighting"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-09-17T00:47:06.109Z"
     }
   ],
   "pokemon": {
@@ -207,6 +207,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:31:31.608Z",
       "lastPulledAt": "2026-09-17T05:31:31.608Z"
+    },
+    "275": {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-18T17:16:52.869Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T17:16:52.869Z",
+      "lastPulledAt": "2026-09-18T17:16:52.869Z"
     },
     "379": {
       "id": 379,
