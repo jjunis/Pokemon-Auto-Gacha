@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 19,
-  "updatedAt": "2026-09-18T00:14:34.947Z",
+  "totalPulls": 20,
+  "updatedAt": "2026-09-18T04:52:36.608Z",
   "lastPull": {
-    "id": 427,
-    "name": "buneary",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+    "id": 64,
+    "name": "kadabra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
     "types": [
-      "normal"
+      "psychic"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-09-18T00:14:34.947Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-09-18T04:52:36.608Z"
   },
   "pulls": [
+    {
+      "id": 64,
+      "name": "kadabra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-18T04:52:36.608Z"
+    },
     {
       "id": 427,
       "name": "buneary",
@@ -117,18 +128,6 @@
       "totalStats": 401,
       "grade": "R",
       "pulledAt": "2026-09-16T19:45:00.200Z"
-    },
-    {
-      "id": 760,
-      "name": "bewear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T16:42:14.179Z"
     }
   ],
   "pokemon": {
@@ -147,6 +146,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:25:50.563Z",
       "lastPulledAt": "2026-09-16T03:25:50.563Z"
+    },
+    "64": {
+      "id": 64,
+      "name": "kadabra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-18T04:52:36.608Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T04:52:36.608Z",
+      "lastPulledAt": "2026-09-18T04:52:36.608Z"
     },
     "90": {
       "id": 90,
