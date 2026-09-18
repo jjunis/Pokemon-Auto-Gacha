@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 23,
-  "updatedAt": "2026-09-18T17:16:52.869Z",
+  "totalPulls": 24,
+  "updatedAt": "2026-09-18T19:43:49.836Z",
   "lastPull": {
-    "id": 275,
-    "name": "shiftry",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "id": 653,
+    "name": "fennekin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
     "types": [
-      "grass",
-      "dark"
+      "fire"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-18T17:16:52.869Z"
+    "totalStats": 307,
+    "grade": "N",
+    "pulledAt": "2026-09-18T19:43:49.836Z"
   },
   "pulls": [
+    {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-18T19:43:49.836Z"
+    },
     {
       "id": 275,
       "name": "shiftry",
@@ -117,17 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-17T10:24:45.445Z"
-    },
-    {
-      "id": 243,
-      "name": "raikou",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T05:31:31.608Z"
     }
   ],
   "pokemon": {
@@ -394,6 +393,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T09:25:13.905Z",
       "lastPulledAt": "2026-09-18T09:25:13.905Z"
+    },
+    "653": {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-18T19:43:49.836Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T19:43:49.836Z",
+      "lastPulledAt": "2026-09-18T19:43:49.836Z"
     },
     "685": {
       "id": 685,
