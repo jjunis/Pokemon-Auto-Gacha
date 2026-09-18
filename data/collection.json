@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 20,
-  "updatedAt": "2026-09-18T04:52:36.608Z",
+  "totalPulls": 21,
+  "updatedAt": "2026-09-18T09:25:13.905Z",
   "lastPull": {
-    "id": 64,
-    "name": "kadabra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "id": 600,
+    "name": "klang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
     "types": [
-      "psychic"
+      "steel"
     ],
-    "totalStats": 400,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-09-18T04:52:36.608Z"
+    "pulledAt": "2026-09-18T09:25:13.905Z"
   },
   "pulls": [
+    {
+      "id": 600,
+      "name": "klang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-18T09:25:13.905Z"
+    },
     {
       "id": 64,
       "name": "kadabra",
@@ -116,18 +127,6 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-09-16T22:23:57.323Z"
-    },
-    {
-      "id": 566,
-      "name": "archen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 401,
-      "grade": "R",
-      "pulledAt": "2026-09-16T19:45:00.200Z"
     }
   ],
   "pokemon": {
@@ -363,6 +362,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:27:52.582Z",
       "lastPulledAt": "2026-09-16T06:27:52.582Z"
+    },
+    "600": {
+      "id": 600,
+      "name": "klang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-18T09:25:13.905Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T09:25:13.905Z",
+      "lastPulledAt": "2026-09-18T09:25:13.905Z"
     },
     "685": {
       "id": 685,
