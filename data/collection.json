@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 21,
-  "updatedAt": "2026-09-18T09:25:13.905Z",
+  "totalPulls": 22,
+  "updatedAt": "2026-09-18T13:44:11.638Z",
   "lastPull": {
-    "id": 600,
-    "name": "klang",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+    "id": 785,
+    "name": "tapu-koko",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
     "types": [
-      "steel"
+      "electric",
+      "fairy"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-09-18T09:25:13.905Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-18T13:44:11.638Z"
   },
   "pulls": [
+    {
+      "id": 785,
+      "name": "tapu-koko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T13:44:11.638Z"
+    },
     {
       "id": 600,
       "name": "klang",
@@ -115,18 +128,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-09-17T00:47:06.109Z"
-    },
-    {
-      "id": 475,
-      "name": "gallade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
-      "types": [
-        "psychic",
-        "fighting"
-      ],
-      "totalStats": 518,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T22:23:57.323Z"
     }
   ],
   "pokemon": {
@@ -408,6 +409,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:42:14.179Z",
       "lastPulledAt": "2026-09-16T16:42:14.179Z"
+    },
+    "785": {
+      "id": 785,
+      "name": "tapu-koko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T13:44:11.638Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T13:44:11.638Z",
+      "lastPulledAt": "2026-09-18T13:44:11.638Z"
     },
     "925": {
       "id": 925,
