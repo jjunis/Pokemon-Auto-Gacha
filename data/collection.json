@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 24,
-  "updatedAt": "2026-09-18T19:43:49.836Z",
+  "totalPulls": 25,
+  "updatedAt": "2026-09-18T21:55:51.844Z",
   "lastPull": {
-    "id": 653,
-    "name": "fennekin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "id": 515,
+    "name": "panpour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 307,
+    "totalStats": 316,
     "grade": "N",
-    "pulledAt": "2026-09-18T19:43:49.836Z"
+    "pulledAt": "2026-09-18T21:55:51.844Z"
   },
   "pulls": [
+    {
+      "id": 515,
+      "name": "panpour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-18T21:55:51.844Z"
+    },
     {
       "id": 653,
       "name": "fennekin",
@@ -116,17 +127,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-17T15:11:28.763Z"
-    },
-    {
-      "id": 934,
-      "name": "garganacl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T10:24:45.445Z"
     }
   ],
   "pokemon": {
@@ -316,6 +316,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:23:57.323Z",
       "lastPulledAt": "2026-09-16T22:23:57.323Z"
+    },
+    "515": {
+      "id": 515,
+      "name": "panpour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-18T21:55:51.844Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T21:55:51.844Z",
+      "lastPulledAt": "2026-09-18T21:55:51.844Z"
     },
     "548": {
       "id": 548,
