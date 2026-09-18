@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 18,
-  "updatedAt": "2026-09-17T22:07:12.515Z",
+  "totalPulls": 19,
+  "updatedAt": "2026-09-18T00:14:34.947Z",
   "lastPull": {
-    "id": 464,
-    "name": "rhyperior",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "id": 427,
+    "name": "buneary",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
     "types": [
-      "ground",
-      "rock"
+      "normal"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T22:07:12.515Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-09-18T00:14:34.947Z"
   },
   "pulls": [
+    {
+      "id": 427,
+      "name": "buneary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-18T00:14:34.947Z"
+    },
     {
       "id": 464,
       "name": "rhyperior",
@@ -119,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-16T16:42:14.179Z"
-    },
-    {
-      "id": 379,
-      "name": "registeel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T11:57:52.663Z"
     }
   ],
   "pokemon": {
@@ -225,6 +224,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:34:13.846Z",
       "lastPulledAt": "2026-09-16T01:34:13.846Z"
+    },
+    "427": {
+      "id": 427,
+      "name": "buneary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-18T00:14:34.947Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T00:14:34.947Z",
+      "lastPulledAt": "2026-09-18T00:14:34.947Z"
     },
     "434": {
       "id": 434,
