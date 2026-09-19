@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-19T04:24:02.022Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-19T08:54:17.842Z",
   "lastPull": {
-    "id": 530,
-    "name": "excadrill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "id": 741,
+    "name": "oricorio-baile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
     "types": [
-      "ground",
-      "steel"
+      "fire",
+      "flying"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T04:24:02.022Z"
+    "totalStats": 476,
+    "grade": "R",
+    "pulledAt": "2026-09-19T08:54:17.842Z"
   },
   "pulls": [
+    {
+      "id": 741,
+      "name": "oricorio-baile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-09-19T08:54:17.842Z"
+    },
     {
       "id": 530,
       "name": "excadrill",
@@ -116,18 +128,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-18T00:14:34.947Z"
-    },
-    {
-      "id": 464,
-      "name": "rhyperior",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
-      "types": [
-        "ground",
-        "rock"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T22:07:12.515Z"
     }
   ],
   "pokemon": {
@@ -470,6 +470,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:18.370Z",
       "lastPulledAt": "2026-09-16T01:51:18.370Z"
+    },
+    "741": {
+      "id": 741,
+      "name": "oricorio-baile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-09-19T08:54:17.842Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T08:54:17.842Z",
+      "lastPulledAt": "2026-09-19T08:54:17.842Z"
     },
     "760": {
       "id": 760,
