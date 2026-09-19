@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 26,
-  "updatedAt": "2026-09-18T23:57:43.932Z",
+  "totalPulls": 27,
+  "updatedAt": "2026-09-19T04:24:02.022Z",
   "lastPull": {
-    "id": 512,
-    "name": "simisage",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png",
+    "id": 530,
+    "name": "excadrill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
     "types": [
-      "grass"
+      "ground",
+      "steel"
     ],
-    "totalStats": 498,
-    "grade": "R",
-    "pulledAt": "2026-09-18T23:57:43.932Z"
+    "totalStats": 508,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T04:24:02.022Z"
   },
   "pulls": [
+    {
+      "id": 530,
+      "name": "excadrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T04:24:02.022Z"
+    },
     {
       "id": 512,
       "name": "simisage",
@@ -115,18 +128,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-09-17T22:07:12.515Z"
-    },
-    {
-      "id": 434,
-      "name": "stunky",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
-      "types": [
-        "poison",
-        "dark"
-      ],
-      "totalStats": 329,
-      "grade": "N",
-      "pulledAt": "2026-09-17T19:05:25.895Z"
     }
   ],
   "pokemon": {
@@ -346,6 +347,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:55:51.844Z",
       "lastPulledAt": "2026-09-18T21:55:51.844Z"
+    },
+    "530": {
+      "id": 530,
+      "name": "excadrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T04:24:02.022Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T04:24:02.022Z",
+      "lastPulledAt": "2026-09-19T04:24:02.022Z"
     },
     "548": {
       "id": 548,
