@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 29,
-  "updatedAt": "2026-09-19T12:55:31.422Z",
+  "totalPulls": 30,
+  "updatedAt": "2026-09-19T16:17:34.913Z",
   "lastPull": {
-    "id": 927,
-    "name": "dachsbun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+    "id": 435,
+    "name": "skuntank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
     "types": [
-      "fairy"
+      "poison",
+      "dark"
     ],
-    "totalStats": 477,
+    "totalStats": 479,
     "grade": "R",
-    "pulledAt": "2026-09-19T12:55:31.422Z"
+    "pulledAt": "2026-09-19T16:17:34.913Z"
   },
   "pulls": [
+    {
+      "id": 435,
+      "name": "skuntank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-09-19T16:17:34.913Z"
+    },
     {
       "id": 927,
       "name": "dachsbun",
@@ -116,17 +129,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-09-18T09:25:13.905Z"
-    },
-    {
-      "id": 64,
-      "name": "kadabra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-09-18T04:52:36.608Z"
     }
   ],
   "pokemon": {
@@ -284,6 +286,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T19:05:25.895Z",
       "lastPulledAt": "2026-09-17T19:05:25.895Z"
+    },
+    "435": {
+      "id": 435,
+      "name": "skuntank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-09-19T16:17:34.913Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T16:17:34.913Z",
+      "lastPulledAt": "2026-09-19T16:17:34.913Z"
     },
     "464": {
       "id": 464,
