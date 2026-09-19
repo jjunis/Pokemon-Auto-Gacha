@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 31,
-  "updatedAt": "2026-09-19T18:39:00.937Z",
+  "totalPulls": 32,
+  "updatedAt": "2026-09-19T21:01:14.224Z",
   "lastPull": {
-    "id": 258,
-    "name": "mudkip",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "id": 402,
+    "name": "kricketune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
     "types": [
-      "water"
+      "bug"
     ],
-    "totalStats": 310,
+    "totalStats": 384,
     "grade": "N",
-    "pulledAt": "2026-09-19T18:39:00.937Z"
+    "pulledAt": "2026-09-19T21:01:14.224Z"
   },
   "pulls": [
+    {
+      "id": 402,
+      "name": "kricketune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-09-19T21:01:14.224Z"
+    },
     {
       "id": 258,
       "name": "mudkip",
@@ -116,18 +127,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-18T17:16:52.869Z"
-    },
-    {
-      "id": 785,
-      "name": "tapu-koko",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T13:44:11.638Z"
     }
   ],
   "pokemon": {
@@ -253,6 +252,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:57:52.663Z",
       "lastPulledAt": "2026-09-16T11:57:52.663Z"
+    },
+    "402": {
+      "id": 402,
+      "name": "kricketune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-09-19T21:01:14.224Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T21:01:14.224Z",
+      "lastPulledAt": "2026-09-19T21:01:14.224Z"
     },
     "407": {
       "id": 407,
