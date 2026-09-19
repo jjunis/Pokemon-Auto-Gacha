@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 28,
-  "updatedAt": "2026-09-19T08:54:17.842Z",
+  "totalPulls": 29,
+  "updatedAt": "2026-09-19T12:55:31.422Z",
   "lastPull": {
-    "id": 741,
-    "name": "oricorio-baile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "id": 927,
+    "name": "dachsbun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
     "types": [
-      "fire",
-      "flying"
+      "fairy"
     ],
-    "totalStats": 476,
+    "totalStats": 477,
     "grade": "R",
-    "pulledAt": "2026-09-19T08:54:17.842Z"
+    "pulledAt": "2026-09-19T12:55:31.422Z"
   },
   "pulls": [
+    {
+      "id": 927,
+      "name": "dachsbun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 477,
+      "grade": "R",
+      "pulledAt": "2026-09-19T12:55:31.422Z"
+    },
     {
       "id": 741,
       "name": "oricorio-baile",
@@ -117,17 +127,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-18T04:52:36.608Z"
-    },
-    {
-      "id": 427,
-      "name": "buneary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-18T00:14:34.947Z"
     }
   ],
   "pokemon": {
@@ -533,6 +532,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:11:28.763Z",
       "lastPulledAt": "2026-09-17T15:11:28.763Z"
+    },
+    "927": {
+      "id": 927,
+      "name": "dachsbun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 477,
+      "grade": "R",
+      "pulledAt": "2026-09-19T12:55:31.422Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T12:55:31.422Z",
+      "lastPulledAt": "2026-09-19T12:55:31.422Z"
     },
     "934": {
       "id": 934,
