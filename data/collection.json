@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 30,
-  "updatedAt": "2026-09-19T16:17:34.913Z",
+  "totalPulls": 31,
+  "updatedAt": "2026-09-19T18:39:00.937Z",
   "lastPull": {
-    "id": 435,
-    "name": "skuntank",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+    "id": 258,
+    "name": "mudkip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
     "types": [
-      "poison",
-      "dark"
+      "water"
     ],
-    "totalStats": 479,
-    "grade": "R",
-    "pulledAt": "2026-09-19T16:17:34.913Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-19T18:39:00.937Z"
   },
   "pulls": [
+    {
+      "id": 258,
+      "name": "mudkip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-19T18:39:00.937Z"
+    },
     {
       "id": 435,
       "name": "skuntank",
@@ -118,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-18T13:44:11.638Z"
-    },
-    {
-      "id": 600,
-      "name": "klang",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-09-18T09:25:13.905Z"
     }
   ],
   "pokemon": {
@@ -208,6 +207,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:31:31.608Z",
       "lastPulledAt": "2026-09-17T05:31:31.608Z"
+    },
+    "258": {
+      "id": 258,
+      "name": "mudkip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-19T18:39:00.937Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T18:39:00.937Z",
+      "lastPulledAt": "2026-09-19T18:39:00.937Z"
     },
     "275": {
       "id": 275,
