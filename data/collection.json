@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 39,
-  "updatedAt": "2026-09-20T19:49:36.906Z",
+  "totalPulls": 40,
+  "updatedAt": "2026-09-20T21:55:46.579Z",
   "lastPull": {
-    "id": 84,
-    "name": "doduo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "id": 212,
+    "name": "scizor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
     "types": [
-      "normal",
-      "flying"
+      "bug",
+      "steel"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-09-20T19:49:36.906Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T21:55:46.579Z"
   },
   "pulls": [
+    {
+      "id": 212,
+      "name": "scizor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T21:55:46.579Z"
+    },
     {
       "id": 84,
       "name": "doduo",
@@ -118,18 +130,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-19T18:39:00.937Z"
-    },
-    {
-      "id": 435,
-      "name": "skuntank",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
-      "types": [
-        "poison",
-        "dark"
-      ],
-      "totalStats": 479,
-      "grade": "R",
-      "pulledAt": "2026-09-19T16:17:34.913Z"
     }
   ],
   "pokemon": {
@@ -210,6 +210,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:39:19.198Z",
       "lastPulledAt": "2026-09-16T03:39:19.198Z"
+    },
+    "212": {
+      "id": 212,
+      "name": "scizor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T21:55:46.579Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T21:55:46.579Z",
+      "lastPulledAt": "2026-09-20T21:55:46.579Z"
     },
     "243": {
       "id": 243,
