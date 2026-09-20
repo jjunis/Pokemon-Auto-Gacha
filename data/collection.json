@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 40,
-  "updatedAt": "2026-09-20T21:55:46.579Z",
+  "totalPulls": 41,
+  "updatedAt": "2026-09-20T23:56:46.639Z",
   "lastPull": {
-    "id": 212,
-    "name": "scizor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "id": 386,
+    "name": "deoxys-normal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
     "types": [
-      "bug",
-      "steel"
+      "psychic"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T21:55:46.579Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-20T23:56:46.639Z"
   },
   "pulls": [
+    {
+      "id": 386,
+      "name": "deoxys-normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T23:56:46.639Z"
+    },
     {
       "id": 212,
       "name": "scizor",
@@ -119,17 +129,6 @@
       "totalStats": 384,
       "grade": "N",
       "pulledAt": "2026-09-19T21:01:14.224Z"
-    },
-    {
-      "id": 258,
-      "name": "mudkip",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-19T18:39:00.937Z"
     }
   ],
   "pokemon": {
@@ -303,6 +302,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:57:52.663Z",
       "lastPulledAt": "2026-09-16T11:57:52.663Z"
+    },
+    "386": {
+      "id": 386,
+      "name": "deoxys-normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T23:56:46.639Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T23:56:46.639Z",
+      "lastPulledAt": "2026-09-20T23:56:46.639Z"
     },
     "398": {
       "id": 398,
