@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 34,
-  "updatedAt": "2026-09-20T00:57:21.261Z",
+  "totalPulls": 35,
+  "updatedAt": "2026-09-20T05:58:18.319Z",
   "lastPull": {
-    "id": 251,
-    "name": "celebi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "id": 887,
+    "name": "dragapult",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
     "types": [
-      "psychic",
-      "grass"
+      "dragon",
+      "ghost"
     ],
     "totalStats": 600,
     "grade": "SSR",
-    "pulledAt": "2026-09-20T00:57:21.261Z"
+    "pulledAt": "2026-09-20T05:58:18.319Z"
   },
   "pulls": [
+    {
+      "id": 887,
+      "name": "dragapult",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T05:58:18.319Z"
+    },
     {
       "id": 251,
       "name": "celebi",
@@ -117,17 +129,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-09-18T23:57:43.932Z"
-    },
-    {
-      "id": 515,
-      "name": "panpour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-09-18T21:55:51.844Z"
     }
   ],
   "pokemon": {
@@ -595,6 +596,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T13:44:11.638Z",
       "lastPulledAt": "2026-09-18T13:44:11.638Z"
+    },
+    "887": {
+      "id": 887,
+      "name": "dragapult",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T05:58:18.319Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T05:58:18.319Z",
+      "lastPulledAt": "2026-09-20T05:58:18.319Z"
     },
     "925": {
       "id": 925,
