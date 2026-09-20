@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 33,
-  "updatedAt": "2026-09-19T22:58:06.057Z",
+  "totalPulls": 34,
+  "updatedAt": "2026-09-20T00:57:21.261Z",
   "lastPull": {
-    "id": 470,
-    "name": "leafeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "id": 251,
+    "name": "celebi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
     "types": [
+      "psychic",
       "grass"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T22:58:06.057Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-20T00:57:21.261Z"
   },
   "pulls": [
+    {
+      "id": 251,
+      "name": "celebi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T00:57:21.261Z"
+    },
     {
       "id": 470,
       "name": "leafeon",
@@ -115,17 +128,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-09-18T21:55:51.844Z"
-    },
-    {
-      "id": 653,
-      "name": "fennekin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 307,
-      "grade": "N",
-      "pulledAt": "2026-09-18T19:43:49.836Z"
     }
   ],
   "pokemon": {
@@ -205,6 +207,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:31:31.608Z",
       "lastPulledAt": "2026-09-17T05:31:31.608Z"
+    },
+    "251": {
+      "id": 251,
+      "name": "celebi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T00:57:21.261Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T00:57:21.261Z",
+      "lastPulledAt": "2026-09-20T00:57:21.261Z"
     },
     "258": {
       "id": 258,
