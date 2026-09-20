@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 35,
-  "updatedAt": "2026-09-20T05:58:18.319Z",
+  "totalPulls": 36,
+  "updatedAt": "2026-09-20T11:09:52.468Z",
   "lastPull": {
-    "id": 887,
-    "name": "dragapult",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "id": 398,
+    "name": "staraptor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
     "types": [
-      "dragon",
-      "ghost"
+      "normal",
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-20T05:58:18.319Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-20T11:09:52.468Z"
   },
   "pulls": [
+    {
+      "id": 398,
+      "name": "staraptor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-20T11:09:52.468Z"
+    },
     {
       "id": 887,
       "name": "dragapult",
@@ -118,17 +130,6 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-09-19T04:24:02.022Z"
-    },
-    {
-      "id": 512,
-      "name": "simisage",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-09-18T23:57:43.932Z"
     }
   ],
   "pokemon": {
@@ -270,6 +271,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:57:52.663Z",
       "lastPulledAt": "2026-09-16T11:57:52.663Z"
+    },
+    "398": {
+      "id": 398,
+      "name": "staraptor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-20T11:09:52.468Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T11:09:52.468Z",
+      "lastPulledAt": "2026-09-20T11:09:52.468Z"
     },
     "402": {
       "id": 402,
