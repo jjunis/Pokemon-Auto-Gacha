@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-20T14:41:50.227Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-20T17:43:08.881Z",
   "lastPull": {
-    "id": 802,
-    "name": "marshadow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "id": 409,
+    "name": "rampardos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
     "types": [
-      "fighting",
-      "ghost"
+      "rock"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-20T14:41:50.227Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-20T17:43:08.881Z"
   },
   "pulls": [
+    {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-20T17:43:08.881Z"
+    },
     {
       "id": 802,
       "name": "marshadow",
@@ -118,18 +128,6 @@
       "totalStats": 477,
       "grade": "R",
       "pulledAt": "2026-09-19T12:55:31.422Z"
-    },
-    {
-      "id": 741,
-      "name": "oricorio-baile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 476,
-      "grade": "R",
-      "pulledAt": "2026-09-19T08:54:17.842Z"
     }
   ],
   "pokemon": {
@@ -318,6 +316,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:34:13.846Z",
       "lastPulledAt": "2026-09-16T01:34:13.846Z"
+    },
+    "409": {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-20T17:43:08.881Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T17:43:08.881Z",
+      "lastPulledAt": "2026-09-20T17:43:08.881Z"
     },
     "427": {
       "id": 427,
