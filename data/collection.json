@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-20T11:09:52.468Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-20T14:41:50.227Z",
   "lastPull": {
-    "id": 398,
-    "name": "staraptor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+    "id": 802,
+    "name": "marshadow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
     "types": [
-      "normal",
-      "flying"
+      "fighting",
+      "ghost"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-09-20T11:09:52.468Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-20T14:41:50.227Z"
   },
   "pulls": [
+    {
+      "id": 802,
+      "name": "marshadow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T14:41:50.227Z"
+    },
     {
       "id": 398,
       "name": "staraptor",
@@ -118,18 +130,6 @@
       "totalStats": 476,
       "grade": "R",
       "pulledAt": "2026-09-19T08:54:17.842Z"
-    },
-    {
-      "id": 530,
-      "name": "excadrill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
-      "types": [
-        "ground",
-        "steel"
-      ],
-      "totalStats": 508,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T04:24:02.022Z"
     }
   ],
   "pokemon": {
@@ -613,6 +613,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T13:44:11.638Z",
       "lastPulledAt": "2026-09-18T13:44:11.638Z"
+    },
+    "802": {
+      "id": 802,
+      "name": "marshadow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T14:41:50.227Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T14:41:50.227Z",
+      "lastPulledAt": "2026-09-20T14:41:50.227Z"
     },
     "887": {
       "id": 887,
