@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 38,
-  "updatedAt": "2026-09-20T17:43:08.881Z",
+  "totalPulls": 39,
+  "updatedAt": "2026-09-20T19:49:36.906Z",
   "lastPull": {
-    "id": 409,
-    "name": "rampardos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "id": 84,
+    "name": "doduo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
     "types": [
-      "rock"
+      "normal",
+      "flying"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-09-20T17:43:08.881Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-20T19:49:36.906Z"
   },
   "pulls": [
+    {
+      "id": 84,
+      "name": "doduo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-20T19:49:36.906Z"
+    },
     {
       "id": 409,
       "name": "rampardos",
@@ -117,17 +130,6 @@
       "totalStats": 479,
       "grade": "R",
       "pulledAt": "2026-09-19T16:17:34.913Z"
-    },
-    {
-      "id": 927,
-      "name": "dachsbun",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 477,
-      "grade": "R",
-      "pulledAt": "2026-09-19T12:55:31.422Z"
     }
   ],
   "pokemon": {
@@ -161,6 +163,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:52:36.608Z",
       "lastPulledAt": "2026-09-18T04:52:36.608Z"
+    },
+    "84": {
+      "id": 84,
+      "name": "doduo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-20T19:49:36.906Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T19:49:36.906Z",
+      "lastPulledAt": "2026-09-20T19:49:36.906Z"
     },
     "90": {
       "id": 90,
