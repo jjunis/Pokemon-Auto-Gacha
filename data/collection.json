@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 41,
-  "updatedAt": "2026-09-20T23:56:46.639Z",
+  "totalPulls": 42,
+  "updatedAt": "2026-09-21T04:20:19.980Z",
   "lastPull": {
-    "id": 386,
-    "name": "deoxys-normal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "id": 292,
+    "name": "shedinja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
     "types": [
-      "psychic"
+      "bug",
+      "ghost"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-20T23:56:46.639Z"
+    "totalStats": 236,
+    "grade": "N",
+    "pulledAt": "2026-09-21T04:20:19.980Z"
   },
   "pulls": [
+    {
+      "id": 292,
+      "name": "shedinja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "totalStats": 236,
+      "grade": "N",
+      "pulledAt": "2026-09-21T04:20:19.980Z"
+    },
     {
       "id": 386,
       "name": "deoxys-normal",
@@ -118,17 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-19T22:58:06.057Z"
-    },
-    {
-      "id": 402,
-      "name": "kricketune",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 384,
-      "grade": "N",
-      "pulledAt": "2026-09-19T21:01:14.224Z"
     }
   ],
   "pokemon": {
@@ -287,6 +289,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:16:52.869Z",
       "lastPulledAt": "2026-09-18T17:16:52.869Z"
+    },
+    "292": {
+      "id": 292,
+      "name": "shedinja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "totalStats": 236,
+      "grade": "N",
+      "pulledAt": "2026-09-21T04:20:19.980Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T04:20:19.980Z",
+      "lastPulledAt": "2026-09-21T04:20:19.980Z"
     },
     "379": {
       "id": 379,
