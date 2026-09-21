@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-21T10:08:25.345Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-21T16:28:19.534Z",
   "lastPull": {
-    "id": 541,
-    "name": "swadloon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+    "id": 382,
+    "name": "kyogre",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
     "types": [
-      "bug",
-      "grass"
+      "water"
     ],
-    "totalStats": 380,
-    "grade": "N",
-    "pulledAt": "2026-09-21T10:08:25.345Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-09-21T16:28:19.534Z"
   },
   "pulls": [
+    {
+      "id": 382,
+      "name": "kyogre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-21T16:28:19.534Z"
+    },
     {
       "id": 541,
       "name": "swadloon",
@@ -120,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-20T05:58:18.319Z"
-    },
-    {
-      "id": 251,
-      "name": "celebi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T00:57:21.261Z"
     }
   ],
   "pokemon": {
@@ -321,6 +319,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:57:52.663Z",
       "lastPulledAt": "2026-09-16T11:57:52.663Z"
+    },
+    "382": {
+      "id": 382,
+      "name": "kyogre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-21T16:28:19.534Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T16:28:19.534Z",
+      "lastPulledAt": "2026-09-21T16:28:19.534Z"
     },
     "386": {
       "id": 386,
