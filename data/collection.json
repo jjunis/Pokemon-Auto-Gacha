@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-21T20:31:00.680Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-21T23:35:16.730Z",
   "lastPull": {
-    "id": 81,
-    "name": "magnemite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "id": 769,
+    "name": "sandygast",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
     "types": [
-      "electric",
-      "steel"
+      "ghost",
+      "ground"
     ],
-    "totalStats": 325,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-09-21T20:31:00.680Z"
+    "pulledAt": "2026-09-21T23:35:16.730Z"
   },
   "pulls": [
+    {
+      "id": 769,
+      "name": "sandygast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-21T23:35:16.730Z"
+    },
     {
       "id": 81,
       "name": "magnemite",
@@ -119,18 +131,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-20T14:41:50.227Z"
-    },
-    {
-      "id": 398,
-      "name": "staraptor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-20T11:09:52.468Z"
     }
   ],
   "pokemon": {
@@ -723,6 +723,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:42:14.179Z",
       "lastPulledAt": "2026-09-16T16:42:14.179Z"
+    },
+    "769": {
+      "id": 769,
+      "name": "sandygast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-21T23:35:16.730Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T23:35:16.730Z",
+      "lastPulledAt": "2026-09-21T23:35:16.730Z"
     },
     "785": {
       "id": 785,
