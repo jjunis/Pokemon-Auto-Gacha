@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 42,
-  "updatedAt": "2026-09-21T04:20:19.980Z",
+  "totalPulls": 43,
+  "updatedAt": "2026-09-21T10:08:25.345Z",
   "lastPull": {
-    "id": 292,
-    "name": "shedinja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+    "id": 541,
+    "name": "swadloon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
     "types": [
       "bug",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 236,
+    "totalStats": 380,
     "grade": "N",
-    "pulledAt": "2026-09-21T04:20:19.980Z"
+    "pulledAt": "2026-09-21T10:08:25.345Z"
   },
   "pulls": [
+    {
+      "id": 541,
+      "name": "swadloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-09-21T10:08:25.345Z"
+    },
     {
       "id": 292,
       "name": "shedinja",
@@ -120,17 +132,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-20T00:57:21.261Z"
-    },
-    {
-      "id": 470,
-      "name": "leafeon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T22:58:06.057Z"
     }
   ],
   "pokemon": {
@@ -537,6 +538,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T04:24:02.022Z",
       "lastPulledAt": "2026-09-19T04:24:02.022Z"
+    },
+    "541": {
+      "id": 541,
+      "name": "swadloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-09-21T10:08:25.345Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T10:08:25.345Z",
+      "lastPulledAt": "2026-09-21T10:08:25.345Z"
     },
     "548": {
       "id": 548,
