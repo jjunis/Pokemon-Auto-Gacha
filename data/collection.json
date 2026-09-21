@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-21T16:28:19.534Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-21T20:31:00.680Z",
   "lastPull": {
-    "id": 382,
-    "name": "kyogre",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "id": 81,
+    "name": "magnemite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
     "types": [
-      "water"
+      "electric",
+      "steel"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-09-21T16:28:19.534Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-09-21T20:31:00.680Z"
   },
   "pulls": [
+    {
+      "id": 81,
+      "name": "magnemite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-21T20:31:00.680Z"
+    },
     {
       "id": 382,
       "name": "kyogre",
@@ -118,18 +131,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-20T11:09:52.468Z"
-    },
-    {
-      "id": 887,
-      "name": "dragapult",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T05:58:18.319Z"
     }
   ],
   "pokemon": {
@@ -163,6 +164,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:52:36.608Z",
       "lastPulledAt": "2026-09-18T04:52:36.608Z"
+    },
+    "81": {
+      "id": 81,
+      "name": "magnemite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-21T20:31:00.680Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T20:31:00.680Z",
+      "lastPulledAt": "2026-09-21T20:31:00.680Z"
     },
     "84": {
       "id": 84,
