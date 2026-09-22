@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-22T20:23:25.218Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-22T23:09:47.444Z",
   "lastPull": {
-    "id": 918,
-    "name": "spidops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+    "id": 262,
+    "name": "mightyena",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
     "types": [
-      "bug"
+      "dark"
     ],
-    "totalStats": 404,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-09-22T20:23:25.218Z"
+    "pulledAt": "2026-09-22T23:09:47.444Z"
   },
   "pulls": [
+    {
+      "id": 262,
+      "name": "mightyena",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-22T23:09:47.444Z"
+    },
     {
       "id": 918,
       "name": "spidops",
@@ -118,18 +129,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-09-21T10:08:25.345Z"
-    },
-    {
-      "id": 292,
-      "name": "shedinja",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
-      "types": [
-        "bug",
-        "ghost"
-      ],
-      "totalStats": 236,
-      "grade": "N",
-      "pulledAt": "2026-09-21T04:20:19.980Z"
     }
   ],
   "pokemon": {
@@ -304,6 +303,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:39:00.937Z",
       "lastPulledAt": "2026-09-19T18:39:00.937Z"
+    },
+    "262": {
+      "id": 262,
+      "name": "mightyena",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-22T23:09:47.444Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T23:09:47.444Z",
+      "lastPulledAt": "2026-09-22T23:09:47.444Z"
     },
     "275": {
       "id": 275,
