@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 48,
-  "updatedAt": "2026-09-22T07:24:20.143Z",
+  "totalPulls": 49,
+  "updatedAt": "2026-09-22T12:46:01.984Z",
   "lastPull": {
-    "id": 733,
-    "name": "toucannon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+    "id": 892,
+    "name": "urshifu-single-strike",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
     "types": [
-      "normal",
-      "flying"
+      "fighting",
+      "dark"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-09-22T07:24:20.143Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T12:46:01.984Z"
   },
   "pulls": [
+    {
+      "id": 892,
+      "name": "urshifu-single-strike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
+      "types": [
+        "fighting",
+        "dark"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T12:46:01.984Z"
+    },
     {
       "id": 733,
       "name": "toucannon",
@@ -120,18 +132,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-20T21:55:46.579Z"
-    },
-    {
-      "id": 84,
-      "name": "doduo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-20T19:49:36.906Z"
     }
   ],
   "pokemon": {
@@ -820,6 +820,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T05:58:18.319Z",
       "lastPulledAt": "2026-09-20T05:58:18.319Z"
+    },
+    "892": {
+      "id": 892,
+      "name": "urshifu-single-strike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
+      "types": [
+        "fighting",
+        "dark"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T12:46:01.984Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T12:46:01.984Z",
+      "lastPulledAt": "2026-09-22T12:46:01.984Z"
     },
     "925": {
       "id": 925,
