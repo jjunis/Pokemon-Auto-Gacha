@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 46,
-  "updatedAt": "2026-09-21T23:35:16.730Z",
+  "totalPulls": 47,
+  "updatedAt": "2026-09-22T01:50:46.965Z",
   "lastPull": {
-    "id": 769,
-    "name": "sandygast",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+    "id": 34,
+    "name": "nidoking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
     "types": [
-      "ghost",
+      "poison",
       "ground"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-09-21T23:35:16.730Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T01:50:46.965Z"
   },
   "pulls": [
+    {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T01:50:46.965Z"
+    },
     {
       "id": 769,
       "name": "sandygast",
@@ -119,18 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-20T17:43:08.881Z"
-    },
-    {
-      "id": 802,
-      "name": "marshadow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
-      "types": [
-        "fighting",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T14:41:50.227Z"
     }
   ],
   "pokemon": {
@@ -149,6 +149,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:25:50.563Z",
       "lastPulledAt": "2026-09-16T03:25:50.563Z"
+    },
+    "34": {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T01:50:46.965Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T01:50:46.965Z",
+      "lastPulledAt": "2026-09-22T01:50:46.965Z"
     },
     "64": {
       "id": 64,
