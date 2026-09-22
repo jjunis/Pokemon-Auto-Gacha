@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 47,
-  "updatedAt": "2026-09-22T01:50:46.965Z",
+  "totalPulls": 48,
+  "updatedAt": "2026-09-22T07:24:20.143Z",
   "lastPull": {
-    "id": 34,
-    "name": "nidoking",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "id": 733,
+    "name": "toucannon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
     "types": [
-      "poison",
-      "ground"
+      "normal",
+      "flying"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T01:50:46.965Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-22T07:24:20.143Z"
   },
   "pulls": [
+    {
+      "id": 733,
+      "name": "toucannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-22T07:24:20.143Z"
+    },
     {
       "id": 34,
       "name": "nidoking",
@@ -120,17 +132,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-20T19:49:36.906Z"
-    },
-    {
-      "id": 409,
-      "name": "rampardos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-20T17:43:08.881Z"
     }
   ],
   "pokemon": {
@@ -707,6 +708,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:18.370Z",
       "lastPulledAt": "2026-09-16T01:51:18.370Z"
+    },
+    "733": {
+      "id": 733,
+      "name": "toucannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-22T07:24:20.143Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T07:24:20.143Z",
+      "lastPulledAt": "2026-09-22T07:24:20.143Z"
     },
     "741": {
       "id": 741,
