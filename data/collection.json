@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-22T17:20:40.971Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-22T20:23:25.218Z",
   "lastPull": {
-    "id": 974,
-    "name": "cetoddle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+    "id": 918,
+    "name": "spidops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
     "types": [
-      "ice"
+      "bug"
     ],
-    "totalStats": 334,
-    "grade": "N",
-    "pulledAt": "2026-09-22T17:20:40.971Z"
+    "totalStats": 404,
+    "grade": "R",
+    "pulledAt": "2026-09-22T20:23:25.218Z"
   },
   "pulls": [
+    {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-09-22T20:23:25.218Z"
+    },
     {
       "id": 974,
       "name": "cetoddle",
@@ -119,17 +130,6 @@
       "totalStats": 236,
       "grade": "N",
       "pulledAt": "2026-09-21T04:20:19.980Z"
-    },
-    {
-      "id": 386,
-      "name": "deoxys-normal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T23:56:46.639Z"
     }
   ],
   "pokemon": {
@@ -834,6 +834,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:46:01.984Z",
       "lastPulledAt": "2026-09-22T12:46:01.984Z"
+    },
+    "918": {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-09-22T20:23:25.218Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T20:23:25.218Z",
+      "lastPulledAt": "2026-09-22T20:23:25.218Z"
     },
     "925": {
       "id": 925,
