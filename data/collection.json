@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 49,
-  "updatedAt": "2026-09-22T12:46:01.984Z",
+  "totalPulls": 50,
+  "updatedAt": "2026-09-22T17:20:40.971Z",
   "lastPull": {
-    "id": 892,
-    "name": "urshifu-single-strike",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
+    "id": 974,
+    "name": "cetoddle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
     "types": [
-      "fighting",
-      "dark"
+      "ice"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T12:46:01.984Z"
+    "totalStats": 334,
+    "grade": "N",
+    "pulledAt": "2026-09-22T17:20:40.971Z"
   },
   "pulls": [
+    {
+      "id": 974,
+      "name": "cetoddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-09-22T17:20:40.971Z"
+    },
     {
       "id": 892,
       "name": "urshifu-single-strike",
@@ -120,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-20T23:56:46.639Z"
-    },
-    {
-      "id": 212,
-      "name": "scizor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T21:55:46.579Z"
     }
   ],
   "pokemon": {
@@ -897,6 +895,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:54:33.904Z",
       "lastPulledAt": "2026-09-16T01:54:33.904Z"
+    },
+    "974": {
+      "id": 974,
+      "name": "cetoddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-09-22T17:20:40.971Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T17:20:40.971Z",
+      "lastPulledAt": "2026-09-22T17:20:40.971Z"
     }
   },
   "typeTotals": {
