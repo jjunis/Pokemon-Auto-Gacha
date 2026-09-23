@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 57,
-  "updatedAt": "2026-09-23T20:28:48.456Z",
+  "totalPulls": 58,
+  "updatedAt": "2026-09-23T23:05:10.365Z",
   "lastPull": {
-    "id": 327,
-    "name": "spinda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "id": 148,
+    "name": "dragonair",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
     "types": [
-      "normal"
+      "dragon"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-09-23T20:28:48.456Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-09-23T23:05:10.365Z"
   },
   "pulls": [
+    {
+      "id": 148,
+      "name": "dragonair",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-23T23:05:10.365Z"
+    },
     {
       "id": 327,
       "name": "spinda",
@@ -115,18 +126,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-09-22T12:46:01.984Z"
-    },
-    {
-      "id": 733,
-      "name": "toucannon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-22T07:24:20.143Z"
     }
   ],
   "pokemon": {
@@ -223,6 +222,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:50.303Z",
       "lastPulledAt": "2026-09-16T01:47:50.303Z"
+    },
+    "148": {
+      "id": 148,
+      "name": "dragonair",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-23T23:05:10.365Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T23:05:10.365Z",
+      "lastPulledAt": "2026-09-23T23:05:10.365Z"
     },
     "188": {
       "id": 188,
