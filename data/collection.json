@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 55,
-  "updatedAt": "2026-09-23T12:10:49.083Z",
+  "totalPulls": 56,
+  "updatedAt": "2026-09-23T17:12:40.175Z",
   "lastPull": {
-    "id": 568,
-    "name": "trubbish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+    "id": 729,
+    "name": "brionne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
     "types": [
-      "poison"
+      "water"
     ],
-    "totalStats": 329,
-    "grade": "N",
-    "pulledAt": "2026-09-23T12:10:49.083Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-09-23T17:12:40.175Z"
   },
   "pulls": [
+    {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-23T17:12:40.175Z"
+    },
     {
       "id": 568,
       "name": "trubbish",
@@ -117,18 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-22T01:50:46.965Z"
-    },
-    {
-      "id": 769,
-      "name": "sandygast",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
-      "types": [
-        "ghost",
-        "ground"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-21T23:35:16.730Z"
     }
   ],
   "pokemon": {
@@ -767,6 +766,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:18.370Z",
       "lastPulledAt": "2026-09-16T01:51:18.370Z"
+    },
+    "729": {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-23T17:12:40.175Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T17:12:40.175Z",
+      "lastPulledAt": "2026-09-23T17:12:40.175Z"
     },
     "733": {
       "id": 733,
