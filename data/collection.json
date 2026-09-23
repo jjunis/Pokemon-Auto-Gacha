@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-23T17:12:40.175Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-23T20:28:48.456Z",
   "lastPull": {
-    "id": 729,
-    "name": "brionne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+    "id": 327,
+    "name": "spinda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-23T17:12:40.175Z"
+    "totalStats": 360,
+    "grade": "N",
+    "pulledAt": "2026-09-23T20:28:48.456Z"
   },
   "pulls": [
+    {
+      "id": 327,
+      "name": "spinda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-23T20:28:48.456Z"
+    },
     {
       "id": 729,
       "name": "brionne",
@@ -116,18 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-22T07:24:20.143Z"
-    },
-    {
-      "id": 34,
-      "name": "nidoking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T01:50:46.965Z"
     }
   ],
   "pokemon": {
@@ -381,6 +380,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T04:20:19.980Z",
       "lastPulledAt": "2026-09-21T04:20:19.980Z"
+    },
+    "327": {
+      "id": 327,
+      "name": "spinda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-23T20:28:48.456Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T20:28:48.456Z",
+      "lastPulledAt": "2026-09-23T20:28:48.456Z"
     },
     "379": {
       "id": 379,
