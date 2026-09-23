@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-22T23:09:47.444Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-23T01:30:26.836Z",
   "lastPull": {
-    "id": 262,
-    "name": "mightyena",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "id": 276,
+    "name": "taillow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
     "types": [
-      "dark"
+      "normal",
+      "flying"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-22T23:09:47.444Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-09-23T01:30:26.836Z"
   },
   "pulls": [
+    {
+      "id": 276,
+      "name": "taillow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-23T01:30:26.836Z"
+    },
     {
       "id": 262,
       "name": "mightyena",
@@ -117,18 +130,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-21T16:28:19.534Z"
-    },
-    {
-      "id": 541,
-      "name": "swadloon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-09-21T10:08:25.345Z"
     }
   ],
   "pokemon": {
@@ -334,6 +335,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:16:52.869Z",
       "lastPulledAt": "2026-09-18T17:16:52.869Z"
+    },
+    "276": {
+      "id": 276,
+      "name": "taillow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-23T01:30:26.836Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T01:30:26.836Z",
+      "lastPulledAt": "2026-09-23T01:30:26.836Z"
     },
     "292": {
       "id": 292,
