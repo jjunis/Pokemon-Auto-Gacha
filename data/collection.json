@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-23T01:30:26.836Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-23T06:38:01.620Z",
   "lastPull": {
-    "id": 276,
-    "name": "taillow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+    "id": 189,
+    "name": "jumpluff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
     "types": [
-      "normal",
+      "grass",
       "flying"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-09-23T01:30:26.836Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-09-23T06:38:01.620Z"
   },
   "pulls": [
+    {
+      "id": 189,
+      "name": "jumpluff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-23T06:38:01.620Z"
+    },
     {
       "id": 276,
       "name": "taillow",
@@ -119,17 +131,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-21T20:31:00.680Z"
-    },
-    {
-      "id": 382,
-      "name": "kyogre",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-09-21T16:28:19.534Z"
     }
   ],
   "pokemon": {
@@ -242,6 +243,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:39:19.198Z",
       "lastPulledAt": "2026-09-16T03:39:19.198Z"
+    },
+    "189": {
+      "id": 189,
+      "name": "jumpluff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-23T06:38:01.620Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T06:38:01.620Z",
+      "lastPulledAt": "2026-09-23T06:38:01.620Z"
     },
     "212": {
       "id": 212,
