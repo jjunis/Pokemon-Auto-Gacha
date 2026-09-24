@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-23T23:05:10.365Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-24T01:20:09.244Z",
   "lastPull": {
-    "id": 148,
-    "name": "dragonair",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "id": 661,
+    "name": "fletchling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
     "types": [
-      "dragon"
+      "normal",
+      "flying"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-23T23:05:10.365Z"
+    "totalStats": 278,
+    "grade": "N",
+    "pulledAt": "2026-09-24T01:20:09.244Z"
   },
   "pulls": [
+    {
+      "id": 661,
+      "name": "fletchling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 278,
+      "grade": "N",
+      "pulledAt": "2026-09-24T01:20:09.244Z"
+    },
     {
       "id": 148,
       "name": "dragonair",
@@ -114,18 +127,6 @@
       "totalStats": 334,
       "grade": "N",
       "pulledAt": "2026-09-22T17:20:40.971Z"
-    },
-    {
-      "id": 892,
-      "name": "urshifu-single-strike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
-      "types": [
-        "fighting",
-        "dark"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T12:46:01.984Z"
     }
   ],
   "pokemon": {
@@ -779,6 +780,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:43:49.836Z",
       "lastPulledAt": "2026-09-18T19:43:49.836Z"
+    },
+    "661": {
+      "id": 661,
+      "name": "fletchling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 278,
+      "grade": "N",
+      "pulledAt": "2026-09-24T01:20:09.244Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T01:20:09.244Z",
+      "lastPulledAt": "2026-09-24T01:20:09.244Z"
     },
     "685": {
       "id": 685,
