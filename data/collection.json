@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 61,
-  "updatedAt": "2026-09-24T11:58:05.774Z",
+  "totalPulls": 62,
+  "updatedAt": "2026-09-24T17:01:14.227Z",
   "lastPull": {
-    "id": 516,
-    "name": "simipour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "id": 693,
+    "name": "clawitzer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
     "types": [
       "water"
     ],
-    "totalStats": 498,
-    "grade": "R",
-    "pulledAt": "2026-09-24T11:58:05.774Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T17:01:14.227Z"
   },
   "pulls": [
+    {
+      "id": 693,
+      "name": "clawitzer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T17:01:14.227Z"
+    },
     {
       "id": 516,
       "name": "simipour",
@@ -116,17 +127,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-23T01:30:26.836Z"
-    },
-    {
-      "id": 262,
-      "name": "mightyena",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-22T23:09:47.444Z"
     }
   ],
   "pokemon": {
@@ -826,6 +826,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:18.370Z",
       "lastPulledAt": "2026-09-16T01:51:18.370Z"
+    },
+    "693": {
+      "id": 693,
+      "name": "clawitzer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T17:01:14.227Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T17:01:14.227Z",
+      "lastPulledAt": "2026-09-24T17:01:14.227Z"
     },
     "729": {
       "id": 729,
