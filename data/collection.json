@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 63,
-  "updatedAt": "2026-09-24T20:27:09.062Z",
+  "totalPulls": 64,
+  "updatedAt": "2026-09-24T23:20:49.205Z",
   "lastPull": {
-    "id": 427,
-    "name": "buneary",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+    "id": 724,
+    "name": "decidueye",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
     "types": [
-      "normal"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-09-24T20:27:09.062Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T23:20:49.205Z"
   },
   "pulls": [
+    {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T23:20:49.205Z"
+    },
     {
       "id": 427,
       "name": "buneary",
@@ -114,18 +127,6 @@
       "totalStats": 329,
       "grade": "N",
       "pulledAt": "2026-09-23T12:10:49.083Z"
-    },
-    {
-      "id": 189,
-      "name": "jumpluff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-23T06:38:01.620Z"
     }
   ],
   "pokemon": {
@@ -840,6 +841,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:01:14.227Z",
       "lastPulledAt": "2026-09-24T17:01:14.227Z"
+    },
+    "724": {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T23:20:49.205Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T23:20:49.205Z",
+      "lastPulledAt": "2026-09-24T23:20:49.205Z"
     },
     "729": {
       "id": 729,
