@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 59,
-  "updatedAt": "2026-09-24T01:20:09.244Z",
+  "totalPulls": 60,
+  "updatedAt": "2026-09-24T06:17:20.008Z",
   "lastPull": {
-    "id": 661,
-    "name": "fletchling",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+    "id": 751,
+    "name": "dewpider",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
     "types": [
-      "normal",
-      "flying"
+      "water",
+      "bug"
     ],
-    "totalStats": 278,
+    "totalStats": 269,
     "grade": "N",
-    "pulledAt": "2026-09-24T01:20:09.244Z"
+    "pulledAt": "2026-09-24T06:17:20.008Z"
   },
   "pulls": [
+    {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-24T06:17:20.008Z"
+    },
     {
       "id": 661,
       "name": "fletchling",
@@ -116,17 +128,6 @@
       "totalStats": 404,
       "grade": "R",
       "pulledAt": "2026-09-22T20:23:25.218Z"
-    },
-    {
-      "id": 974,
-      "name": "cetoddle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 334,
-      "grade": "N",
-      "pulledAt": "2026-09-22T17:20:40.971Z"
     }
   ],
   "pokemon": {
@@ -858,6 +859,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T08:54:17.842Z",
       "lastPulledAt": "2026-09-19T08:54:17.842Z"
+    },
+    "751": {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-24T06:17:20.008Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T06:17:20.008Z",
+      "lastPulledAt": "2026-09-24T06:17:20.008Z"
     },
     "760": {
       "id": 760,
