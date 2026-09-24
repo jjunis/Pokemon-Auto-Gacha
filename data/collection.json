@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 62,
-  "updatedAt": "2026-09-24T17:01:14.227Z",
+  "totalPulls": 63,
+  "updatedAt": "2026-09-24T20:27:09.062Z",
   "lastPull": {
-    "id": 693,
-    "name": "clawitzer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "id": 427,
+    "name": "buneary",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T17:01:14.227Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-09-24T20:27:09.062Z"
   },
   "pulls": [
+    {
+      "id": 427,
+      "name": "buneary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-24T20:27:09.062Z"
+    },
     {
       "id": 693,
       "name": "clawitzer",
@@ -115,18 +126,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-09-23T06:38:01.620Z"
-    },
-    {
-      "id": 276,
-      "name": "taillow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-09-23T01:30:26.836Z"
     }
   ],
   "pokemon": {
@@ -528,10 +527,10 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-18T00:14:34.947Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:14:34.947Z",
-      "lastPulledAt": "2026-09-18T00:14:34.947Z"
+      "lastPulledAt": "2026-09-24T20:27:09.062Z"
     },
     "434": {
       "id": 434,
