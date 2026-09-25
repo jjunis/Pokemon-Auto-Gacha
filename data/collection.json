@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-09-25T17:21:36.775Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-09-25T20:38:48.702Z",
   "lastPull": {
-    "id": 565,
-    "name": "carracosta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+    "id": 226,
+    "name": "mantine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
     "types": [
       "water",
-      "rock"
+      "flying"
     ],
-    "totalStats": 495,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-09-25T17:21:36.775Z"
+    "pulledAt": "2026-09-25T20:38:48.702Z"
   },
   "pulls": [
+    {
+      "id": 226,
+      "name": "mantine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-25T20:38:48.702Z"
+    },
     {
       "id": 565,
       "name": "carracosta",
@@ -116,18 +128,6 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-09-24T06:17:20.008Z"
-    },
-    {
-      "id": 661,
-      "name": "fletchling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 278,
-      "grade": "N",
-      "pulledAt": "2026-09-24T01:20:09.244Z"
     }
   ],
   "pokemon": {
@@ -317,6 +317,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T01:44:33.862Z",
       "lastPulledAt": "2026-09-25T01:44:33.862Z"
+    },
+    "226": {
+      "id": 226,
+      "name": "mantine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-25T20:38:48.702Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T20:38:48.702Z",
+      "lastPulledAt": "2026-09-25T20:38:48.702Z"
     },
     "243": {
       "id": 243,
