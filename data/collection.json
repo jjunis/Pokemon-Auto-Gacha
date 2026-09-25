@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 66,
-  "updatedAt": "2026-09-25T06:42:06.953Z",
+  "totalPulls": 67,
+  "updatedAt": "2026-09-25T12:20:04.943Z",
   "lastPull": {
-    "id": 939,
-    "name": "bellibolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+    "id": 162,
+    "name": "furret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
     "types": [
-      "electric"
+      "normal"
     ],
-    "totalStats": 495,
+    "totalStats": 415,
     "grade": "R",
-    "pulledAt": "2026-09-25T06:42:06.953Z"
+    "pulledAt": "2026-09-25T12:20:04.943Z"
   },
   "pulls": [
+    {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-09-25T12:20:04.943Z"
+    },
     {
       "id": 939,
       "name": "bellibolt",
@@ -115,17 +126,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-23T23:05:10.365Z"
-    },
-    {
-      "id": 327,
-      "name": "spinda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-09-23T20:28:48.456Z"
     }
   ],
   "pokemon": {
@@ -237,6 +237,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T23:05:10.365Z",
       "lastPulledAt": "2026-09-23T23:05:10.365Z"
+    },
+    "162": {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-09-25T12:20:04.943Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T12:20:04.943Z",
+      "lastPulledAt": "2026-09-25T12:20:04.943Z"
     },
     "188": {
       "id": 188,
