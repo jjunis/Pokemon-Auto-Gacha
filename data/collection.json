@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 69,
-  "updatedAt": "2026-09-25T20:38:48.702Z",
+  "totalPulls": 70,
+  "updatedAt": "2026-09-25T23:33:43.163Z",
   "lastPull": {
-    "id": 226,
-    "name": "mantine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+    "id": 402,
+    "name": "kricketune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
     "types": [
-      "water",
-      "flying"
+      "bug"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-09-25T20:38:48.702Z"
+    "totalStats": 384,
+    "grade": "N",
+    "pulledAt": "2026-09-25T23:33:43.163Z"
   },
   "pulls": [
+    {
+      "id": 402,
+      "name": "kricketune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-09-25T23:33:43.163Z"
+    },
     {
       "id": 226,
       "name": "mantine",
@@ -116,18 +126,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-09-24T11:58:05.774Z"
-    },
-    {
-      "id": 751,
-      "name": "dewpider",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
-      "types": [
-        "water",
-        "bug"
-      ],
-      "totalStats": 269,
-      "grade": "N",
-      "pulledAt": "2026-09-24T06:17:20.008Z"
     }
   ],
   "pokemon": {
@@ -529,10 +527,10 @@
       "totalStats": 384,
       "grade": "N",
       "pulledAt": "2026-09-19T21:01:14.224Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T21:01:14.224Z",
-      "lastPulledAt": "2026-09-19T21:01:14.224Z"
+      "lastPulledAt": "2026-09-25T23:33:43.163Z"
     },
     "407": {
       "id": 407,
