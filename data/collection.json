@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-25T12:20:04.943Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-25T17:21:36.775Z",
   "lastPull": {
-    "id": 162,
-    "name": "furret",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+    "id": 565,
+    "name": "carracosta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
     "types": [
-      "normal"
+      "water",
+      "rock"
     ],
-    "totalStats": 415,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-09-25T12:20:04.943Z"
+    "pulledAt": "2026-09-25T17:21:36.775Z"
   },
   "pulls": [
+    {
+      "id": 565,
+      "name": "carracosta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-25T17:21:36.775Z"
+    },
     {
       "id": 162,
       "name": "furret",
@@ -115,17 +128,6 @@
       "totalStats": 278,
       "grade": "N",
       "pulledAt": "2026-09-24T01:20:09.244Z"
-    },
-    {
-      "id": 148,
-      "name": "dragonair",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-23T23:05:10.365Z"
     }
   ],
   "pokemon": {
@@ -748,6 +750,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:47:06.109Z",
       "lastPulledAt": "2026-09-17T00:47:06.109Z"
+    },
+    "565": {
+      "id": 565,
+      "name": "carracosta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-25T17:21:36.775Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T17:21:36.775Z",
+      "lastPulledAt": "2026-09-25T17:21:36.775Z"
     },
     "566": {
       "id": 566,
