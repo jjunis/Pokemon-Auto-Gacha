@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-09-25T01:44:33.862Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-09-25T06:42:06.953Z",
   "lastPull": {
-    "id": 218,
-    "name": "slugma",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+    "id": 939,
+    "name": "bellibolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
     "types": [
-      "fire"
+      "electric"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-09-25T01:44:33.862Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-25T06:42:06.953Z"
   },
   "pulls": [
+    {
+      "id": 939,
+      "name": "bellibolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-25T06:42:06.953Z"
+    },
     {
       "id": 218,
       "name": "slugma",
@@ -115,17 +126,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-09-23T20:28:48.456Z"
-    },
-    {
-      "id": 729,
-      "name": "brionne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-23T17:12:40.175Z"
     }
   ],
   "pokemon": {
@@ -1090,6 +1090,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:24:45.445Z",
       "lastPulledAt": "2026-09-17T10:24:45.445Z"
+    },
+    "939": {
+      "id": 939,
+      "name": "bellibolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-25T06:42:06.953Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T06:42:06.953Z",
+      "lastPulledAt": "2026-09-25T06:42:06.953Z"
     },
     "958": {
       "id": 958,
