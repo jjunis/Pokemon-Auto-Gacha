@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-09-24T23:20:49.205Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-09-25T01:44:33.862Z",
   "lastPull": {
-    "id": 724,
-    "name": "decidueye",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+    "id": 218,
+    "name": "slugma",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
     "types": [
-      "grass",
-      "ghost"
+      "fire"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T23:20:49.205Z"
+    "totalStats": 250,
+    "grade": "N",
+    "pulledAt": "2026-09-25T01:44:33.862Z"
   },
   "pulls": [
+    {
+      "id": 218,
+      "name": "slugma",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-25T01:44:33.862Z"
+    },
     {
       "id": 724,
       "name": "decidueye",
@@ -116,17 +126,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-23T17:12:40.175Z"
-    },
-    {
-      "id": 568,
-      "name": "trubbish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 329,
-      "grade": "N",
-      "pulledAt": "2026-09-23T12:10:49.083Z"
     }
   ],
   "pokemon": {
@@ -286,6 +285,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:55:46.579Z",
       "lastPulledAt": "2026-09-20T21:55:46.579Z"
+    },
+    "218": {
+      "id": 218,
+      "name": "slugma",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-25T01:44:33.862Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T01:44:33.862Z",
+      "lastPulledAt": "2026-09-25T01:44:33.862Z"
     },
     "243": {
       "id": 243,
