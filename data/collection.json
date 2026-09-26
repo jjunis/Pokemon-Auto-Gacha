@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 70,
-  "updatedAt": "2026-09-25T23:33:43.163Z",
+  "totalPulls": 71,
+  "updatedAt": "2026-09-26T01:57:12.110Z",
   "lastPull": {
-    "id": 402,
-    "name": "kricketune",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+    "id": 664,
+    "name": "scatterbug",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
     "types": [
       "bug"
     ],
-    "totalStats": 384,
+    "totalStats": 200,
     "grade": "N",
-    "pulledAt": "2026-09-25T23:33:43.163Z"
+    "pulledAt": "2026-09-26T01:57:12.110Z"
   },
   "pulls": [
+    {
+      "id": 664,
+      "name": "scatterbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-09-26T01:57:12.110Z"
+    },
     {
       "id": 402,
       "name": "kricketune",
@@ -115,17 +126,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-24T17:01:14.227Z"
-    },
-    {
-      "id": 516,
-      "name": "simipour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-09-24T11:58:05.774Z"
     }
   ],
   "pokemon": {
@@ -872,6 +872,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T01:20:09.244Z",
       "lastPulledAt": "2026-09-24T01:20:09.244Z"
+    },
+    "664": {
+      "id": 664,
+      "name": "scatterbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-09-26T01:57:12.110Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T01:57:12.110Z",
+      "lastPulledAt": "2026-09-26T01:57:12.110Z"
     },
     "685": {
       "id": 685,
