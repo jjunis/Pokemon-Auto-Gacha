@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 75,
-  "updatedAt": "2026-09-26T19:22:20.102Z",
+  "totalPulls": 76,
+  "updatedAt": "2026-09-26T22:06:10.047Z",
   "lastPull": {
-    "id": 515,
-    "name": "panpour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "id": 70,
+    "name": "weepinbell",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
     "types": [
-      "water"
+      "grass",
+      "poison"
     ],
-    "totalStats": 316,
+    "totalStats": 390,
     "grade": "N",
-    "pulledAt": "2026-09-26T19:22:20.102Z"
+    "pulledAt": "2026-09-26T22:06:10.047Z"
   },
   "pulls": [
+    {
+      "id": 70,
+      "name": "weepinbell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-26T22:06:10.047Z"
+    },
     {
       "id": 515,
       "name": "panpour",
@@ -115,17 +128,6 @@
       "totalStats": 415,
       "grade": "R",
       "pulledAt": "2026-09-25T12:20:04.943Z"
-    },
-    {
-      "id": 939,
-      "name": "bellibolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-25T06:42:06.953Z"
     }
   ],
   "pokemon": {
@@ -175,6 +177,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:52:36.608Z",
       "lastPulledAt": "2026-09-18T04:52:36.608Z"
+    },
+    "70": {
+      "id": 70,
+      "name": "weepinbell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-26T22:06:10.047Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T22:06:10.047Z",
+      "lastPulledAt": "2026-09-26T22:06:10.047Z"
     },
     "81": {
       "id": 81,
