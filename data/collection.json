@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 72,
-  "updatedAt": "2026-09-26T07:24:55.901Z",
+  "totalPulls": 73,
+  "updatedAt": "2026-09-26T12:20:35.406Z",
   "lastPull": {
-    "id": 362,
-    "name": "glalie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+    "id": 668,
+    "name": "pyroar-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
     "types": [
-      "ice"
+      "fire",
+      "normal"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-26T07:24:55.901Z"
+    "totalStats": 507,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T12:20:35.406Z"
   },
   "pulls": [
+    {
+      "id": 668,
+      "name": "pyroar-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T12:20:35.406Z"
+    },
     {
       "id": 362,
       "name": "glalie",
@@ -115,17 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-24T23:20:49.205Z"
-    },
-    {
-      "id": 427,
-      "name": "buneary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-24T20:27:09.062Z"
     }
   ],
   "pokemon": {
@@ -902,6 +904,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T01:57:12.110Z",
       "lastPulledAt": "2026-09-26T01:57:12.110Z"
+    },
+    "668": {
+      "id": 668,
+      "name": "pyroar-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T12:20:35.406Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T12:20:35.406Z",
+      "lastPulledAt": "2026-09-26T12:20:35.406Z"
     },
     "685": {
       "id": 685,
