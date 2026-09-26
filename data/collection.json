@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-26T01:57:12.110Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-26T07:24:55.901Z",
   "lastPull": {
-    "id": 664,
-    "name": "scatterbug",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+    "id": 362,
+    "name": "glalie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
     "types": [
-      "bug"
+      "ice"
     ],
-    "totalStats": 200,
-    "grade": "N",
-    "pulledAt": "2026-09-26T01:57:12.110Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-26T07:24:55.901Z"
   },
   "pulls": [
+    {
+      "id": 362,
+      "name": "glalie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-26T07:24:55.901Z"
+    },
     {
       "id": 664,
       "name": "scatterbug",
@@ -115,17 +126,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-24T20:27:09.062Z"
-    },
-    {
-      "id": 693,
-      "name": "clawitzer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T17:01:14.227Z"
     }
   ],
   "pokemon": {
@@ -455,6 +455,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T20:28:48.456Z",
       "lastPulledAt": "2026-09-23T20:28:48.456Z"
+    },
+    "362": {
+      "id": 362,
+      "name": "glalie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-26T07:24:55.901Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T07:24:55.901Z",
+      "lastPulledAt": "2026-09-26T07:24:55.901Z"
     },
     "379": {
       "id": 379,
