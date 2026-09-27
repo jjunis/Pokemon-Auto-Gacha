@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 76,
-  "updatedAt": "2026-09-26T22:06:10.047Z",
+  "totalPulls": 77,
+  "updatedAt": "2026-09-27T00:32:43.029Z",
   "lastPull": {
-    "id": 70,
-    "name": "weepinbell",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "id": 792,
+    "name": "lunala",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
     "types": [
-      "grass",
-      "poison"
+      "psychic",
+      "ghost"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-09-26T22:06:10.047Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-09-27T00:32:43.029Z"
   },
   "pulls": [
+    {
+      "id": 792,
+      "name": "lunala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-27T00:32:43.029Z"
+    },
     {
       "id": 70,
       "name": "weepinbell",
@@ -117,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-25T17:21:36.775Z"
-    },
-    {
-      "id": 162,
-      "name": "furret",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 415,
-      "grade": "R",
-      "pulledAt": "2026-09-25T12:20:04.943Z"
     }
   ],
   "pokemon": {
@@ -1108,6 +1109,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T13:44:11.638Z",
       "lastPulledAt": "2026-09-18T13:44:11.638Z"
+    },
+    "792": {
+      "id": 792,
+      "name": "lunala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-27T00:32:43.029Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T00:32:43.029Z",
+      "lastPulledAt": "2026-09-27T00:32:43.029Z"
     },
     "802": {
       "id": 802,
