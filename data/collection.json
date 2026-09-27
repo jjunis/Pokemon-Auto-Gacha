@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-27T05:42:45.457Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-27T10:49:15.804Z",
   "lastPull": {
-    "id": 76,
-    "name": "golem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "id": 358,
+    "name": "chimecho",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
     "types": [
-      "rock",
-      "ground"
+      "psychic"
     ],
-    "totalStats": 495,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-09-27T05:42:45.457Z"
+    "pulledAt": "2026-09-27T10:49:15.804Z"
   },
   "pulls": [
+    {
+      "id": 358,
+      "name": "chimecho",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-27T10:49:15.804Z"
+    },
     {
       "id": 76,
       "name": "golem",
@@ -117,18 +127,6 @@
       "totalStats": 384,
       "grade": "N",
       "pulledAt": "2026-09-25T23:33:43.163Z"
-    },
-    {
-      "id": 226,
-      "name": "mantine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-25T20:38:48.702Z"
     }
   ],
   "pokemon": {
@@ -505,6 +503,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T20:28:48.456Z",
       "lastPulledAt": "2026-09-23T20:28:48.456Z"
+    },
+    "358": {
+      "id": 358,
+      "name": "chimecho",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-27T10:49:15.804Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T10:49:15.804Z",
+      "lastPulledAt": "2026-09-27T10:49:15.804Z"
     },
     "362": {
       "id": 362,
