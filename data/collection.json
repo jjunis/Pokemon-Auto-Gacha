@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 81,
-  "updatedAt": "2026-09-27T19:09:51.331Z",
+  "totalPulls": 82,
+  "updatedAt": "2026-09-27T22:10:55.710Z",
   "lastPull": {
-    "id": 819,
-    "name": "skwovet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "id": 612,
+    "name": "haxorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
     "types": [
-      "normal"
+      "dragon"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-09-27T19:09:51.331Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T22:10:55.710Z"
   },
   "pulls": [
+    {
+      "id": 612,
+      "name": "haxorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T22:10:55.710Z"
+    },
     {
       "id": 819,
       "name": "skwovet",
@@ -116,17 +127,6 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-09-26T12:20:35.406Z"
-    },
-    {
-      "id": 362,
-      "name": "glalie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-26T07:24:55.901Z"
     }
   ],
   "pokemon": {
@@ -934,6 +934,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T09:25:13.905Z",
       "lastPulledAt": "2026-09-18T09:25:13.905Z"
+    },
+    "612": {
+      "id": 612,
+      "name": "haxorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T22:10:55.710Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T22:10:55.710Z",
+      "lastPulledAt": "2026-09-27T22:10:55.710Z"
     },
     "653": {
       "id": 653,
