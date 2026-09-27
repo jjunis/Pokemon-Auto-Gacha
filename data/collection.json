@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 79,
-  "updatedAt": "2026-09-27T10:49:15.804Z",
+  "totalPulls": 80,
+  "updatedAt": "2026-09-27T15:23:27.842Z",
   "lastPull": {
-    "id": 358,
-    "name": "chimecho",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+    "id": 55,
+    "name": "golduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
     "types": [
-      "psychic"
+      "water"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-09-27T10:49:15.804Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T15:23:27.842Z"
   },
   "pulls": [
+    {
+      "id": 55,
+      "name": "golduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T15:23:27.842Z"
+    },
     {
       "id": 358,
       "name": "chimecho",
@@ -116,17 +127,6 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-09-26T01:57:12.110Z"
-    },
-    {
-      "id": 402,
-      "name": "kricketune",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 384,
-      "grade": "N",
-      "pulledAt": "2026-09-25T23:33:43.163Z"
     }
   ],
   "pokemon": {
@@ -161,6 +161,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:50:46.965Z",
       "lastPulledAt": "2026-09-22T01:50:46.965Z"
+    },
+    "55": {
+      "id": 55,
+      "name": "golduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T15:23:27.842Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T15:23:27.842Z",
+      "lastPulledAt": "2026-09-27T15:23:27.842Z"
     },
     "64": {
       "id": 64,
