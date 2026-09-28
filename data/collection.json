@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-09-28T00:52:25.013Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-09-28T06:21:57.133Z",
   "lastPull": {
-    "id": 610,
-    "name": "axew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "id": 376,
+    "name": "metagross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
     "types": [
-      "dragon"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-09-28T00:52:25.013Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-28T06:21:57.133Z"
   },
   "pulls": [
+    {
+      "id": 376,
+      "name": "metagross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-28T06:21:57.133Z"
+    },
     {
       "id": 610,
       "name": "axew",
@@ -115,17 +128,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-09-26T19:22:20.102Z"
-    },
-    {
-      "id": 245,
-      "name": "suicune",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T16:35:35.358Z"
     }
   ],
   "pokemon": {
@@ -547,6 +549,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T07:24:55.901Z",
       "lastPulledAt": "2026-09-26T07:24:55.901Z"
+    },
+    "376": {
+      "id": 376,
+      "name": "metagross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-28T06:21:57.133Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T06:21:57.133Z",
+      "lastPulledAt": "2026-09-28T06:21:57.133Z"
     },
     "379": {
       "id": 379,
