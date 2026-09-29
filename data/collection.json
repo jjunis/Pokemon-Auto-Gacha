@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-29T18:36:04.734Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-29T22:35:19.137Z",
   "lastPull": {
-    "id": 869,
-    "name": "alcremie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+    "id": 561,
+    "name": "sigilyph",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
     "types": [
-      "fairy"
+      "psychic",
+      "flying"
     ],
-    "totalStats": 495,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-09-29T18:36:04.734Z"
+    "pulledAt": "2026-09-29T22:35:19.137Z"
   },
   "pulls": [
+    {
+      "id": 561,
+      "name": "sigilyph",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-29T22:35:19.137Z"
+    },
     {
       "id": 869,
       "name": "alcremie",
@@ -115,17 +128,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-27T22:10:55.710Z"
-    },
-    {
-      "id": 819,
-      "name": "skwovet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-27T19:09:51.331Z"
     }
   ],
   "pokemon": {
@@ -918,6 +920,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:47:06.109Z",
       "lastPulledAt": "2026-09-17T00:47:06.109Z"
+    },
+    "561": {
+      "id": 561,
+      "name": "sigilyph",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-29T22:35:19.137Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T22:35:19.137Z",
+      "lastPulledAt": "2026-09-29T22:35:19.137Z"
     },
     "565": {
       "id": 565,
