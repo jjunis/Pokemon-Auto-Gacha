@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-29T00:32:16.237Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-29T06:10:31.272Z",
   "lastPull": {
-    "id": 328,
-    "name": "trapinch",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "id": 326,
+    "name": "grumpig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
     "types": [
-      "ground"
+      "psychic"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-09-29T00:32:16.237Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-09-29T06:10:31.272Z"
   },
   "pulls": [
+    {
+      "id": 326,
+      "name": "grumpig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-29T06:10:31.272Z"
+    },
     {
       "id": 328,
       "name": "trapinch",
@@ -115,18 +126,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-27T10:49:15.804Z"
-    },
-    {
-      "id": 76,
-      "name": "golem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-27T05:42:45.457Z"
     }
   ],
   "pokemon": {
@@ -519,6 +518,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T04:20:19.980Z",
       "lastPulledAt": "2026-09-21T04:20:19.980Z"
+    },
+    "326": {
+      "id": 326,
+      "name": "grumpig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-29T06:10:31.272Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T06:10:31.272Z",
+      "lastPulledAt": "2026-09-29T06:10:31.272Z"
     },
     "327": {
       "id": 327,
