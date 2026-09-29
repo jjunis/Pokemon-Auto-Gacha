@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 89,
-  "updatedAt": "2026-09-29T13:04:04.462Z",
+  "totalPulls": 90,
+  "updatedAt": "2026-09-29T18:36:04.734Z",
   "lastPull": {
-    "id": 402,
-    "name": "kricketune",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+    "id": 869,
+    "name": "alcremie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
     "types": [
-      "bug"
+      "fairy"
     ],
-    "totalStats": 384,
-    "grade": "N",
-    "pulledAt": "2026-09-29T13:04:04.462Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-29T18:36:04.734Z"
   },
   "pulls": [
+    {
+      "id": 869,
+      "name": "alcremie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-29T18:36:04.734Z"
+    },
     {
       "id": 402,
       "name": "kricketune",
@@ -115,17 +126,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-27T19:09:51.331Z"
-    },
-    {
-      "id": 55,
-      "name": "golduck",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T15:23:27.842Z"
     }
   ],
   "pokemon": {
@@ -1291,6 +1291,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:09:51.331Z",
       "lastPulledAt": "2026-09-27T19:09:51.331Z"
+    },
+    "869": {
+      "id": 869,
+      "name": "alcremie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-29T18:36:04.734Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T18:36:04.734Z",
+      "lastPulledAt": "2026-09-29T18:36:04.734Z"
     },
     "887": {
       "id": 887,
