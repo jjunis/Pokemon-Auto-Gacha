@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-29T06:10:31.272Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-29T13:04:04.462Z",
   "lastPull": {
-    "id": 326,
-    "name": "grumpig",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+    "id": 402,
+    "name": "kricketune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
     "types": [
-      "psychic"
+      "bug"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-09-29T06:10:31.272Z"
+    "totalStats": 384,
+    "grade": "N",
+    "pulledAt": "2026-09-29T13:04:04.462Z"
   },
   "pulls": [
+    {
+      "id": 402,
+      "name": "kricketune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-09-29T13:04:04.462Z"
+    },
     {
       "id": 326,
       "name": "grumpig",
@@ -115,17 +126,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-27T15:23:27.842Z"
-    },
-    {
-      "id": 358,
-      "name": "chimecho",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-09-27T10:49:15.804Z"
     }
   ],
   "pokemon": {
@@ -681,10 +681,10 @@
       "totalStats": 384,
       "grade": "N",
       "pulledAt": "2026-09-19T21:01:14.224Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T21:01:14.224Z",
-      "lastPulledAt": "2026-09-25T23:33:43.163Z"
+      "lastPulledAt": "2026-09-29T13:04:04.462Z"
     },
     "407": {
       "id": 407,
