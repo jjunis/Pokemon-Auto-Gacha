@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 92,
-  "updatedAt": "2026-09-30T01:32:39.845Z",
+  "totalPulls": 93,
+  "updatedAt": "2026-09-30T07:24:23.416Z",
   "lastPull": {
-    "id": 578,
-    "name": "duosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "id": 96,
+    "name": "drowzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
     "types": [
       "psychic"
     ],
-    "totalStats": 370,
+    "totalStats": 328,
     "grade": "N",
-    "pulledAt": "2026-09-30T01:32:39.845Z"
+    "pulledAt": "2026-09-30T07:24:23.416Z"
   },
   "pulls": [
+    {
+      "id": 96,
+      "name": "drowzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-09-30T07:24:23.416Z"
+    },
     {
       "id": 578,
       "name": "duosion",
@@ -116,17 +127,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-28T06:21:57.133Z"
-    },
-    {
-      "id": 610,
-      "name": "axew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-28T00:52:25.013Z"
     }
   ],
   "pokemon": {
@@ -270,6 +270,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:50.303Z",
       "lastPulledAt": "2026-09-16T01:47:50.303Z"
+    },
+    "96": {
+      "id": 96,
+      "name": "drowzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-09-30T07:24:23.416Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T07:24:23.416Z",
+      "lastPulledAt": "2026-09-30T07:24:23.416Z"
     },
     "148": {
       "id": 148,
