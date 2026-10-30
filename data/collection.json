@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-10-30T19:14:06.813Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-10-30T22:40:40.491Z",
   "lastPull": {
-    "id": 487,
-    "name": "giratina-altered",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+    "id": 1002,
+    "name": "chien-pao",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
     "types": [
-      "ghost",
-      "dragon"
+      "dark",
+      "ice"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-30T19:14:06.813Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-30T22:40:40.491Z"
   },
   "pulls": [
+    {
+      "id": 1002,
+      "name": "chien-pao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T22:40:40.491Z"
+    },
     {
       "id": 487,
       "name": "giratina-altered",
@@ -115,18 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-29T00:32:16.237Z"
-    },
-    {
-      "id": 213,
-      "name": "shuckle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
-      "types": [
-        "bug",
-        "rock"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T20:37:03.004Z"
     }
   ],
   "pokemon": {
@@ -1538,6 +1538,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T17:20:40.971Z",
       "lastPulledAt": "2026-09-22T17:20:40.971Z"
+    },
+    "1002": {
+      "id": 1002,
+      "name": "chien-pao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T22:40:40.491Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T22:40:40.491Z",
+      "lastPulledAt": "2026-10-30T22:40:40.491Z"
     }
   },
   "typeTotals": {
