@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 94,
-  "updatedAt": "2026-09-30T14:05:37.374Z",
+  "totalPulls": 95,
+  "updatedAt": "2026-10-30T19:14:06.813Z",
   "lastPull": {
-    "id": 913,
-    "name": "quaxwell",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+    "id": 487,
+    "name": "giratina-altered",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
     "types": [
-      "water"
+      "ghost",
+      "dragon"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-09-30T14:05:37.374Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-30T19:14:06.813Z"
   },
   "pulls": [
+    {
+      "id": 487,
+      "name": "giratina-altered",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-30T19:14:06.813Z"
+    },
     {
       "id": 913,
       "name": "quaxwell",
@@ -114,18 +127,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-28T20:37:03.004Z"
-    },
-    {
-      "id": 947,
-      "name": "brambleghast",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-28T14:19:48.600Z"
     }
   ],
   "pokemon": {
@@ -825,6 +826,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:23:57.323Z",
       "lastPulledAt": "2026-09-16T22:23:57.323Z"
+    },
+    "487": {
+      "id": 487,
+      "name": "giratina-altered",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-30T19:14:06.813Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T19:14:06.813Z",
+      "lastPulledAt": "2026-10-30T19:14:06.813Z"
     },
     "512": {
       "id": 512,
