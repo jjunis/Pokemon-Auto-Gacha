@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-10-31T08:03:41.726Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-31T14:29:27.133Z",
   "lastPull": {
-    "id": 228,
-    "name": "houndour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+    "id": 115,
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "types": [
-      "dark",
-      "fire"
+      "normal"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-31T08:03:41.726Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-31T14:29:27.133Z"
   },
   "pulls": [
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-31T14:29:27.133Z"
+    },
     {
       "id": 228,
       "name": "houndour",
@@ -118,17 +128,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-29T18:36:04.734Z"
-    },
-    {
-      "id": 402,
-      "name": "kricketune",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 384,
-      "grade": "N",
-      "pulledAt": "2026-09-29T13:04:04.462Z"
     }
   ],
   "pokemon": {
@@ -287,6 +286,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T07:24:23.416Z",
       "lastPulledAt": "2026-09-30T07:24:23.416Z"
+    },
+    "115": {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-31T14:29:27.133Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T14:29:27.133Z",
+      "lastPulledAt": "2026-10-31T14:29:27.133Z"
     },
     "148": {
       "id": 148,
