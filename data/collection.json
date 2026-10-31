@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 96,
-  "updatedAt": "2026-10-30T22:40:40.491Z",
+  "totalPulls": 97,
+  "updatedAt": "2026-10-31T01:52:51.215Z",
   "lastPull": {
-    "id": 1002,
-    "name": "chien-pao",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+    "id": 84,
+    "name": "doduo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
     "types": [
-      "dark",
-      "ice"
+      "normal",
+      "flying"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-30T22:40:40.491Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-31T01:52:51.215Z"
   },
   "pulls": [
+    {
+      "id": 84,
+      "name": "doduo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-31T01:52:51.215Z"
+    },
     {
       "id": 1002,
       "name": "chien-pao",
@@ -116,17 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-29T06:10:31.272Z"
-    },
-    {
-      "id": 328,
-      "name": "trapinch",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-29T00:32:16.237Z"
     }
   ],
   "pokemon": {
@@ -251,10 +252,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-20T19:49:36.906Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:49:36.906Z",
-      "lastPulledAt": "2026-09-20T19:49:36.906Z"
+      "lastPulledAt": "2026-10-31T01:52:51.215Z"
     },
     "90": {
       "id": 90,
