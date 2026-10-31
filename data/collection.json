@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-10-31T01:52:51.215Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-10-31T08:03:41.726Z",
   "lastPull": {
-    "id": 84,
-    "name": "doduo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "id": 228,
+    "name": "houndour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
     "types": [
-      "normal",
-      "flying"
+      "dark",
+      "fire"
     ],
-    "totalStats": 310,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-31T01:52:51.215Z"
+    "pulledAt": "2026-10-31T08:03:41.726Z"
   },
   "pulls": [
+    {
+      "id": 228,
+      "name": "houndour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-31T08:03:41.726Z"
+    },
     {
       "id": 84,
       "name": "doduo",
@@ -117,17 +129,6 @@
       "totalStats": 384,
       "grade": "N",
       "pulledAt": "2026-09-29T13:04:04.462Z"
-    },
-    {
-      "id": 326,
-      "name": "grumpig",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-09-29T06:10:31.272Z"
     }
   ],
   "pokemon": {
@@ -411,6 +412,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T20:38:48.702Z",
       "lastPulledAt": "2026-09-25T20:38:48.702Z"
+    },
+    "228": {
+      "id": 228,
+      "name": "houndour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-31T08:03:41.726Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T08:03:41.726Z",
+      "lastPulledAt": "2026-10-31T08:03:41.726Z"
     },
     "243": {
       "id": 243,
