@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 104,
-  "updatedAt": "2026-11-01T14:05:32.412Z",
+  "totalPulls": 105,
+  "updatedAt": "2026-11-01T18:53:44.754Z",
   "lastPull": {
-    "id": 356,
-    "name": "dusclops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "id": 686,
+    "name": "inkay",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
     "types": [
-      "ghost"
+      "dark",
+      "psychic"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-11-01T14:05:32.412Z"
+    "totalStats": 288,
+    "grade": "N",
+    "pulledAt": "2026-11-01T18:53:44.754Z"
   },
   "pulls": [
+    {
+      "id": 686,
+      "name": "inkay",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-01T18:53:44.754Z"
+    },
     {
       "id": 356,
       "name": "dusclops",
@@ -117,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-30T22:40:40.491Z"
-    },
-    {
-      "id": 487,
-      "name": "giratina-altered",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
-      "types": [
-        "ghost",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-10-30T19:14:06.813Z"
     }
   ],
   "pokemon": {
@@ -1213,6 +1214,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:18.370Z",
       "lastPulledAt": "2026-09-16T01:51:18.370Z"
+    },
+    "686": {
+      "id": 686,
+      "name": "inkay",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-01T18:53:44.754Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T18:53:44.754Z",
+      "lastPulledAt": "2026-11-01T18:53:44.754Z"
     },
     "693": {
       "id": 693,
