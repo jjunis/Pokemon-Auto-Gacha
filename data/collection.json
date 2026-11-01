@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-11-01T18:53:44.754Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-11-01T22:36:17.899Z",
   "lastPull": {
-    "id": 686,
-    "name": "inkay",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "id": 573,
+    "name": "cinccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
     "types": [
-      "dark",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 288,
-    "grade": "N",
-    "pulledAt": "2026-11-01T18:53:44.754Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-11-01T22:36:17.899Z"
   },
   "pulls": [
+    {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-01T22:36:17.899Z"
+    },
     {
       "id": 686,
       "name": "inkay",
@@ -118,18 +128,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-31T01:52:51.215Z"
-    },
-    {
-      "id": 1002,
-      "name": "chien-pao",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
-      "types": [
-        "dark",
-        "ice"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-30T22:40:40.491Z"
     }
   ],
   "pokemon": {
@@ -1062,6 +1060,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T12:10:49.083Z",
       "lastPulledAt": "2026-09-23T12:10:49.083Z"
+    },
+    "573": {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-01T22:36:17.899Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T22:36:17.899Z",
+      "lastPulledAt": "2026-11-01T22:36:17.899Z"
     },
     "575": {
       "id": 575,
