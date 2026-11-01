@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 102,
-  "updatedAt": "2026-11-01T00:46:20.978Z",
+  "totalPulls": 103,
+  "updatedAt": "2026-11-01T06:54:15.560Z",
   "lastPull": {
-    "id": 407,
-    "name": "roserade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+    "id": 888,
+    "name": "zacian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
     "types": [
-      "grass",
-      "poison"
+      "fairy"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-11-01T00:46:20.978Z"
+    "totalStats": 660,
+    "grade": "SSR",
+    "pulledAt": "2026-11-01T06:54:15.560Z"
   },
   "pulls": [
+    {
+      "id": 888,
+      "name": "zacian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-11-01T06:54:15.560Z"
+    },
     {
       "id": 407,
       "name": "roserade",
@@ -119,17 +129,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-30T14:05:37.374Z"
-    },
-    {
-      "id": 96,
-      "name": "drowzee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 328,
-      "grade": "N",
-      "pulledAt": "2026-09-30T07:24:23.416Z"
     }
   ],
   "pokemon": {
@@ -1419,6 +1418,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T05:58:18.319Z",
       "lastPulledAt": "2026-09-20T05:58:18.319Z"
+    },
+    "888": {
+      "id": 888,
+      "name": "zacian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-11-01T06:54:15.560Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T06:54:15.560Z",
+      "lastPulledAt": "2026-11-01T06:54:15.560Z"
     },
     "892": {
       "id": 892,
