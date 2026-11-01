@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 101,
-  "updatedAt": "2026-10-31T21:55:34.019Z",
+  "totalPulls": 102,
+  "updatedAt": "2026-11-01T00:46:20.978Z",
   "lastPull": {
-    "id": 916,
-    "name": "oinkologne-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "id": 407,
+    "name": "roserade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
     "types": [
-      "normal"
+      "grass",
+      "poison"
     ],
-    "totalStats": 489,
-    "grade": "R",
-    "pulledAt": "2026-10-31T21:55:34.019Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-11-01T00:46:20.978Z"
   },
   "pulls": [
+    {
+      "id": 407,
+      "name": "roserade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T00:46:20.978Z"
+    },
     {
       "id": 916,
       "name": "oinkologne-male",
@@ -117,17 +130,6 @@
       "totalStats": 328,
       "grade": "N",
       "pulledAt": "2026-09-30T07:24:23.416Z"
-    },
-    {
-      "id": 578,
-      "name": "duosion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-09-30T01:32:39.845Z"
     }
   ],
   "pokemon": {
@@ -745,10 +747,10 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:34:13.846Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:34:13.846Z",
-      "lastPulledAt": "2026-09-16T01:34:13.846Z"
+      "lastPulledAt": "2026-11-01T00:46:20.978Z"
     },
     "409": {
       "id": 409,
