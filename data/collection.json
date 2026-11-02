@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-11-01T22:36:17.899Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-11-02T01:48:01.488Z",
   "lastPull": {
-    "id": 573,
-    "name": "cinccino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "id": 62,
+    "name": "poliwrath",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
     "types": [
-      "normal"
+      "water",
+      "fighting"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-11-01T22:36:17.899Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-02T01:48:01.488Z"
   },
   "pulls": [
+    {
+      "id": 62,
+      "name": "poliwrath",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-02T01:48:01.488Z"
+    },
     {
       "id": 573,
       "name": "cinccino",
@@ -116,18 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-31T08:03:41.726Z"
-    },
-    {
-      "id": 84,
-      "name": "doduo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-31T01:52:51.215Z"
     }
   ],
   "pokemon": {
@@ -177,6 +178,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T15:23:27.842Z",
       "lastPulledAt": "2026-09-27T15:23:27.842Z"
+    },
+    "62": {
+      "id": 62,
+      "name": "poliwrath",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-02T01:48:01.488Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T01:48:01.488Z",
+      "lastPulledAt": "2026-11-02T01:48:01.488Z"
     },
     "64": {
       "id": 64,
