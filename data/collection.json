@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 107,
-  "updatedAt": "2026-11-02T01:48:01.488Z",
+  "totalPulls": 108,
+  "updatedAt": "2026-11-02T08:25:02.337Z",
   "lastPull": {
-    "id": 62,
-    "name": "poliwrath",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "id": 100,
+    "name": "voltorb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
     "types": [
-      "water",
-      "fighting"
+      "electric"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-02T01:48:01.488Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-02T08:25:02.337Z"
   },
   "pulls": [
+    {
+      "id": 100,
+      "name": "voltorb",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-02T08:25:02.337Z"
+    },
     {
       "id": 62,
       "name": "poliwrath",
@@ -117,18 +127,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-31T14:29:27.133Z"
-    },
-    {
-      "id": 228,
-      "name": "houndour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
-      "types": [
-        "dark",
-        "fire"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-31T08:03:41.726Z"
     }
   ],
   "pokemon": {
@@ -303,6 +301,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T07:24:23.416Z",
       "lastPulledAt": "2026-09-30T07:24:23.416Z"
+    },
+    "100": {
+      "id": 100,
+      "name": "voltorb",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-02T08:25:02.337Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T08:25:02.337Z",
+      "lastPulledAt": "2026-11-02T08:25:02.337Z"
     },
     "115": {
       "id": 115,
