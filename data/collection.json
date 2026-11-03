@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-11-02T18:41:57.763Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-11-03T01:19:57.830Z",
   "lastPull": {
-    "id": 238,
-    "name": "smoochum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+    "id": 267,
+    "name": "beautifly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
     "types": [
-      "ice",
-      "psychic"
+      "bug",
+      "flying"
     ],
-    "totalStats": 305,
+    "totalStats": 395,
     "grade": "N",
-    "pulledAt": "2026-11-02T18:41:57.763Z"
+    "pulledAt": "2026-11-03T01:19:57.830Z"
   },
   "pulls": [
+    {
+      "id": 267,
+      "name": "beautifly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-11-03T01:19:57.830Z"
+    },
     {
       "id": 238,
       "name": "smoochum",
@@ -117,18 +129,6 @@
       "totalStats": 489,
       "grade": "R",
       "pulledAt": "2026-10-31T21:55:34.019Z"
-    },
-    {
-      "id": 802,
-      "name": "marshadow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
-      "types": [
-        "fighting",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-31T18:42:16.538Z"
     }
   ],
   "pokemon": {
@@ -566,6 +566,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T23:09:47.444Z",
       "lastPulledAt": "2026-09-22T23:09:47.444Z"
+    },
+    "267": {
+      "id": 267,
+      "name": "beautifly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-11-03T01:19:57.830Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T01:19:57.830Z",
+      "lastPulledAt": "2026-11-03T01:19:57.830Z"
     },
     "275": {
       "id": 275,
