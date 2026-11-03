@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 111,
-  "updatedAt": "2026-11-03T08:02:15.367Z",
+  "totalPulls": 112,
+  "updatedAt": "2026-11-03T16:09:43.918Z",
   "lastPull": {
-    "id": 397,
-    "name": "staravia",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+    "id": 306,
+    "name": "aggron",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
     "types": [
-      "normal",
-      "flying"
+      "steel",
+      "rock"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-03T08:02:15.367Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T16:09:43.918Z"
   },
   "pulls": [
+    {
+      "id": 306,
+      "name": "aggron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T16:09:43.918Z"
+    },
     {
       "id": 397,
       "name": "staravia",
@@ -118,18 +130,6 @@
       "totalStats": 660,
       "grade": "SSR",
       "pulledAt": "2026-11-01T06:54:15.560Z"
-    },
-    {
-      "id": 407,
-      "name": "roserade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-11-01T00:46:20.978Z"
     }
   ],
   "pokemon": {
@@ -631,6 +631,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T04:20:19.980Z",
       "lastPulledAt": "2026-09-21T04:20:19.980Z"
+    },
+    "306": {
+      "id": 306,
+      "name": "aggron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T16:09:43.918Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T16:09:43.918Z",
+      "lastPulledAt": "2026-11-03T16:09:43.918Z"
     },
     "326": {
       "id": 326,
