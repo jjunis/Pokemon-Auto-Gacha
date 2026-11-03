@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 110,
-  "updatedAt": "2026-11-03T01:19:57.830Z",
+  "totalPulls": 111,
+  "updatedAt": "2026-11-03T08:02:15.367Z",
   "lastPull": {
-    "id": 267,
-    "name": "beautifly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+    "id": 397,
+    "name": "staravia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
     "types": [
-      "bug",
+      "normal",
       "flying"
     ],
-    "totalStats": 395,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-11-03T01:19:57.830Z"
+    "pulledAt": "2026-11-03T08:02:15.367Z"
   },
   "pulls": [
+    {
+      "id": 397,
+      "name": "staravia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-03T08:02:15.367Z"
+    },
     {
       "id": 267,
       "name": "beautifly",
@@ -118,17 +130,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-11-01T00:46:20.978Z"
-    },
-    {
-      "id": 916,
-      "name": "oinkologne-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 489,
-      "grade": "R",
-      "pulledAt": "2026-10-31T21:55:34.019Z"
     }
   ],
   "pokemon": {
@@ -781,6 +782,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:56:46.639Z",
       "lastPulledAt": "2026-09-20T23:56:46.639Z"
+    },
+    "397": {
+      "id": 397,
+      "name": "staravia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-03T08:02:15.367Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T08:02:15.367Z",
+      "lastPulledAt": "2026-11-03T08:02:15.367Z"
     },
     "398": {
       "id": 398,
