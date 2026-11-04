@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-11-04T16:23:06.001Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-11-04T21:58:28.907Z",
   "lastPull": {
-    "id": 349,
-    "name": "feebas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+    "id": 892,
+    "name": "urshifu-single-strike",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
     "types": [
-      "water"
+      "fighting",
+      "dark"
     ],
-    "totalStats": 200,
-    "grade": "N",
-    "pulledAt": "2026-11-04T16:23:06.001Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-11-04T21:58:28.907Z"
   },
   "pulls": [
+    {
+      "id": 892,
+      "name": "urshifu-single-strike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
+      "types": [
+        "fighting",
+        "dark"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T21:58:28.907Z"
+    },
     {
       "id": 349,
       "name": "feebas",
@@ -117,18 +130,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-02T08:25:02.337Z"
-    },
-    {
-      "id": 62,
-      "name": "poliwrath",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-02T01:48:01.488Z"
     }
   ],
   "pokemon": {
@@ -1616,10 +1617,10 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-09-22T12:46:01.984Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:46:01.984Z",
-      "lastPulledAt": "2026-09-22T12:46:01.984Z"
+      "lastPulledAt": "2026-11-04T21:58:28.907Z"
     },
     "913": {
       "id": 913,
