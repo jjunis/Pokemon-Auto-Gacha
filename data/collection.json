@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 113,
-  "updatedAt": "2026-11-03T21:46:54.250Z",
+  "totalPulls": 114,
+  "updatedAt": "2026-11-04T01:43:13.050Z",
   "lastPull": {
-    "id": 803,
-    "name": "poipole",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
+    "id": 935,
+    "name": "charcadet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
     "types": [
-      "poison"
+      "fire"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-11-03T21:46:54.250Z"
+    "totalStats": 255,
+    "grade": "N",
+    "pulledAt": "2026-11-04T01:43:13.050Z"
   },
   "pulls": [
+    {
+      "id": 935,
+      "name": "charcadet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-11-04T01:43:13.050Z"
+    },
     {
       "id": 803,
       "name": "poipole",
@@ -118,17 +129,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-11-01T18:53:44.754Z"
-    },
-    {
-      "id": 356,
-      "name": "dusclops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-01T14:05:32.412Z"
     }
   ],
   "pokemon": {
@@ -1695,6 +1695,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:24:45.445Z",
       "lastPulledAt": "2026-09-17T10:24:45.445Z"
+    },
+    "935": {
+      "id": 935,
+      "name": "charcadet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-11-04T01:43:13.050Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T01:43:13.050Z",
+      "lastPulledAt": "2026-11-04T01:43:13.050Z"
     },
     "939": {
       "id": 939,
