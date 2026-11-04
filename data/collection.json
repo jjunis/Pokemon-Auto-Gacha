@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-11-04T01:43:13.050Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-11-04T08:08:29.632Z",
   "lastPull": {
-    "id": 935,
-    "name": "charcadet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+    "id": 1004,
+    "name": "chi-yu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
     "types": [
+      "dark",
       "fire"
     ],
-    "totalStats": 255,
-    "grade": "N",
-    "pulledAt": "2026-11-04T01:43:13.050Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-04T08:08:29.632Z"
   },
   "pulls": [
+    {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T08:08:29.632Z"
+    },
     {
       "id": 935,
       "name": "charcadet",
@@ -117,18 +130,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-01T22:36:17.899Z"
-    },
-    {
-      "id": 686,
-      "name": "inkay",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
-      "types": [
-        "dark",
-        "psychic"
-      ],
-      "totalStats": 288,
-      "grade": "N",
-      "pulledAt": "2026-11-01T18:53:44.754Z"
     }
   ],
   "pokemon": {
@@ -1788,6 +1789,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T22:40:40.491Z",
       "lastPulledAt": "2026-10-30T22:40:40.491Z"
+    },
+    "1004": {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T08:08:29.632Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T08:08:29.632Z",
+      "lastPulledAt": "2026-11-04T08:08:29.632Z"
     }
   },
   "typeTotals": {
