@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-11-04T08:08:29.632Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-11-04T16:23:06.001Z",
   "lastPull": {
-    "id": 1004,
-    "name": "chi-yu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+    "id": 349,
+    "name": "feebas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
     "types": [
-      "dark",
-      "fire"
+      "water"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T08:08:29.632Z"
+    "totalStats": 200,
+    "grade": "N",
+    "pulledAt": "2026-11-04T16:23:06.001Z"
   },
   "pulls": [
+    {
+      "id": 349,
+      "name": "feebas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-04T16:23:06.001Z"
+    },
     {
       "id": 1004,
       "name": "chi-yu",
@@ -119,17 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-02T01:48:01.488Z"
-    },
-    {
-      "id": 573,
-      "name": "cinccino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-01T22:36:17.899Z"
     }
   ],
   "pokemon": {
@@ -692,6 +691,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T00:32:16.237Z",
       "lastPulledAt": "2026-09-29T00:32:16.237Z"
+    },
+    "349": {
+      "id": 349,
+      "name": "feebas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-04T16:23:06.001Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T16:23:06.001Z",
+      "lastPulledAt": "2026-11-04T16:23:06.001Z"
     },
     "356": {
       "id": 356,
