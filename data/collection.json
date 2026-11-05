@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 117,
-  "updatedAt": "2026-11-04T21:58:28.907Z",
+  "totalPulls": 118,
+  "updatedAt": "2026-11-05T02:12:47.190Z",
   "lastPull": {
-    "id": 892,
-    "name": "urshifu-single-strike",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
+    "id": 309,
+    "name": "electrike",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
     "types": [
-      "fighting",
-      "dark"
+      "electric"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T21:58:28.907Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-11-05T02:12:47.190Z"
   },
   "pulls": [
+    {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-11-05T02:12:47.190Z"
+    },
     {
       "id": 892,
       "name": "urshifu-single-strike",
@@ -119,17 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-02T18:41:57.763Z"
-    },
-    {
-      "id": 100,
-      "name": "voltorb",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-02T08:25:02.337Z"
     }
   ],
   "pokemon": {
@@ -647,6 +646,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T16:09:43.918Z",
       "lastPulledAt": "2026-11-03T16:09:43.918Z"
+    },
+    "309": {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-11-05T02:12:47.190Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T02:12:47.190Z",
+      "lastPulledAt": "2026-11-05T02:12:47.190Z"
     },
     "326": {
       "id": 326,
