@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-11-05T02:12:47.190Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-11-05T09:37:18.992Z",
   "lastPull": {
-    "id": 309,
-    "name": "electrike",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "id": 246,
+    "name": "larvitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
     "types": [
-      "electric"
+      "rock",
+      "ground"
     ],
-    "totalStats": 295,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-11-05T02:12:47.190Z"
+    "pulledAt": "2026-11-05T09:37:18.992Z"
   },
   "pulls": [
+    {
+      "id": 246,
+      "name": "larvitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-05T09:37:18.992Z"
+    },
     {
       "id": 309,
       "name": "electrike",
@@ -117,18 +130,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-11-03T01:19:57.830Z"
-    },
-    {
-      "id": 238,
-      "name": "smoochum",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
-      "types": [
-        "ice",
-        "psychic"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-02T18:41:57.763Z"
     }
   ],
   "pokemon": {
@@ -520,6 +521,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T16:35:35.358Z",
       "lastPulledAt": "2026-09-26T16:35:35.358Z"
+    },
+    "246": {
+      "id": 246,
+      "name": "larvitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-05T09:37:18.992Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T09:37:18.992Z",
+      "lastPulledAt": "2026-11-05T09:37:18.992Z"
     },
     "251": {
       "id": 251,
