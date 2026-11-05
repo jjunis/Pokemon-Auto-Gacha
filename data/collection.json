@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 119,
-  "updatedAt": "2026-11-05T09:37:18.992Z",
+  "totalPulls": 120,
+  "updatedAt": "2026-11-05T17:38:18.998Z",
   "lastPull": {
-    "id": 246,
-    "name": "larvitar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "id": 985,
+    "name": "scream-tail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
     "types": [
-      "rock",
-      "ground"
+      "fairy",
+      "psychic"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-05T09:37:18.992Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-05T17:38:18.998Z"
   },
   "pulls": [
+    {
+      "id": 985,
+      "name": "scream-tail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T17:38:18.998Z"
+    },
     {
       "id": 246,
       "name": "larvitar",
@@ -118,18 +130,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-03T08:02:15.367Z"
-    },
-    {
-      "id": 267,
-      "name": "beautifly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-11-03T01:19:57.830Z"
     }
   ],
   "pokemon": {
@@ -1819,6 +1819,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T17:20:40.971Z",
       "lastPulledAt": "2026-09-22T17:20:40.971Z"
+    },
+    "985": {
+      "id": 985,
+      "name": "scream-tail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T17:38:18.998Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T17:38:18.998Z",
+      "lastPulledAt": "2026-11-05T17:38:18.998Z"
     },
     "1002": {
       "id": 1002,
