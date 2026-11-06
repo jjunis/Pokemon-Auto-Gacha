@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 124,
-  "updatedAt": "2026-11-06T17:56:20.834Z",
+  "totalPulls": 125,
+  "updatedAt": "2026-11-06T22:53:18.520Z",
   "lastPull": {
-    "id": 646,
-    "name": "kyurem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+    "id": 8,
+    "name": "wartortle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
     "types": [
-      "dragon",
-      "ice"
+      "water"
     ],
-    "totalStats": 660,
-    "grade": "SSR",
-    "pulledAt": "2026-11-06T17:56:20.834Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-06T22:53:18.520Z"
   },
   "pulls": [
+    {
+      "id": 8,
+      "name": "wartortle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-06T22:53:18.520Z"
+    },
     {
       "id": 646,
       "name": "kyurem",
@@ -118,21 +128,24 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-11-04T16:23:06.001Z"
-    },
-    {
-      "id": 1004,
-      "name": "chi-yu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
-      "types": [
-        "dark",
-        "fire"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-04T08:08:29.632Z"
     }
   ],
   "pokemon": {
+    "8": {
+      "id": 8,
+      "name": "wartortle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-06T22:53:18.520Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T22:53:18.520Z",
+      "lastPulledAt": "2026-11-06T22:53:18.520Z"
+    },
     "31": {
       "id": 31,
       "name": "nidoqueen",
