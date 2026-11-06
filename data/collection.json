@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 121,
-  "updatedAt": "2026-11-05T22:52:03.836Z",
+  "totalPulls": 122,
+  "updatedAt": "2026-11-06T03:14:44.500Z",
   "lastPull": {
-    "id": 571,
-    "name": "zoroark",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "id": 198,
+    "name": "murkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
     "types": [
-      "dark"
+      "dark",
+      "flying"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-05T22:52:03.836Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-06T03:14:44.500Z"
   },
   "pulls": [
+    {
+      "id": 198,
+      "name": "murkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-06T03:14:44.500Z"
+    },
     {
       "id": 571,
       "name": "zoroark",
@@ -116,18 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-03T21:46:54.250Z"
-    },
-    {
-      "id": 306,
-      "name": "aggron",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
-      "types": [
-        "steel",
-        "rock"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T16:09:43.918Z"
     }
   ],
   "pokemon": {
@@ -394,6 +395,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:38:01.620Z",
       "lastPulledAt": "2026-09-23T06:38:01.620Z"
+    },
+    "198": {
+      "id": 198,
+      "name": "murkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-06T03:14:44.500Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T03:14:44.500Z",
+      "lastPulledAt": "2026-11-06T03:14:44.500Z"
     },
     "212": {
       "id": 212,
