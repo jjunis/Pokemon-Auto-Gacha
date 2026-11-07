@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 125,
-  "updatedAt": "2026-11-06T22:53:18.520Z",
+  "totalPulls": 126,
+  "updatedAt": "2026-11-07T02:33:59.385Z",
   "lastPull": {
-    "id": 8,
-    "name": "wartortle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "id": 901,
+    "name": "ursaluna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
     "types": [
-      "water"
+      "ground",
+      "normal"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-06T22:53:18.520Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T02:33:59.385Z"
   },
   "pulls": [
+    {
+      "id": 901,
+      "name": "ursaluna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T02:33:59.385Z"
+    },
     {
       "id": 8,
       "name": "wartortle",
@@ -117,17 +130,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-04T21:58:28.907Z"
-    },
-    {
-      "id": 349,
-      "name": "feebas",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 200,
-      "grade": "N",
-      "pulledAt": "2026-11-04T16:23:06.001Z"
     }
   ],
   "pokemon": {
@@ -1727,6 +1729,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:46:01.984Z",
       "lastPulledAt": "2026-11-04T21:58:28.907Z"
+    },
+    "901": {
+      "id": 901,
+      "name": "ursaluna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T02:33:59.385Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T02:33:59.385Z",
+      "lastPulledAt": "2026-11-07T02:33:59.385Z"
     },
     "913": {
       "id": 913,
