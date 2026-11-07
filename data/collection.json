@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 128,
-  "updatedAt": "2026-11-07T15:44:42.942Z",
+  "totalPulls": 129,
+  "updatedAt": "2026-11-07T19:40:17.129Z",
   "lastPull": {
-    "id": 447,
-    "name": "riolu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "id": 897,
+    "name": "spectrier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
     "types": [
-      "fighting"
+      "ghost"
     ],
-    "totalStats": 285,
-    "grade": "N",
-    "pulledAt": "2026-11-07T15:44:42.942Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T19:40:17.129Z"
   },
   "pulls": [
+    {
+      "id": 897,
+      "name": "spectrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T19:40:17.129Z"
+    },
     {
       "id": 447,
       "name": "riolu",
@@ -117,18 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-05T17:38:18.998Z"
-    },
-    {
-      "id": 246,
-      "name": "larvitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-05T09:37:18.992Z"
     }
   ],
   "pokemon": {
@@ -1759,6 +1758,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:46:01.984Z",
       "lastPulledAt": "2026-11-04T21:58:28.907Z"
+    },
+    "897": {
+      "id": 897,
+      "name": "spectrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T19:40:17.129Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T19:40:17.129Z",
+      "lastPulledAt": "2026-11-07T19:40:17.129Z"
     },
     "901": {
       "id": 901,
