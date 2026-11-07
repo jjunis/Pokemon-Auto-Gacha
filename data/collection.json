@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 129,
-  "updatedAt": "2026-11-07T19:40:17.129Z",
+  "totalPulls": 130,
+  "updatedAt": "2026-11-07T23:06:48.363Z",
   "lastPull": {
-    "id": 897,
-    "name": "spectrier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+    "id": 961,
+    "name": "wugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
     "types": [
-      "ghost"
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-07T19:40:17.129Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-11-07T23:06:48.363Z"
   },
   "pulls": [
+    {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-07T23:06:48.363Z"
+    },
     {
       "id": 897,
       "name": "spectrier",
@@ -116,18 +127,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-05T22:52:03.836Z"
-    },
-    {
-      "id": 985,
-      "name": "scream-tail",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
-      "types": [
-        "fairy",
-        "psychic"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-05T17:38:18.998Z"
     }
   ],
   "pokemon": {
@@ -1941,6 +1940,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:54:33.904Z",
       "lastPulledAt": "2026-09-16T01:54:33.904Z"
+    },
+    "961": {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-07T23:06:48.363Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T23:06:48.363Z",
+      "lastPulledAt": "2026-11-07T23:06:48.363Z"
     },
     "974": {
       "id": 974,
