@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-11-07T09:13:31.063Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-11-07T15:44:42.942Z",
   "lastPull": {
-    "id": 595,
-    "name": "joltik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "id": 447,
+    "name": "riolu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
     "types": [
-      "bug",
-      "electric"
+      "fighting"
     ],
-    "totalStats": 319,
+    "totalStats": 285,
     "grade": "N",
-    "pulledAt": "2026-11-07T09:13:31.063Z"
+    "pulledAt": "2026-11-07T15:44:42.942Z"
   },
   "pulls": [
+    {
+      "id": 447,
+      "name": "riolu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-11-07T15:44:42.942Z"
+    },
     {
       "id": 595,
       "name": "joltik",
@@ -119,17 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-05T09:37:18.992Z"
-    },
-    {
-      "id": 309,
-      "name": "electrike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-11-05T02:12:47.190Z"
     }
   ],
   "pokemon": {
@@ -1015,6 +1014,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:17:34.913Z",
       "lastPulledAt": "2026-09-19T16:17:34.913Z"
+    },
+    "447": {
+      "id": 447,
+      "name": "riolu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-11-07T15:44:42.942Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T15:44:42.942Z",
+      "lastPulledAt": "2026-11-07T15:44:42.942Z"
     },
     "464": {
       "id": 464,
