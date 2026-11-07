@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 126,
-  "updatedAt": "2026-11-07T02:33:59.385Z",
+  "totalPulls": 127,
+  "updatedAt": "2026-11-07T09:13:31.063Z",
   "lastPull": {
-    "id": 901,
-    "name": "ursaluna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+    "id": 595,
+    "name": "joltik",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
     "types": [
-      "ground",
-      "normal"
+      "bug",
+      "electric"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-11-07T02:33:59.385Z"
+    "totalStats": 319,
+    "grade": "N",
+    "pulledAt": "2026-11-07T09:13:31.063Z"
   },
   "pulls": [
+    {
+      "id": 595,
+      "name": "joltik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 319,
+      "grade": "N",
+      "pulledAt": "2026-11-07T09:13:31.063Z"
+    },
     {
       "id": 901,
       "name": "ursaluna",
@@ -118,18 +130,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-11-05T02:12:47.190Z"
-    },
-    {
-      "id": 892,
-      "name": "urshifu-single-strike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
-      "types": [
-        "fighting",
-        "dark"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-11-04T21:58:28.907Z"
     }
   ],
   "pokemon": {
@@ -1309,6 +1309,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T01:32:39.845Z",
       "lastPulledAt": "2026-09-30T01:32:39.845Z"
+    },
+    "595": {
+      "id": 595,
+      "name": "joltik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 319,
+      "grade": "N",
+      "pulledAt": "2026-11-07T09:13:31.063Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T09:13:31.063Z",
+      "lastPulledAt": "2026-11-07T09:13:31.063Z"
     },
     "600": {
       "id": 600,
