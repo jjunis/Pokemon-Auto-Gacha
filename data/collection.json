@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 130,
-  "updatedAt": "2026-11-07T23:06:48.363Z",
+  "totalPulls": 131,
+  "updatedAt": "2026-11-08T02:24:34.583Z",
   "lastPull": {
-    "id": 961,
-    "name": "wugtrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+    "id": 978,
+    "name": "tatsugiri-curly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
     "types": [
+      "dragon",
       "water"
     ],
-    "totalStats": 425,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-11-07T23:06:48.363Z"
+    "pulledAt": "2026-11-08T02:24:34.583Z"
   },
   "pulls": [
+    {
+      "id": 978,
+      "name": "tatsugiri-curly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-08T02:24:34.583Z"
+    },
     {
       "id": 961,
       "name": "wugtrio",
@@ -116,17 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-06T03:14:44.500Z"
-    },
-    {
-      "id": 571,
-      "name": "zoroark",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-05T22:52:03.836Z"
     }
   ],
   "pokemon": {
@@ -1970,6 +1972,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T17:20:40.971Z",
       "lastPulledAt": "2026-09-22T17:20:40.971Z"
+    },
+    "978": {
+      "id": 978,
+      "name": "tatsugiri-curly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-08T02:24:34.583Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T02:24:34.583Z",
+      "lastPulledAt": "2026-11-08T02:24:34.583Z"
     },
     "985": {
       "id": 985,
