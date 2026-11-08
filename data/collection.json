@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-11-08T20:35:20.762Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-11-08T23:59:38.820Z",
   "lastPull": {
-    "id": 123,
-    "name": "scyther",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "id": 543,
+    "name": "venipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
     "types": [
       "bug",
-      "flying"
+      "poison"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T20:35:20.762Z"
+    "totalStats": 260,
+    "grade": "N",
+    "pulledAt": "2026-11-08T23:59:38.820Z"
   },
   "pulls": [
+    {
+      "id": 543,
+      "name": "venipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-08T23:59:38.820Z"
+    },
     {
       "id": 123,
       "name": "scyther",
@@ -118,17 +130,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-07T02:33:59.385Z"
-    },
-    {
-      "id": 8,
-      "name": "wartortle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-06T22:53:18.520Z"
     }
   ],
   "pokemon": {
@@ -1201,6 +1202,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T10:08:25.345Z",
       "lastPulledAt": "2026-09-21T10:08:25.345Z"
+    },
+    "543": {
+      "id": 543,
+      "name": "venipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-08T23:59:38.820Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T23:59:38.820Z",
+      "lastPulledAt": "2026-11-08T23:59:38.820Z"
     },
     "548": {
       "id": 548,
