@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-11-08T16:11:27.226Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-11-08T20:35:20.762Z",
   "lastPull": {
-    "id": 334,
-    "name": "altaria",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "id": 123,
+    "name": "scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
     "types": [
-      "dragon",
+      "bug",
       "flying"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-08T16:11:27.226Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-08T20:35:20.762Z"
   },
   "pulls": [
+    {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T20:35:20.762Z"
+    },
     {
       "id": 334,
       "name": "altaria",
@@ -117,18 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-06T22:53:18.520Z"
-    },
-    {
-      "id": 646,
-      "name": "kyurem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 660,
-      "grade": "SSR",
-      "pulledAt": "2026-11-06T17:56:20.834Z"
     }
   ],
   "pokemon": {
@@ -348,6 +348,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-31T14:29:27.133Z",
       "lastPulledAt": "2026-10-31T14:29:27.133Z"
+    },
+    "123": {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T20:35:20.762Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T20:35:20.762Z",
+      "lastPulledAt": "2026-11-08T20:35:20.762Z"
     },
     "136": {
       "id": 136,
