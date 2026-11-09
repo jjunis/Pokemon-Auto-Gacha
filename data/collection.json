@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 136,
-  "updatedAt": "2026-11-09T06:01:25.226Z",
+  "totalPulls": 137,
+  "updatedAt": "2026-11-09T16:06:01.453Z",
   "lastPull": {
-    "id": 534,
-    "name": "conkeldurr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "id": 776,
+    "name": "turtonator",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
     "types": [
-      "fighting"
+      "fire",
+      "dragon"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-11-09T06:01:25.226Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-09T16:06:01.453Z"
   },
   "pulls": [
+    {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-09T16:06:01.453Z"
+    },
     {
       "id": 534,
       "name": "conkeldurr",
@@ -116,18 +129,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-11-07T15:44:42.942Z"
-    },
-    {
-      "id": 595,
-      "name": "joltik",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
-      "types": [
-        "bug",
-        "electric"
-      ],
-      "totalStats": 319,
-      "grade": "N",
-      "pulledAt": "2026-11-07T09:13:31.063Z"
     }
   ],
   "pokemon": {
@@ -1696,6 +1697,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T23:35:16.730Z",
       "lastPulledAt": "2026-09-21T23:35:16.730Z"
+    },
+    "776": {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-09T16:06:01.453Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T16:06:01.453Z",
+      "lastPulledAt": "2026-11-09T16:06:01.453Z"
     },
     "785": {
       "id": 785,
