@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-11-08T23:59:38.820Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-11-09T06:01:25.226Z",
   "lastPull": {
-    "id": 543,
-    "name": "venipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+    "id": 534,
+    "name": "conkeldurr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
     "types": [
-      "bug",
-      "poison"
+      "fighting"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-11-08T23:59:38.820Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-09T06:01:25.226Z"
   },
   "pulls": [
+    {
+      "id": 534,
+      "name": "conkeldurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T06:01:25.226Z"
+    },
     {
       "id": 543,
       "name": "venipede",
@@ -118,18 +128,6 @@
       "totalStats": 319,
       "grade": "N",
       "pulledAt": "2026-11-07T09:13:31.063Z"
-    },
-    {
-      "id": 901,
-      "name": "ursaluna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
-      "types": [
-        "ground",
-        "normal"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T02:33:59.385Z"
     }
   ],
   "pokemon": {
@@ -1186,6 +1184,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T04:24:02.022Z",
       "lastPulledAt": "2026-09-19T04:24:02.022Z"
+    },
+    "534": {
+      "id": 534,
+      "name": "conkeldurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T06:01:25.226Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T06:01:25.226Z",
+      "lastPulledAt": "2026-11-09T06:01:25.226Z"
     },
     "541": {
       "id": 541,
