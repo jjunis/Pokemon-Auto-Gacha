@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-11-09T16:06:01.453Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-11-10T00:13:17.364Z",
   "lastPull": {
-    "id": 776,
-    "name": "turtonator",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+    "id": 226,
+    "name": "mantine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
     "types": [
-      "fire",
-      "dragon"
+      "water",
+      "flying"
     ],
     "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-11-09T16:06:01.453Z"
+    "pulledAt": "2026-11-10T00:13:17.364Z"
   },
   "pulls": [
+    {
+      "id": 226,
+      "name": "mantine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-10T00:13:17.364Z"
+    },
     {
       "id": 776,
       "name": "turtonator",
@@ -118,17 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-07T19:40:17.129Z"
-    },
-    {
-      "id": 447,
-      "name": "riolu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-11-07T15:44:42.942Z"
     }
   ],
   "pokemon": {
@@ -516,10 +517,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-25T20:38:48.702Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T20:38:48.702Z",
-      "lastPulledAt": "2026-09-25T20:38:48.702Z"
+      "lastPulledAt": "2026-11-10T00:13:17.364Z"
     },
     "228": {
       "id": 228,
