@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 139,
-  "updatedAt": "2026-11-10T07:28:48.455Z",
+  "totalPulls": 140,
+  "updatedAt": "2026-11-10T15:44:24.109Z",
   "lastPull": {
-    "id": 43,
-    "name": "oddish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "id": 956,
+    "name": "espathra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
     "types": [
-      "grass",
-      "poison"
+      "psychic"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-11-10T07:28:48.455Z"
+    "totalStats": 481,
+    "grade": "R",
+    "pulledAt": "2026-11-10T15:44:24.109Z"
   },
   "pulls": [
+    {
+      "id": 956,
+      "name": "espathra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-11-10T15:44:24.109Z"
+    },
     {
       "id": 43,
       "name": "oddish",
@@ -120,17 +130,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-11-08T02:24:34.583Z"
-    },
-    {
-      "id": 961,
-      "name": "wugtrio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-11-07T23:06:48.363Z"
     }
   ],
   "pokemon": {
@@ -2038,6 +2037,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T14:19:48.600Z",
       "lastPulledAt": "2026-09-28T14:19:48.600Z"
+    },
+    "956": {
+      "id": 956,
+      "name": "espathra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-11-10T15:44:24.109Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T15:44:24.109Z",
+      "lastPulledAt": "2026-11-10T15:44:24.109Z"
     },
     "958": {
       "id": 958,
