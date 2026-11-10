@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-11-10T00:13:17.364Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-11-10T07:28:48.455Z",
   "lastPull": {
-    "id": 226,
-    "name": "mantine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+    "id": 43,
+    "name": "oddish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
     "types": [
-      "water",
-      "flying"
+      "grass",
+      "poison"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-10T00:13:17.364Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-11-10T07:28:48.455Z"
   },
   "pulls": [
+    {
+      "id": 43,
+      "name": "oddish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-10T07:28:48.455Z"
+    },
     {
       "id": 226,
       "name": "mantine",
@@ -119,17 +131,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-11-07T23:06:48.363Z"
-    },
-    {
-      "id": 897,
-      "name": "spectrier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T19:40:17.129Z"
     }
   ],
   "pokemon": {
@@ -179,6 +180,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:50:46.965Z",
       "lastPulledAt": "2026-09-22T01:50:46.965Z"
+    },
+    "43": {
+      "id": 43,
+      "name": "oddish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-10T07:28:48.455Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T07:28:48.455Z",
+      "lastPulledAt": "2026-11-10T07:28:48.455Z"
     },
     "55": {
       "id": 55,
