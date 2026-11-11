@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 143,
-  "updatedAt": "2026-11-11T08:04:20.697Z",
+  "totalPulls": 144,
+  "updatedAt": "2026-11-11T16:06:19.750Z",
   "lastPull": {
-    "id": 847,
-    "name": "barraskewda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+    "id": 104,
+    "name": "cubone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
     "types": [
-      "water"
+      "ground"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-11T08:04:20.697Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-11-11T16:06:19.750Z"
   },
   "pulls": [
+    {
+      "id": 104,
+      "name": "cubone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-11T16:06:19.750Z"
+    },
     {
       "id": 847,
       "name": "barraskewda",
@@ -116,18 +127,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-11-08T23:59:38.820Z"
-    },
-    {
-      "id": 123,
-      "name": "scyther",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T20:35:20.762Z"
     }
   ],
   "pokemon": {
@@ -348,6 +347,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-02T08:25:02.337Z",
       "lastPulledAt": "2026-11-02T08:25:02.337Z"
+    },
+    "104": {
+      "id": 104,
+      "name": "cubone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-11T16:06:19.750Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T16:06:19.750Z",
+      "lastPulledAt": "2026-11-11T16:06:19.750Z"
     },
     "115": {
       "id": 115,
