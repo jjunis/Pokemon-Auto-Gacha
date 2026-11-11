@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 144,
-  "updatedAt": "2026-11-11T16:06:19.750Z",
+  "totalPulls": 145,
+  "updatedAt": "2026-11-11T22:39:49.585Z",
   "lastPull": {
-    "id": 104,
-    "name": "cubone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "id": 485,
+    "name": "heatran",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
     "types": [
-      "ground"
+      "fire",
+      "steel"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-11-11T16:06:19.750Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-11T22:39:49.585Z"
   },
   "pulls": [
+    {
+      "id": 485,
+      "name": "heatran",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+      "types": [
+        "fire",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-11T22:39:49.585Z"
+    },
     {
       "id": 104,
       "name": "cubone",
@@ -115,18 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-09T06:01:25.226Z"
-    },
-    {
-      "id": 543,
-      "name": "venipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-11-08T23:59:38.820Z"
     }
   ],
   "pokemon": {
@@ -1137,6 +1138,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:23:57.323Z",
       "lastPulledAt": "2026-09-16T22:23:57.323Z"
+    },
+    "485": {
+      "id": 485,
+      "name": "heatran",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+      "types": [
+        "fire",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-11T22:39:49.585Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T22:39:49.585Z",
+      "lastPulledAt": "2026-11-11T22:39:49.585Z"
     },
     "487": {
       "id": 487,
