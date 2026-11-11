@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 141,
-  "updatedAt": "2026-11-10T21:27:27.704Z",
+  "totalPulls": 142,
+  "updatedAt": "2026-11-11T01:25:01.451Z",
   "lastPull": {
-    "id": 729,
-    "name": "brionne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+    "id": 594,
+    "name": "alomomola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
     "types": [
       "water"
     ],
-    "totalStats": 420,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-11-10T21:27:27.704Z"
+    "pulledAt": "2026-11-11T01:25:01.451Z"
   },
   "pulls": [
+    {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-11T01:25:01.451Z"
+    },
     {
       "id": 729,
       "name": "brionne",
@@ -118,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-08T16:11:27.226Z"
-    },
-    {
-      "id": 735,
-      "name": "gumshoos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 418,
-      "grade": "R",
-      "pulledAt": "2026-11-08T09:20:52.620Z"
     }
   ],
   "pokemon": {
@@ -1402,6 +1402,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T01:32:39.845Z",
       "lastPulledAt": "2026-09-30T01:32:39.845Z"
+    },
+    "594": {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-11T01:25:01.451Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T01:25:01.451Z",
+      "lastPulledAt": "2026-11-11T01:25:01.451Z"
     },
     "595": {
       "id": 595,
