@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-11-11T01:25:01.451Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-11-11T08:04:20.697Z",
   "lastPull": {
-    "id": 594,
-    "name": "alomomola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+    "id": 847,
+    "name": "barraskewda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
     "types": [
       "water"
     ],
-    "totalStats": 470,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-11-11T01:25:01.451Z"
+    "pulledAt": "2026-11-11T08:04:20.697Z"
   },
   "pulls": [
+    {
+      "id": 847,
+      "name": "barraskewda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-11T08:04:20.697Z"
+    },
     {
       "id": 594,
       "name": "alomomola",
@@ -117,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-08T20:35:20.762Z"
-    },
-    {
-      "id": 334,
-      "name": "altaria",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
-      "types": [
-        "dragon",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-08T16:11:27.226Z"
     }
   ],
   "pokemon": {
@@ -1822,6 +1821,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:09:51.331Z",
       "lastPulledAt": "2026-09-27T19:09:51.331Z"
+    },
+    "847": {
+      "id": 847,
+      "name": "barraskewda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-11T08:04:20.697Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T08:04:20.697Z",
+      "lastPulledAt": "2026-11-11T08:04:20.697Z"
     },
     "869": {
       "id": 869,
