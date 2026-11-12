@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 146,
-  "updatedAt": "2026-11-12T03:23:22.933Z",
+  "totalPulls": 147,
+  "updatedAt": "2026-11-12T11:40:22.758Z",
   "lastPull": {
-    "id": 775,
-    "name": "komala",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "id": 783,
+    "name": "hakamo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
     "types": [
-      "normal"
+      "dragon",
+      "fighting"
     ],
-    "totalStats": 480,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-11-12T03:23:22.933Z"
+    "pulledAt": "2026-11-12T11:40:22.758Z"
   },
   "pulls": [
+    {
+      "id": 783,
+      "name": "hakamo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-12T11:40:22.758Z"
+    },
     {
       "id": 775,
       "name": "komala",
@@ -115,18 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-10T00:13:17.364Z"
-    },
-    {
-      "id": 776,
-      "name": "turtonator",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
-      "types": [
-        "fire",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-09T16:06:01.453Z"
     }
   ],
   "pokemon": {
@@ -1788,6 +1789,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-09T16:06:01.453Z",
       "lastPulledAt": "2026-11-09T16:06:01.453Z"
+    },
+    "783": {
+      "id": 783,
+      "name": "hakamo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-12T11:40:22.758Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T11:40:22.758Z",
+      "lastPulledAt": "2026-11-12T11:40:22.758Z"
     },
     "785": {
       "id": 785,
