@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-11-12T11:40:22.758Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-11-12T19:11:35.631Z",
   "lastPull": {
-    "id": 783,
-    "name": "hakamo-o",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+    "id": 484,
+    "name": "palkia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
     "types": [
-      "dragon",
-      "fighting"
+      "water",
+      "dragon"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-11-12T11:40:22.758Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-12T19:11:35.631Z"
   },
   "pulls": [
+    {
+      "id": 484,
+      "name": "palkia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-12T19:11:35.631Z"
+    },
     {
       "id": 783,
       "name": "hakamo-o",
@@ -116,18 +128,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-11-10T07:28:48.455Z"
-    },
-    {
-      "id": 226,
-      "name": "mantine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-10T00:13:17.364Z"
     }
   ],
   "pokemon": {
@@ -1138,6 +1138,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:23:57.323Z",
       "lastPulledAt": "2026-09-16T22:23:57.323Z"
+    },
+    "484": {
+      "id": 484,
+      "name": "palkia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-12T19:11:35.631Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T19:11:35.631Z",
+      "lastPulledAt": "2026-11-12T19:11:35.631Z"
     },
     "485": {
       "id": 485,
