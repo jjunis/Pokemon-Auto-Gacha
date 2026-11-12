@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-11-11T22:39:49.585Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-11-12T03:23:22.933Z",
   "lastPull": {
-    "id": 485,
-    "name": "heatran",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "id": 775,
+    "name": "komala",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
     "types": [
-      "fire",
-      "steel"
+      "normal"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-11T22:39:49.585Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-11-12T03:23:22.933Z"
   },
   "pulls": [
+    {
+      "id": 775,
+      "name": "komala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-12T03:23:22.933Z"
+    },
     {
       "id": 485,
       "name": "heatran",
@@ -117,17 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-09T16:06:01.453Z"
-    },
-    {
-      "id": 534,
-      "name": "conkeldurr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-09T06:01:25.226Z"
     }
   ],
   "pokemon": {
@@ -1758,6 +1757,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T23:35:16.730Z",
       "lastPulledAt": "2026-09-21T23:35:16.730Z"
+    },
+    "775": {
+      "id": 775,
+      "name": "komala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-12T03:23:22.933Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T03:23:22.933Z",
+      "lastPulledAt": "2026-11-12T03:23:22.933Z"
     },
     "776": {
       "id": 776,
