@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-11-13T07:15:09.528Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-11-13T15:29:19.968Z",
   "lastPull": {
-    "id": 806,
-    "name": "blacephalon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+    "id": 482,
+    "name": "azelf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
     "types": [
-      "fire",
-      "ghost"
+      "psychic"
     ],
-    "totalStats": 570,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-11-13T07:15:09.528Z"
+    "pulledAt": "2026-11-13T15:29:19.968Z"
   },
   "pulls": [
+    {
+      "id": 482,
+      "name": "azelf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T15:29:19.968Z"
+    },
     {
       "id": 806,
       "name": "blacephalon",
@@ -117,17 +127,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-11T01:25:01.451Z"
-    },
-    {
-      "id": 729,
-      "name": "brionne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-11-10T21:27:27.704Z"
     }
   ],
   "pokemon": {
@@ -1138,6 +1137,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:23:57.323Z",
       "lastPulledAt": "2026-09-16T22:23:57.323Z"
+    },
+    "482": {
+      "id": 482,
+      "name": "azelf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T15:29:19.968Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T15:29:19.968Z",
+      "lastPulledAt": "2026-11-13T15:29:19.968Z"
     },
     "484": {
       "id": 484,
