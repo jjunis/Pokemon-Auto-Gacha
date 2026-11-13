@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 151,
-  "updatedAt": "2026-11-13T15:29:19.968Z",
+  "totalPulls": 152,
+  "updatedAt": "2026-11-13T21:32:49.351Z",
   "lastPull": {
-    "id": 482,
-    "name": "azelf",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
+    "id": 570,
+    "name": "zorua",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
     "types": [
-      "psychic"
+      "dark"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-13T15:29:19.968Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-13T21:32:49.351Z"
   },
   "pulls": [
+    {
+      "id": 570,
+      "name": "zorua",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-13T21:32:49.351Z"
+    },
     {
       "id": 482,
       "name": "azelf",
@@ -116,17 +127,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-11T08:04:20.697Z"
-    },
-    {
-      "id": 594,
-      "name": "alomomola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-11T01:25:01.451Z"
     }
   ],
   "pokemon": {
@@ -1417,6 +1417,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T12:10:49.083Z",
       "lastPulledAt": "2026-09-23T12:10:49.083Z"
+    },
+    "570": {
+      "id": 570,
+      "name": "zorua",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-13T21:32:49.351Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T21:32:49.351Z",
+      "lastPulledAt": "2026-11-13T21:32:49.351Z"
     },
     "571": {
       "id": 571,
