@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-11-12T19:11:35.631Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-11-13T00:32:36.583Z",
   "lastPull": {
-    "id": 484,
-    "name": "palkia",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+    "id": 555,
+    "name": "darmanitan-standard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
     "types": [
-      "water",
-      "dragon"
+      "fire"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-12T19:11:35.631Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-11-13T00:32:36.583Z"
   },
   "pulls": [
+    {
+      "id": 555,
+      "name": "darmanitan-standard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-13T00:32:36.583Z"
+    },
     {
       "id": 484,
       "name": "palkia",
@@ -116,18 +126,6 @@
       "totalStats": 481,
       "grade": "R",
       "pulledAt": "2026-11-10T15:44:24.109Z"
-    },
-    {
-      "id": 43,
-      "name": "oddish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-10T07:28:48.455Z"
     }
   ],
   "pokemon": {
@@ -1309,6 +1307,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T03:34:53.814Z",
       "lastPulledAt": "2026-09-16T03:34:53.814Z"
+    },
+    "555": {
+      "id": 555,
+      "name": "darmanitan-standard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-13T00:32:36.583Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T00:32:36.583Z",
+      "lastPulledAt": "2026-11-13T00:32:36.583Z"
     },
     "559": {
       "id": 559,
