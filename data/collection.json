@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-11-13T00:32:36.583Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-11-13T07:15:09.528Z",
   "lastPull": {
-    "id": 555,
-    "name": "darmanitan-standard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+    "id": 806,
+    "name": "blacephalon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
     "types": [
-      "fire"
+      "fire",
+      "ghost"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-11-13T00:32:36.583Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-13T07:15:09.528Z"
   },
   "pulls": [
+    {
+      "id": 806,
+      "name": "blacephalon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T07:15:09.528Z"
+    },
     {
       "id": 555,
       "name": "darmanitan-standard",
@@ -115,17 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-10T21:27:27.704Z"
-    },
-    {
-      "id": 956,
-      "name": "espathra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-11-10T15:44:24.109Z"
     }
   ],
   "pokemon": {
@@ -1897,6 +1899,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T21:46:54.250Z",
       "lastPulledAt": "2026-11-03T21:46:54.250Z"
+    },
+    "806": {
+      "id": 806,
+      "name": "blacephalon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T07:15:09.528Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T07:15:09.528Z",
+      "lastPulledAt": "2026-11-13T07:15:09.528Z"
     },
     "819": {
       "id": 819,
