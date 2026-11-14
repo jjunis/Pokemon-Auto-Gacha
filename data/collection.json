@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 156,
-  "updatedAt": "2026-11-14T19:53:34.756Z",
+  "totalPulls": 157,
+  "updatedAt": "2026-11-14T23:41:14.137Z",
   "lastPull": {
-    "id": 326,
-    "name": "grumpig",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+    "id": 959,
+    "name": "tinkaton",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
     "types": [
-      "psychic"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-11-14T19:53:34.756Z"
+    "totalStats": 506,
+    "grade": "SR",
+    "pulledAt": "2026-11-14T23:41:14.137Z"
   },
   "pulls": [
+    {
+      "id": 959,
+      "name": "tinkaton",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 506,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T23:41:14.137Z"
+    },
     {
       "id": 326,
       "name": "grumpig",
@@ -116,18 +129,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-12T19:11:35.631Z"
-    },
-    {
-      "id": 783,
-      "name": "hakamo-o",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
-      "types": [
-        "dragon",
-        "fighting"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-11-12T11:40:22.758Z"
     }
   ],
   "pokemon": {
@@ -2266,6 +2267,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:54:33.904Z",
       "lastPulledAt": "2026-09-16T01:54:33.904Z"
+    },
+    "959": {
+      "id": 959,
+      "name": "tinkaton",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 506,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T23:41:14.137Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T23:41:14.137Z",
+      "lastPulledAt": "2026-11-14T23:41:14.137Z"
     },
     "961": {
       "id": 961,
