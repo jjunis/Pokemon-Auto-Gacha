@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 153,
-  "updatedAt": "2026-11-14T01:44:27.237Z",
+  "totalPulls": 154,
+  "updatedAt": "2026-11-14T08:07:00.183Z",
   "lastPull": {
-    "id": 632,
-    "name": "durant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+    "id": 1025,
+    "name": "pecharunt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
     "types": [
-      "bug",
-      "steel"
+      "poison",
+      "ghost"
     ],
-    "totalStats": 484,
-    "grade": "R",
-    "pulledAt": "2026-11-14T01:44:27.237Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-14T08:07:00.183Z"
   },
   "pulls": [
+    {
+      "id": 1025,
+      "name": "pecharunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-14T08:07:00.183Z"
+    },
     {
       "id": 632,
       "name": "durant",
@@ -118,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-11T22:39:49.585Z"
-    },
-    {
-      "id": 104,
-      "name": "cubone",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-11T16:06:19.750Z"
     }
   ],
   "pokemon": {
@@ -2346,6 +2347,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T08:08:29.632Z",
       "lastPulledAt": "2026-11-04T08:08:29.632Z"
+    },
+    "1025": {
+      "id": 1025,
+      "name": "pecharunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-14T08:07:00.183Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T08:07:00.183Z",
+      "lastPulledAt": "2026-11-14T08:07:00.183Z"
     }
   },
   "typeTotals": {
