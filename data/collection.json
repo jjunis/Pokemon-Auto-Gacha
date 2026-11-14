@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 154,
-  "updatedAt": "2026-11-14T08:07:00.183Z",
+  "totalPulls": 155,
+  "updatedAt": "2026-11-14T15:00:28.886Z",
   "lastPull": {
-    "id": 1025,
-    "name": "pecharunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+    "id": 725,
+    "name": "litten",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
     "types": [
-      "poison",
-      "ghost"
+      "fire"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-14T08:07:00.183Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-11-14T15:00:28.886Z"
   },
   "pulls": [
+    {
+      "id": 725,
+      "name": "litten",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-14T15:00:28.886Z"
+    },
     {
       "id": 1025,
       "name": "pecharunt",
@@ -118,18 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-12T03:23:22.933Z"
-    },
-    {
-      "id": 485,
-      "name": "heatran",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
-      "types": [
-        "fire",
-        "steel"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-11T22:39:49.585Z"
     }
   ],
   "pokemon": {
@@ -1727,6 +1725,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T23:20:49.205Z",
       "lastPulledAt": "2026-09-24T23:20:49.205Z"
+    },
+    "725": {
+      "id": 725,
+      "name": "litten",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-14T15:00:28.886Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T15:00:28.886Z",
+      "lastPulledAt": "2026-11-14T15:00:28.886Z"
     },
     "729": {
       "id": 729,
