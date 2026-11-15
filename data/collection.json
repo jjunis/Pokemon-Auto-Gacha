@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-11-15T17:35:22.007Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-11-15T22:03:46.049Z",
   "lastPull": {
-    "id": 624,
-    "name": "pawniard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "id": 5,
+    "name": "charmeleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
     "types": [
-      "dark",
-      "steel"
+      "fire"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-15T17:35:22.007Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-15T22:03:46.049Z"
   },
   "pulls": [
+    {
+      "id": 5,
+      "name": "charmeleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-15T22:03:46.049Z"
+    },
     {
       "id": 624,
       "name": "pawniard",
@@ -118,20 +128,24 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-13T21:32:49.351Z"
-    },
-    {
-      "id": 482,
-      "name": "azelf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-13T15:29:19.968Z"
     }
   ],
   "pokemon": {
+    "5": {
+      "id": 5,
+      "name": "charmeleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-15T22:03:46.049Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T22:03:46.049Z",
+      "lastPulledAt": "2026-11-15T22:03:46.049Z"
+    },
     "8": {
       "id": 8,
       "name": "wartortle",
