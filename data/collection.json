@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 158,
-  "updatedAt": "2026-11-15T03:09:25.140Z",
+  "totalPulls": 159,
+  "updatedAt": "2026-11-15T10:52:11.138Z",
   "lastPull": {
-    "id": 499,
-    "name": "pignite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+    "id": 907,
+    "name": "floragato",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
     "types": [
-      "fire",
-      "fighting"
+      "grass"
     ],
-    "totalStats": 418,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-11-15T03:09:25.140Z"
+    "pulledAt": "2026-11-15T10:52:11.138Z"
   },
   "pulls": [
+    {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-15T10:52:11.138Z"
+    },
     {
       "id": 499,
       "name": "pignite",
@@ -118,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-13T07:15:09.528Z"
-    },
-    {
-      "id": 555,
-      "name": "darmanitan-standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-13T00:32:36.583Z"
     }
   ],
   "pokemon": {
@@ -2116,6 +2115,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T02:33:59.385Z",
       "lastPulledAt": "2026-11-07T02:33:59.385Z"
+    },
+    "907": {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-15T10:52:11.138Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T10:52:11.138Z",
+      "lastPulledAt": "2026-11-15T10:52:11.138Z"
     },
     "913": {
       "id": 913,
