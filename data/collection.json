@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 157,
-  "updatedAt": "2026-11-14T23:41:14.137Z",
+  "totalPulls": 158,
+  "updatedAt": "2026-11-15T03:09:25.140Z",
   "lastPull": {
-    "id": 959,
-    "name": "tinkaton",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    "id": 499,
+    "name": "pignite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
     "types": [
-      "fairy",
-      "steel"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 506,
-    "grade": "SR",
-    "pulledAt": "2026-11-14T23:41:14.137Z"
+    "totalStats": 418,
+    "grade": "R",
+    "pulledAt": "2026-11-15T03:09:25.140Z"
   },
   "pulls": [
+    {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-11-15T03:09:25.140Z"
+    },
     {
       "id": 959,
       "name": "tinkaton",
@@ -117,18 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-13T00:32:36.583Z"
-    },
-    {
-      "id": 484,
-      "name": "palkia",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-12T19:11:35.631Z"
     }
   ],
   "pokemon": {
@@ -1202,6 +1202,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T19:14:06.813Z",
       "lastPulledAt": "2026-10-30T19:14:06.813Z"
+    },
+    "499": {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-11-15T03:09:25.140Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T03:09:25.140Z",
+      "lastPulledAt": "2026-11-15T03:09:25.140Z"
     },
     "512": {
       "id": 512,
