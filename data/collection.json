@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-11-15T22:03:46.049Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-11-16T01:57:47.132Z",
   "lastPull": {
-    "id": 5,
-    "name": "charmeleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "id": 68,
+    "name": "machamp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
     "types": [
-      "fire"
+      "fighting"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-15T22:03:46.049Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-16T01:57:47.132Z"
   },
   "pulls": [
+    {
+      "id": 68,
+      "name": "machamp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T01:57:47.132Z"
+    },
     {
       "id": 5,
       "name": "charmeleon",
@@ -117,17 +128,6 @@
       "totalStats": 484,
       "grade": "R",
       "pulledAt": "2026-11-14T01:44:27.237Z"
-    },
-    {
-      "id": 570,
-      "name": "zorua",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-13T21:32:49.351Z"
     }
   ],
   "pokemon": {
@@ -254,6 +254,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:52:36.608Z",
       "lastPulledAt": "2026-09-18T04:52:36.608Z"
+    },
+    "68": {
+      "id": 68,
+      "name": "machamp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T01:57:47.132Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T01:57:47.132Z",
+      "lastPulledAt": "2026-11-16T01:57:47.132Z"
     },
     "70": {
       "id": 70,
