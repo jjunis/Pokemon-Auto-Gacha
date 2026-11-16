@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 162,
-  "updatedAt": "2026-11-16T01:57:47.132Z",
+  "totalPulls": 163,
+  "updatedAt": "2026-11-16T09:24:53.780Z",
   "lastPull": {
-    "id": 68,
-    "name": "machamp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "id": 225,
+    "name": "delibird",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
     "types": [
-      "fighting"
+      "ice",
+      "flying"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-11-16T01:57:47.132Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-16T09:24:53.780Z"
   },
   "pulls": [
+    {
+      "id": 225,
+      "name": "delibird",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-16T09:24:53.780Z"
+    },
     {
       "id": 68,
       "name": "machamp",
@@ -116,18 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-14T08:07:00.183Z"
-    },
-    {
-      "id": 632,
-      "name": "durant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-11-14T01:44:27.237Z"
     }
   ],
   "pokemon": {
@@ -564,6 +565,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T01:44:33.862Z",
       "lastPulledAt": "2026-09-25T01:44:33.862Z"
+    },
+    "225": {
+      "id": 225,
+      "name": "delibird",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-16T09:24:53.780Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T09:24:53.780Z",
+      "lastPulledAt": "2026-11-16T09:24:53.780Z"
     },
     "226": {
       "id": 226,
