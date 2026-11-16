@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 163,
-  "updatedAt": "2026-11-16T09:24:53.780Z",
+  "totalPulls": 164,
+  "updatedAt": "2026-11-16T19:45:32.467Z",
   "lastPull": {
-    "id": 225,
-    "name": "delibird",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "id": 193,
+    "name": "yanma",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
     "types": [
-      "ice",
+      "bug",
       "flying"
     ],
-    "totalStats": 330,
+    "totalStats": 390,
     "grade": "N",
-    "pulledAt": "2026-11-16T09:24:53.780Z"
+    "pulledAt": "2026-11-16T19:45:32.467Z"
   },
   "pulls": [
+    {
+      "id": 193,
+      "name": "yanma",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-16T19:45:32.467Z"
+    },
     {
       "id": 225,
       "name": "delibird",
@@ -117,18 +129,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-11-14T15:00:28.886Z"
-    },
-    {
-      "id": 1025,
-      "name": "pecharunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
-      "types": [
-        "poison",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-14T08:07:00.183Z"
     }
   ],
   "pokemon": {
@@ -502,6 +502,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:38:01.620Z",
       "lastPulledAt": "2026-09-23T06:38:01.620Z"
+    },
+    "193": {
+      "id": 193,
+      "name": "yanma",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-16T19:45:32.467Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T19:45:32.467Z",
+      "lastPulledAt": "2026-11-16T19:45:32.467Z"
     },
     "198": {
       "id": 198,
