@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 165,
-  "updatedAt": "2026-11-17T02:38:30.214Z",
+  "totalPulls": 166,
+  "updatedAt": "2026-11-17T11:09:39.305Z",
   "lastPull": {
-    "id": 109,
-    "name": "koffing",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "id": 790,
+    "name": "cosmoem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
     "types": [
-      "poison"
+      "psychic"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-17T02:38:30.214Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-11-17T11:09:39.305Z"
   },
   "pulls": [
+    {
+      "id": 790,
+      "name": "cosmoem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-17T11:09:39.305Z"
+    },
     {
       "id": 109,
       "name": "koffing",
@@ -117,17 +128,6 @@
       "totalStats": 506,
       "grade": "SR",
       "pulledAt": "2026-11-14T23:41:14.137Z"
-    },
-    {
-      "id": 326,
-      "name": "grumpig",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-14T19:53:34.756Z"
     }
   ],
   "pokemon": {
@@ -2022,6 +2022,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T13:44:11.638Z",
       "lastPulledAt": "2026-09-18T13:44:11.638Z"
+    },
+    "790": {
+      "id": 790,
+      "name": "cosmoem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-17T11:09:39.305Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T11:09:39.305Z",
+      "lastPulledAt": "2026-11-17T11:09:39.305Z"
     },
     "792": {
       "id": 792,
