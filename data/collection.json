@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 164,
-  "updatedAt": "2026-11-16T19:45:32.467Z",
+  "totalPulls": 165,
+  "updatedAt": "2026-11-17T02:38:30.214Z",
   "lastPull": {
-    "id": 193,
-    "name": "yanma",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
+    "id": 109,
+    "name": "koffing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
     "types": [
-      "bug",
-      "flying"
+      "poison"
     ],
-    "totalStats": 390,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-11-16T19:45:32.467Z"
+    "pulledAt": "2026-11-17T02:38:30.214Z"
   },
   "pulls": [
+    {
+      "id": 109,
+      "name": "koffing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-17T02:38:30.214Z"
+    },
     {
       "id": 193,
       "name": "yanma",
@@ -118,17 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-14T19:53:34.756Z"
-    },
-    {
-      "id": 725,
-      "name": "litten",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-14T15:00:28.886Z"
     }
   ],
   "pokemon": {
@@ -394,6 +393,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-11T16:06:19.750Z",
       "lastPulledAt": "2026-11-11T16:06:19.750Z"
+    },
+    "109": {
+      "id": 109,
+      "name": "koffing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-17T02:38:30.214Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T02:38:30.214Z",
+      "lastPulledAt": "2026-11-17T02:38:30.214Z"
     },
     "115": {
       "id": 115,
