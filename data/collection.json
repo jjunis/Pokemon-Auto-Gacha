@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-11-17T11:09:39.305Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-11-17T19:50:44.410Z",
   "lastPull": {
-    "id": 790,
-    "name": "cosmoem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+    "id": 1008,
+    "name": "miraidon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
     "types": [
-      "psychic"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-11-17T11:09:39.305Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-11-17T19:50:44.410Z"
   },
   "pulls": [
+    {
+      "id": 1008,
+      "name": "miraidon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-17T19:50:44.410Z"
+    },
     {
       "id": 790,
       "name": "cosmoem",
@@ -116,18 +129,6 @@
       "totalStats": 418,
       "grade": "R",
       "pulledAt": "2026-11-15T03:09:25.140Z"
-    },
-    {
-      "id": 959,
-      "name": "tinkaton",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 506,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T23:41:14.137Z"
     }
   ],
   "pokemon": {
@@ -2515,6 +2516,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T08:08:29.632Z",
       "lastPulledAt": "2026-11-04T08:08:29.632Z"
+    },
+    "1008": {
+      "id": 1008,
+      "name": "miraidon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-17T19:50:44.410Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T19:50:44.410Z",
+      "lastPulledAt": "2026-11-17T19:50:44.410Z"
     },
     "1025": {
       "id": 1025,
