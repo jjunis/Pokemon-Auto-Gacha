@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 167,
-  "updatedAt": "2026-11-17T19:50:44.410Z",
+  "totalPulls": 168,
+  "updatedAt": "2026-11-18T02:10:03.019Z",
   "lastPull": {
-    "id": 1008,
-    "name": "miraidon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+    "id": 67,
+    "name": "machoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
     "types": [
-      "electric",
-      "dragon"
+      "fighting"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-11-17T19:50:44.410Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-18T02:10:03.019Z"
   },
   "pulls": [
+    {
+      "id": 67,
+      "name": "machoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-18T02:10:03.019Z"
+    },
     {
       "id": 1008,
       "name": "miraidon",
@@ -117,18 +127,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-15T10:52:11.138Z"
-    },
-    {
-      "id": 499,
-      "name": "pignite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 418,
-      "grade": "R",
-      "pulledAt": "2026-11-15T03:09:25.140Z"
     }
   ],
   "pokemon": {
@@ -255,6 +253,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:52:36.608Z",
       "lastPulledAt": "2026-09-18T04:52:36.608Z"
+    },
+    "67": {
+      "id": 67,
+      "name": "machoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-18T02:10:03.019Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T02:10:03.019Z",
+      "lastPulledAt": "2026-11-18T02:10:03.019Z"
     },
     "68": {
       "id": 68,
