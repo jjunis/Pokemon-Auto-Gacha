@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-11-19T00:58:39.001Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-11-19T08:37:06.260Z",
   "lastPull": {
-    "id": 938,
-    "name": "tadbulb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+    "id": 475,
+    "name": "gallade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
     "types": [
-      "electric"
+      "psychic",
+      "fighting"
     ],
-    "totalStats": 272,
-    "grade": "N",
-    "pulledAt": "2026-11-19T00:58:39.001Z"
+    "totalStats": 518,
+    "grade": "SR",
+    "pulledAt": "2026-11-19T08:37:06.260Z"
   },
   "pulls": [
+    {
+      "id": 475,
+      "name": "gallade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T08:37:06.260Z"
+    },
     {
       "id": 938,
       "name": "tadbulb",
@@ -116,17 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-16T09:24:53.780Z"
-    },
-    {
-      "id": 68,
-      "name": "machamp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-16T01:57:47.132Z"
     }
   ],
   "pokemon": {
@@ -1240,10 +1242,10 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-09-16T22:23:57.323Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:23:57.323Z",
-      "lastPulledAt": "2026-09-16T22:23:57.323Z"
+      "lastPulledAt": "2026-11-19T08:37:06.260Z"
     },
     "482": {
       "id": 482,
