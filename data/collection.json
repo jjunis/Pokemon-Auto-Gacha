@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 170,
-  "updatedAt": "2026-11-18T18:53:33.819Z",
+  "totalPulls": 171,
+  "updatedAt": "2026-11-19T00:58:39.001Z",
   "lastPull": {
-    "id": 297,
-    "name": "hariyama",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "id": 938,
+    "name": "tadbulb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
     "types": [
-      "fighting"
+      "electric"
     ],
-    "totalStats": 474,
-    "grade": "R",
-    "pulledAt": "2026-11-18T18:53:33.819Z"
+    "totalStats": 272,
+    "grade": "N",
+    "pulledAt": "2026-11-19T00:58:39.001Z"
   },
   "pulls": [
+    {
+      "id": 938,
+      "name": "tadbulb",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 272,
+      "grade": "N",
+      "pulledAt": "2026-11-19T00:58:39.001Z"
+    },
     {
       "id": 297,
       "name": "hariyama",
@@ -116,17 +127,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-16T01:57:47.132Z"
-    },
-    {
-      "id": 5,
-      "name": "charmeleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-15T22:03:46.049Z"
     }
   ],
   "pokemon": {
@@ -2372,6 +2372,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T01:43:13.050Z",
       "lastPulledAt": "2026-11-04T01:43:13.050Z"
+    },
+    "938": {
+      "id": 938,
+      "name": "tadbulb",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 272,
+      "grade": "N",
+      "pulledAt": "2026-11-19T00:58:39.001Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T00:58:39.001Z",
+      "lastPulledAt": "2026-11-19T00:58:39.001Z"
     },
     "939": {
       "id": 939,
