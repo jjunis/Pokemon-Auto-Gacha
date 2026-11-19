@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-11-19T08:37:06.260Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-11-19T17:37:41.819Z",
   "lastPull": {
-    "id": 475,
-    "name": "gallade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "id": 770,
+    "name": "palossand",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
     "types": [
-      "psychic",
-      "fighting"
+      "ghost",
+      "ground"
     ],
-    "totalStats": 518,
-    "grade": "SR",
-    "pulledAt": "2026-11-19T08:37:06.260Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-11-19T17:37:41.819Z"
   },
   "pulls": [
+    {
+      "id": 770,
+      "name": "palossand",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-19T17:37:41.819Z"
+    },
     {
       "id": 475,
       "name": "gallade",
@@ -117,18 +129,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-11-16T19:45:32.467Z"
-    },
-    {
-      "id": 225,
-      "name": "delibird",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
-      "types": [
-        "ice",
-        "flying"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-16T09:24:53.780Z"
     }
   ],
   "pokemon": {
@@ -1990,6 +1990,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T23:35:16.730Z",
       "lastPulledAt": "2026-09-21T23:35:16.730Z"
+    },
+    "770": {
+      "id": 770,
+      "name": "palossand",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-19T17:37:41.819Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T17:37:41.819Z",
+      "lastPulledAt": "2026-11-19T17:37:41.819Z"
     },
     "775": {
       "id": 775,
