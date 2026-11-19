@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-11-19T17:37:41.819Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-11-19T23:49:44.800Z",
   "lastPull": {
-    "id": 770,
-    "name": "palossand",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+    "id": 168,
+    "name": "ariados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
     "types": [
-      "ghost",
-      "ground"
+      "bug",
+      "poison"
     ],
-    "totalStats": 480,
+    "totalStats": 400,
     "grade": "R",
-    "pulledAt": "2026-11-19T17:37:41.819Z"
+    "pulledAt": "2026-11-19T23:49:44.800Z"
   },
   "pulls": [
+    {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-19T23:49:44.800Z"
+    },
     {
       "id": 770,
       "name": "palossand",
@@ -117,18 +129,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-17T02:38:30.214Z"
-    },
-    {
-      "id": 193,
-      "name": "yanma",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-11-16T19:45:32.467Z"
     }
   ],
   "pokemon": {
@@ -500,6 +500,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T12:20:04.943Z",
       "lastPulledAt": "2026-09-25T12:20:04.943Z"
+    },
+    "168": {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-19T23:49:44.800Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T23:49:44.800Z",
+      "lastPulledAt": "2026-11-19T23:49:44.800Z"
     },
     "188": {
       "id": 188,
