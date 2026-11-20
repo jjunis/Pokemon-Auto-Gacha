@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 175,
-  "updatedAt": "2026-11-20T04:26:03.706Z",
+  "totalPulls": 176,
+  "updatedAt": "2026-11-20T13:28:07.246Z",
   "lastPull": {
-    "id": 533,
-    "name": "gurdurr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "id": 611,
+    "name": "fraxure",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
     "types": [
-      "fighting"
+      "dragon"
     ],
-    "totalStats": 405,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-11-20T04:26:03.706Z"
+    "pulledAt": "2026-11-20T13:28:07.246Z"
   },
   "pulls": [
+    {
+      "id": 611,
+      "name": "fraxure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-20T13:28:07.246Z"
+    },
     {
       "id": 533,
       "name": "gurdurr",
@@ -117,17 +128,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-11-17T19:50:44.410Z"
-    },
-    {
-      "id": 790,
-      "name": "cosmoem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-11-17T11:09:39.305Z"
     }
   ],
   "pokemon": {
@@ -1708,6 +1708,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:52:25.013Z",
       "lastPulledAt": "2026-09-28T00:52:25.013Z"
+    },
+    "611": {
+      "id": 611,
+      "name": "fraxure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-20T13:28:07.246Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T13:28:07.246Z",
+      "lastPulledAt": "2026-11-20T13:28:07.246Z"
     },
     "612": {
       "id": 612,
