@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 178,
-  "updatedAt": "2026-11-21T02:44:04.633Z",
+  "totalPulls": 179,
+  "updatedAt": "2026-11-21T10:16:17.501Z",
   "lastPull": {
-    "id": 700,
-    "name": "sylveon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "id": 899,
+    "name": "wyrdeer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
     "types": [
-      "fairy"
+      "normal",
+      "psychic"
     ],
     "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-11-21T02:44:04.633Z"
+    "pulledAt": "2026-11-21T10:16:17.501Z"
   },
   "pulls": [
+    {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T10:16:17.501Z"
+    },
     {
       "id": 700,
       "name": "sylveon",
@@ -116,18 +129,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-11-18T18:53:33.819Z"
-    },
-    {
-      "id": 226,
-      "name": "mantine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-18T10:10:10.217Z"
     }
   ],
   "pokemon": {
@@ -2330,6 +2331,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T19:40:17.129Z",
       "lastPulledAt": "2026-11-07T19:40:17.129Z"
+    },
+    "899": {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T10:16:17.501Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T10:16:17.501Z",
+      "lastPulledAt": "2026-11-21T10:16:17.501Z"
     },
     "901": {
       "id": 901,
