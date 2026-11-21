@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-11-20T21:28:13.017Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-11-21T02:44:04.633Z",
   "lastPull": {
-    "id": 834,
-    "name": "drednaw",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "id": 700,
+    "name": "sylveon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
     "types": [
-      "water",
-      "rock"
+      "fairy"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-20T21:28:13.017Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-21T02:44:04.633Z"
   },
   "pulls": [
+    {
+      "id": 700,
+      "name": "sylveon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T02:44:04.633Z"
+    },
     {
       "id": 834,
       "name": "drednaw",
@@ -118,17 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-18T10:10:10.217Z"
-    },
-    {
-      "id": 67,
-      "name": "machoke",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-18T02:10:03.019Z"
     }
   ],
   "pokemon": {
@@ -1895,6 +1894,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:01:14.227Z",
       "lastPulledAt": "2026-09-24T17:01:14.227Z"
+    },
+    "700": {
+      "id": 700,
+      "name": "sylveon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T02:44:04.633Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T02:44:04.633Z",
+      "lastPulledAt": "2026-11-21T02:44:04.633Z"
     },
     "724": {
       "id": 724,
