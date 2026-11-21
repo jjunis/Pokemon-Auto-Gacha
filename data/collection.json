@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-11-21T17:38:03.829Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-11-21T22:23:35.786Z",
   "lastPull": {
-    "id": 212,
-    "name": "scizor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "id": 904,
+    "name": "overqwil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
     "types": [
-      "bug",
-      "steel"
+      "dark",
+      "poison"
     ],
-    "totalStats": 500,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-11-21T17:38:03.829Z"
+    "pulledAt": "2026-11-21T22:23:35.786Z"
   },
   "pulls": [
+    {
+      "id": 904,
+      "name": "overqwil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T22:23:35.786Z"
+    },
     {
       "id": 212,
       "name": "scizor",
@@ -119,17 +131,6 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-11-19T08:37:06.260Z"
-    },
-    {
-      "id": 938,
-      "name": "tadbulb",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 272,
-      "grade": "N",
-      "pulledAt": "2026-11-19T00:58:39.001Z"
     }
   ],
   "pokemon": {
@@ -2364,6 +2365,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T02:33:59.385Z",
       "lastPulledAt": "2026-11-07T02:33:59.385Z"
+    },
+    "904": {
+      "id": 904,
+      "name": "overqwil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T22:23:35.786Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T22:23:35.786Z",
+      "lastPulledAt": "2026-11-21T22:23:35.786Z"
     },
     "907": {
       "id": 907,
