@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 179,
-  "updatedAt": "2026-11-21T10:16:17.501Z",
+  "totalPulls": 180,
+  "updatedAt": "2026-11-21T17:38:03.829Z",
   "lastPull": {
-    "id": 899,
-    "name": "wyrdeer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+    "id": 212,
+    "name": "scizor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
     "types": [
-      "normal",
-      "psychic"
+      "bug",
+      "steel"
     ],
-    "totalStats": 525,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-11-21T10:16:17.501Z"
+    "pulledAt": "2026-11-21T17:38:03.829Z"
   },
   "pulls": [
+    {
+      "id": 212,
+      "name": "scizor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T17:38:03.829Z"
+    },
     {
       "id": 899,
       "name": "wyrdeer",
@@ -118,17 +130,6 @@
       "totalStats": 272,
       "grade": "N",
       "pulledAt": "2026-11-19T00:58:39.001Z"
-    },
-    {
-      "id": 297,
-      "name": "hariyama",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-11-18T18:53:33.819Z"
     }
   ],
   "pokemon": {
@@ -592,10 +593,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-20T21:55:46.579Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:55:46.579Z",
-      "lastPulledAt": "2026-09-20T21:55:46.579Z"
+      "lastPulledAt": "2026-11-21T17:38:03.829Z"
     },
     "213": {
       "id": 213,
