@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-11-23T03:49:32.857Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-11-23T13:44:37.617Z",
   "lastPull": {
-    "id": 280,
-    "name": "ralts",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "id": 921,
+    "name": "pawmi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
     "types": [
-      "psychic",
-      "fairy"
+      "electric"
     ],
-    "totalStats": 198,
+    "totalStats": 240,
     "grade": "N",
-    "pulledAt": "2026-11-23T03:49:32.857Z"
+    "pulledAt": "2026-11-23T13:44:37.617Z"
   },
   "pulls": [
+    {
+      "id": 921,
+      "name": "pawmi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-11-23T13:44:37.617Z"
+    },
     {
       "id": 280,
       "name": "ralts",
@@ -117,18 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-21T02:44:04.633Z"
-    },
-    {
-      "id": 834,
-      "name": "drednaw",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-20T21:28:13.017Z"
     }
   ],
   "pokemon": {
@@ -2470,6 +2468,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:23:25.218Z",
       "lastPulledAt": "2026-09-22T20:23:25.218Z"
+    },
+    "921": {
+      "id": 921,
+      "name": "pawmi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-11-23T13:44:37.617Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T13:44:37.617Z",
+      "lastPulledAt": "2026-11-23T13:44:37.617Z"
     },
     "925": {
       "id": 925,
