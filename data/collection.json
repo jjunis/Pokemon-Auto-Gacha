@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-11-22T23:18:59.370Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-11-23T03:49:32.857Z",
   "lastPull": {
-    "id": 1017,
-    "name": "ogerpon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+    "id": 280,
+    "name": "ralts",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
     "types": [
-      "grass"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-11-22T23:18:59.370Z"
+    "totalStats": 198,
+    "grade": "N",
+    "pulledAt": "2026-11-23T03:49:32.857Z"
   },
   "pulls": [
+    {
+      "id": 280,
+      "name": "ralts",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 198,
+      "grade": "N",
+      "pulledAt": "2026-11-23T03:49:32.857Z"
+    },
     {
       "id": 1017,
       "name": "ogerpon",
@@ -116,17 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-20T21:28:13.017Z"
-    },
-    {
-      "id": 611,
-      "name": "fraxure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-20T13:28:07.246Z"
     }
   ],
   "pokemon": {
@@ -844,6 +846,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:30:26.836Z",
       "lastPulledAt": "2026-09-23T01:30:26.836Z"
+    },
+    "280": {
+      "id": 280,
+      "name": "ralts",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 198,
+      "grade": "N",
+      "pulledAt": "2026-11-23T03:49:32.857Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T03:49:32.857Z",
+      "lastPulledAt": "2026-11-23T03:49:32.857Z"
     },
     "292": {
       "id": 292,
