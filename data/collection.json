@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-11-24T01:15:37.218Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-11-24T11:06:03.773Z",
   "lastPull": {
-    "id": 699,
-    "name": "aurorus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "id": 946,
+    "name": "bramblin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
     "types": [
-      "rock",
-      "ice"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-11-24T01:15:37.218Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-11-24T11:06:03.773Z"
   },
   "pulls": [
+    {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-11-24T11:06:03.773Z"
+    },
     {
       "id": 699,
       "name": "aurorus",
@@ -117,18 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-21T17:38:03.829Z"
-    },
-    {
-      "id": 899,
-      "name": "wyrdeer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T10:16:17.501Z"
     }
   ],
   "pokemon": {
@@ -2591,6 +2591,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T06:42:06.953Z",
       "lastPulledAt": "2026-09-25T06:42:06.953Z"
+    },
+    "946": {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-11-24T11:06:03.773Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T11:06:03.773Z",
+      "lastPulledAt": "2026-11-24T11:06:03.773Z"
     },
     "947": {
       "id": 947,
