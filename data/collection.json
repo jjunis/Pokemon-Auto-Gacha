@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-11-23T13:44:37.617Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-11-24T01:15:37.218Z",
   "lastPull": {
-    "id": 921,
-    "name": "pawmi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+    "id": 699,
+    "name": "aurorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
     "types": [
-      "electric"
+      "rock",
+      "ice"
     ],
-    "totalStats": 240,
-    "grade": "N",
-    "pulledAt": "2026-11-23T13:44:37.617Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-11-24T01:15:37.218Z"
   },
   "pulls": [
+    {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T01:15:37.218Z"
+    },
     {
       "id": 921,
       "name": "pawmi",
@@ -116,17 +129,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-21T10:16:17.501Z"
-    },
-    {
-      "id": 700,
-      "name": "sylveon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T02:44:04.633Z"
     }
   ],
   "pokemon": {
@@ -1924,6 +1926,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:01:14.227Z",
       "lastPulledAt": "2026-09-24T17:01:14.227Z"
+    },
+    "699": {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T01:15:37.218Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T01:15:37.218Z",
+      "lastPulledAt": "2026-11-24T01:15:37.218Z"
     },
     "700": {
       "id": 700,
