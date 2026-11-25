@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 191,
-  "updatedAt": "2026-11-25T04:10:16.025Z",
+  "totalPulls": 192,
+  "updatedAt": "2026-11-25T14:34:22.566Z",
   "lastPull": {
-    "id": 567,
-    "name": "archeops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "id": 623,
+    "name": "golurk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
     "types": [
-      "rock",
-      "flying"
+      "ground",
+      "ghost"
     ],
-    "totalStats": 567,
-    "grade": "SR",
-    "pulledAt": "2026-11-25T04:10:16.025Z"
+    "totalStats": 483,
+    "grade": "R",
+    "pulledAt": "2026-11-25T14:34:22.566Z"
   },
   "pulls": [
+    {
+      "id": 623,
+      "name": "golurk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-11-25T14:34:22.566Z"
+    },
     {
       "id": 567,
       "name": "archeops",
@@ -118,17 +130,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-22T10:15:44.101Z"
-    },
-    {
-      "id": 218,
-      "name": "slugma",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-11-22T02:30:59.915Z"
     }
   ],
   "pokemon": {
@@ -1802,6 +1803,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T22:10:55.710Z",
       "lastPulledAt": "2026-09-27T22:10:55.710Z"
+    },
+    "623": {
+      "id": 623,
+      "name": "golurk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-11-25T14:34:22.566Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T14:34:22.566Z",
+      "lastPulledAt": "2026-11-25T14:34:22.566Z"
     },
     "624": {
       "id": 624,
