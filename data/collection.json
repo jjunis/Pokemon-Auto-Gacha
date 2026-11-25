@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-11-25T14:34:22.566Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-11-25T23:17:55.480Z",
   "lastPull": {
-    "id": 623,
-    "name": "golurk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+    "id": 943,
+    "name": "mabosstiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
     "types": [
-      "ground",
-      "ghost"
+      "dark"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-11-25T14:34:22.566Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-25T23:17:55.480Z"
   },
   "pulls": [
+    {
+      "id": 943,
+      "name": "mabosstiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T23:17:55.480Z"
+    },
     {
       "id": 623,
       "name": "golurk",
@@ -119,17 +129,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-11-22T17:53:21.479Z"
-    },
-    {
-      "id": 326,
-      "name": "grumpig",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-22T10:15:44.101Z"
     }
   ],
   "pokemon": {
@@ -2640,6 +2639,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T06:42:06.953Z",
       "lastPulledAt": "2026-09-25T06:42:06.953Z"
+    },
+    "943": {
+      "id": 943,
+      "name": "mabosstiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T23:17:55.480Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T23:17:55.480Z",
+      "lastPulledAt": "2026-11-25T23:17:55.480Z"
     },
     "946": {
       "id": 946,
