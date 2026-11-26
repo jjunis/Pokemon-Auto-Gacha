@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-11-25T23:17:55.480Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-11-26T05:11:59.625Z",
   "lastPull": {
-    "id": 943,
-    "name": "mabosstiff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+    "id": 721,
+    "name": "volcanion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
     "types": [
-      "dark"
+      "fire",
+      "water"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-11-25T23:17:55.480Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-26T05:11:59.625Z"
   },
   "pulls": [
+    {
+      "id": 721,
+      "name": "volcanion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+      "types": [
+        "fire",
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-26T05:11:59.625Z"
+    },
     {
       "id": 943,
       "name": "mabosstiff",
@@ -118,17 +131,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-22T23:18:59.370Z"
-    },
-    {
-      "id": 240,
-      "name": "magby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-11-22T17:53:21.479Z"
     }
   ],
   "pokemon": {
@@ -2005,6 +2007,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-21T02:44:04.633Z",
       "lastPulledAt": "2026-11-21T02:44:04.633Z"
+    },
+    "721": {
+      "id": 721,
+      "name": "volcanion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+      "types": [
+        "fire",
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-26T05:11:59.625Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T05:11:59.625Z",
+      "lastPulledAt": "2026-11-26T05:11:59.625Z"
     },
     "724": {
       "id": 724,
