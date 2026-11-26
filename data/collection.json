@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-11-26T15:26:41.758Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-11-26T23:57:44.839Z",
   "lastPull": {
-    "id": 468,
-    "name": "togekiss",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "id": 27,
+    "name": "sandshrew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
     "types": [
-      "fairy",
-      "flying"
+      "ground"
     ],
-    "totalStats": 545,
-    "grade": "SR",
-    "pulledAt": "2026-11-26T15:26:41.758Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-26T23:57:44.839Z"
   },
   "pulls": [
+    {
+      "id": 27,
+      "name": "sandshrew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-26T23:57:44.839Z"
+    },
     {
       "id": 468,
       "name": "togekiss",
@@ -120,18 +130,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-11-23T13:44:37.617Z"
-    },
-    {
-      "id": 280,
-      "name": "ralts",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 198,
-      "grade": "N",
-      "pulledAt": "2026-11-23T03:49:32.857Z"
     }
   ],
   "pokemon": {
@@ -180,6 +178,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-24T21:08:04.309Z",
       "lastPulledAt": "2026-11-24T21:08:04.309Z"
+    },
+    "27": {
+      "id": 27,
+      "name": "sandshrew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-26T23:57:44.839Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T23:57:44.839Z",
+      "lastPulledAt": "2026-11-26T23:57:44.839Z"
     },
     "31": {
       "id": 31,
