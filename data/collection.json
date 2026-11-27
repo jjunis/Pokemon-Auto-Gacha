@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 197,
-  "updatedAt": "2026-11-27T08:00:27.972Z",
+  "totalPulls": 198,
+  "updatedAt": "2026-11-27T18:08:13.761Z",
   "lastPull": {
-    "id": 916,
-    "name": "oinkologne-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "id": 831,
+    "name": "wooloo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
     "types": [
       "normal"
     ],
-    "totalStats": 489,
-    "grade": "R",
-    "pulledAt": "2026-11-27T08:00:27.972Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-11-27T18:08:13.761Z"
   },
   "pulls": [
+    {
+      "id": 831,
+      "name": "wooloo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-11-27T18:08:13.761Z"
+    },
     {
       "id": 916,
       "name": "oinkologne-male",
@@ -118,18 +129,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-11-24T11:06:03.773Z"
-    },
-    {
-      "id": 699,
-      "name": "aurorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
-      "types": [
-        "rock",
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-11-24T01:15:37.218Z"
     }
   ],
   "pokemon": {
@@ -2366,6 +2365,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:09:51.331Z",
       "lastPulledAt": "2026-09-27T19:09:51.331Z"
+    },
+    "831": {
+      "id": 831,
+      "name": "wooloo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-11-27T18:08:13.761Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T18:08:13.761Z",
+      "lastPulledAt": "2026-11-27T18:08:13.761Z"
     },
     "834": {
       "id": 834,
