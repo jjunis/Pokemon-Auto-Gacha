@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-11-26T23:57:44.839Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-11-27T08:00:27.972Z",
   "lastPull": {
-    "id": 27,
-    "name": "sandshrew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "id": 916,
+    "name": "oinkologne-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
     "types": [
-      "ground"
+      "normal"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-26T23:57:44.839Z"
+    "totalStats": 489,
+    "grade": "R",
+    "pulledAt": "2026-11-27T08:00:27.972Z"
   },
   "pulls": [
+    {
+      "id": 916,
+      "name": "oinkologne-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-11-27T08:00:27.972Z"
+    },
     {
       "id": 27,
       "name": "sandshrew",
@@ -119,17 +130,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-11-24T01:15:37.218Z"
-    },
-    {
-      "id": 921,
-      "name": "pawmi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-11-23T13:44:37.617Z"
     }
   ],
   "pokemon": {
@@ -2563,10 +2563,10 @@
       "totalStats": 489,
       "grade": "R",
       "pulledAt": "2026-10-31T21:55:34.019Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-31T21:55:34.019Z",
-      "lastPulledAt": "2026-10-31T21:55:34.019Z"
+      "lastPulledAt": "2026-11-27T08:00:27.972Z"
     },
     "918": {
       "id": 918,
