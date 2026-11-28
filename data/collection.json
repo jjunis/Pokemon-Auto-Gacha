@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 198,
-  "updatedAt": "2026-11-27T18:08:13.761Z",
+  "totalPulls": 199,
+  "updatedAt": "2026-11-28T01:26:47.760Z",
   "lastPull": {
-    "id": 831,
-    "name": "wooloo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
+    "id": 223,
+    "name": "remoraid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 270,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-11-27T18:08:13.761Z"
+    "pulledAt": "2026-11-28T01:26:47.760Z"
   },
   "pulls": [
+    {
+      "id": 223,
+      "name": "remoraid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-28T01:26:47.760Z"
+    },
     {
       "id": 831,
       "name": "wooloo",
@@ -117,18 +128,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-11-24T21:08:04.309Z"
-    },
-    {
-      "id": 946,
-      "name": "bramblin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-11-24T11:06:03.773Z"
     }
   ],
   "pokemon": {
@@ -658,6 +657,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T01:44:33.862Z",
       "lastPulledAt": "2026-11-22T02:30:59.915Z"
+    },
+    "223": {
+      "id": 223,
+      "name": "remoraid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-28T01:26:47.760Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T01:26:47.760Z",
+      "lastPulledAt": "2026-11-28T01:26:47.760Z"
     },
     "225": {
       "id": 225,
